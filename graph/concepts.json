@@ -1,0 +1,264 @@
+{
+  "schema": "inquiry-ecology graph v1",
+  "nodes": [
+    {
+      "id": "pairing-geometry",
+      "name": "Pairing geometry",
+      "def": "pairing sets domain; starter sets form/stance; interaction sets roles",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "supported",
+      "pairing": "(meta, all runs)"
+    },
+    {
+      "id": "roles-are-verbs",
+      "name": "Roles are verbs, not nouns",
+      "def": "generator/limiter/reflector are relational assignments, not fixed persona identities",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "supported",
+      "pairing": "meta (role mobility across runs)"
+    },
+    {
+      "id": "third-mechanism-in-pairing",
+      "name": "The third mechanism lives in the pairing",
+      "def": "an arbiter/limiter can be folded into the relationship rather than bolted on",
+      "scores": {
+        "coherence": 4,
+        "relational": 5,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "supported",
+      "pairing": "distinction x boundary, significance x boundary"
+    },
+    {
+      "id": "convergence-not-synthesis",
+      "name": "Convergence does not imply synthesis",
+      "def": "every run converges; what matters is what the convergence did",
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "supported",
+      "pairing": "meta (restoration x emergence)"
+    },
+    {
+      "id": "reciprocity-principle",
+      "name": "Reciprocity principle",
+      "def": "accumulation builds the instrument, absence calibrates it",
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 4,
+        "living": 3
+      },
+      "status": "verified",
+      "pairing": "negative space x density"
+    },
+    {
+      "id": "arch-and-record",
+      "name": "The arch and its record are one structure",
+      "def": "lose the record and you lose the ability to tell a gap from a hole",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 5,
+        "living": 4
+      },
+      "status": "verified",
+      "pairing": "negative space x density (memory protocol)"
+    },
+    {
+      "id": "format-does-the-forgetting",
+      "name": "The format does the forgetting",
+      "def": "memory lives and dies in its container; forgetting is structural",
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 5,
+        "living": 4
+      },
+      "status": "verified",
+      "pairing": "ecological memory x lineage + live bug"
+    },
+    {
+      "id": "memory-changes-trajectory",
+      "name": "Memory changes trajectory, not geometry",
+      "def": "the attractor re-derives; the distinctions are memory-carried",
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 5,
+        "living": 3
+      },
+      "status": "verified",
+      "pairing": "two-session protocol + lineage + strip"
+    },
+    {
+      "id": "ecological-memory-tissue",
+      "name": "Memory can be ecological tissue",
+      "def": "external-but-constitutive memory; the organism is the pond",
+      "scores": {
+        "coherence": 4,
+        "relational": 4,
+        "viability": 3,
+        "living": 4
+      },
+      "status": "candidate",
+      "pairing": "meta (reframe)"
+    },
+    {
+      "id": "meta-ascent-depth",
+      "name": "Meta-ascent depth",
+      "def": "self-reference is graded: deep for self-recursive, shallow for forward-facing",
+      "scores": {
+        "coherence": 5,
+        "relational": 3,
+        "viability": 4,
+        "living": 3
+      },
+      "status": "supported",
+      "pairing": "same-function controls"
+    },
+    {
+      "id": "compression-resistance",
+      "name": "Compression resistance",
+      "def": "what an idea does under pressure: collapse/narrow/split/deepen/reverse",
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "supported",
+      "pairing": "metric (falsification run)"
+    },
+    {
+      "id": "memory-passing-robustness",
+      "name": "Memory-passing robustness",
+      "def": "does inherited memory survive the carrier",
+      "scores": {
+        "coherence": 4,
+        "relational": 3,
+        "viability": 4,
+        "living": 3
+      },
+      "status": "candidate",
+      "pairing": "metric (lineage runner crash)"
+    },
+    {
+      "id": "retrieval-failure-taxonomy",
+      "name": "Retrieval-failure taxonomy",
+      "def": "sediment vs index; symptom-only vs cause-bearing channel",
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 4,
+        "living": 3
+      },
+      "status": "candidate",
+      "pairing": "retrieval ecologist x pathway architect"
+    },
+    {
+      "id": "provenance-heat-number",
+      "name": "Provenance / heat number",
+      "def": "no finding trusted without its pairing, starter, model, ordering, transcript, role trace",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 5,
+        "living": 5
+      },
+      "status": "verified",
+      "pairing": "method rule (all)"
+    }
+  ],
+  "edges": [
+    {
+      "from": "pairing-geometry",
+      "to": "roles-are-verbs",
+      "type": "refines"
+    },
+    {
+      "from": "roles-are-verbs",
+      "to": "third-mechanism-in-pairing",
+      "type": "supports"
+    },
+    {
+      "from": "pairing-geometry",
+      "to": "convergence-not-synthesis",
+      "type": "relates"
+    },
+    {
+      "from": "pairing-geometry",
+      "to": "memory-changes-trajectory",
+      "type": "relates"
+    },
+    {
+      "from": "reciprocity-principle",
+      "to": "arch-and-record",
+      "type": "extends"
+    },
+    {
+      "from": "reciprocity-principle",
+      "to": "format-does-the-forgetting",
+      "type": "supports"
+    },
+    {
+      "from": "arch-and-record",
+      "to": "format-does-the-forgetting",
+      "type": "extends"
+    },
+    {
+      "from": "arch-and-record",
+      "to": "memory-changes-trajectory",
+      "type": "supports"
+    },
+    {
+      "from": "memory-changes-trajectory",
+      "to": "ecological-memory-tissue",
+      "type": "refines"
+    },
+    {
+      "from": "format-does-the-forgetting",
+      "to": "memory-passing-robustness",
+      "type": "instantiated-by"
+    },
+    {
+      "from": "format-does-the-forgetting",
+      "to": "retrieval-failure-taxonomy",
+      "type": "extends"
+    },
+    {
+      "from": "compression-resistance",
+      "to": "meta-ascent-depth",
+      "type": "sibling"
+    },
+    {
+      "from": "provenance-heat-number",
+      "to": "pairing-geometry",
+      "type": "guards"
+    },
+    {
+      "from": "provenance-heat-number",
+      "to": "reciprocity-principle",
+      "type": "guards"
+    },
+    {
+      "from": "provenance-heat-number",
+      "to": "retrieval-failure-taxonomy",
+      "type": "guards"
+    }
+  ]
+}
