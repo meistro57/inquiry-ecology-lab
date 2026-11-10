@@ -182,6 +182,71 @@
       },
       "status": "verified",
       "pairing": "method rule (all)"
+    },
+    {
+      "id": "inquiry-governance",
+      "name": "Inquiry governance telemetry",
+      "def": "per-run, blind, mechanical signals of the conversation's own health (template test, convergence!=synthesis, dormant channel, seated-and-smoothed, same-function->meta, operator distribution)",
+      "scores": {
+        "coherence": 4,
+        "relational": 4,
+        "viability": 3,
+        "living": 4
+      },
+      "status": "candidate",
+      "pairing": "meta (method, v0.1)"
+    },
+    {
+      "id": "consequence-ecology",
+      "name": "Consequence ecology telemetry",
+      "def": "longitudinal, clocked signals of the inquiry's relationship to reality and time",
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 3,
+        "living": 3
+      },
+      "status": "candidate",
+      "pairing": "meta (method, v0.1)"
+    },
+    {
+      "id": "consequence-tracker",
+      "name": "Consequence tracker",
+      "def": "what actually happened after we adopted a distinction: actions, capacities, participation, second-order effects, reality's pushback",
+      "scores": {
+        "coherence": 4,
+        "relational": 3,
+        "viability": 3,
+        "living": 3
+      },
+      "status": "candidate",
+      "pairing": "meta (proposed instrument)"
+    },
+    {
+      "id": "compost-mound",
+      "name": "Compost mound",
+      "def": "keep material that was not useful yet; it may sprout later. The storage precondition for consequence tracking",
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 3,
+        "living": 4
+      },
+      "status": "candidate",
+      "pairing": "meta (proposed instrument)"
+    },
+    {
+      "id": "health-not-correctness",
+      "name": "Health is not correctness",
+      "def": "a conversation can show beautiful internal telemetry and meet zero consequence; consequence-blind self-monitoring is the next blind spot",
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 3,
+        "living": 3
+      },
+      "status": "candidate",
+      "pairing": "meta (Appalachian's correction)"
     }
   ],
   "edges": [
@@ -259,6 +324,56 @@
       "from": "provenance-heat-number",
       "to": "retrieval-failure-taxonomy",
       "type": "guards"
+    },
+    {
+      "from": "inquiry-governance",
+      "to": "compression-resistance",
+      "type": "contains"
+    },
+    {
+      "from": "consequence-ecology",
+      "to": "consequence-tracker",
+      "type": "contains"
+    },
+    {
+      "from": "consequence-ecology",
+      "to": "compost-mound",
+      "type": "contains"
+    },
+    {
+      "from": "compost-mound",
+      "to": "consequence-tracker",
+      "type": "enables"
+    },
+    {
+      "from": "health-not-correctness",
+      "to": "inquiry-governance",
+      "type": "guards"
+    },
+    {
+      "from": "health-not-correctness",
+      "to": "consequence-ecology",
+      "type": "guards"
+    },
+    {
+      "from": "consequence-tracker",
+      "to": "memory-changes-trajectory",
+      "type": "relates"
+    },
+    {
+      "from": "compost-mound",
+      "to": "format-does-the-forgetting",
+      "type": "relates"
+    },
+    {
+      "from": "inquiry-governance",
+      "to": "meta-ascent-depth",
+      "type": "contains"
+    },
+    {
+      "from": "consequence-tracker",
+      "to": "provenance-heat-number",
+      "type": "requires"
     }
   ]
 }
