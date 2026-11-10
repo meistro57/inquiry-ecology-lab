@@ -1,0 +1,46 @@
+:root{
+  --bg:#0b1020; --panel:#121a30; --panel2:#182238; --ink:#e7ecf5; --muted:#8b97b3;
+  --indigo:#4f46e5; --amber:#f59e0b; --green:#34d399; --line:#232c48;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6}
+.hero{max-width:980px;margin:0 auto;padding:88px 24px 40px;text-align:center}
+.eyebrow{font-family:ui-monospace,monospace;color:var(--amber);letter-spacing:.2em;text-transform:uppercase;font-size:.72rem}
+h1{font-size:clamp(2.4rem,6vw,3.6rem);font-weight:800;letter-spacing:-.02em;margin:.4rem 0;background:linear-gradient(90deg,#e7ecf5,#8b9eff);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.lead{font-size:1.15rem;color:var(--muted);max-width:680px;margin:0 auto}
+.meta{margin-top:20px;display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
+.pill{font-family:ui-monospace,monospace;font-size:.8rem;background:var(--panel);border:1px solid var(--line);padding:6px 12px;border-radius:999px;color:var(--muted)}
+main{max-width:980px;margin:0 auto;padding:0 24px 80px}
+section{margin-top:72px}
+h2{font-size:1.6rem;font-weight:700;margin-bottom:14px;letter-spacing:-.01em}
+h2::before{content:"§ ";color:var(--amber)}
+p{color:var(--muted)}
+.sub{color:var(--muted);margin-bottom:18px}
+.findings{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;margin-top:22px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:22px}
+.card h3{font-size:1.02rem;margin-bottom:8px;color:var(--ink)}
+.card p{font-size:.92rem}
+.card ul{list-style:none;margin-top:6px}
+.card li{padding:5px 0;border-bottom:1px solid var(--line);font-size:.9rem;color:var(--muted)}
+.card li:last-child{border-bottom:none}
+.tag{font-family:ui-monospace,monospace;font-size:.66rem;color:var(--amber);font-weight:400;margin-left:6px}
+.two-col{display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:16px;margin-top:20px}
+.note{margin-top:12px;font-size:.85rem;border-left:2px solid var(--amber);padding-left:10px}
+.graph{background:var(--panel);border:1px solid var(--line);border-radius:16px;height:520px;position:relative;overflow:hidden}
+.graph svg{width:100%;height:100%;display:block}
+.legend{text-align:center;font-size:.8rem;color:var(--muted);margin-top:10px}
+.concept-list{list-style:none;margin-top:16px}
+.concept-list li{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin-bottom:10px}
+.concept-list .name{font-weight:700;color:var(--ink)}
+.concept-list .status{font-family:ui-monospace,monospace;font-size:.68rem;padding:2px 8px;border-radius:999px;margin-left:8px}
+.st-verified{background:rgba(52,211,153,.15);color:var(--green)}
+.st-supported{background:rgba(79,70,229,.18);color:#8b9eff}
+.st-candidate{background:rgba(245,158,11,.15);color:var(--amber)}
+.concept-list p{font-size:.9rem;margin-top:4px}
+.concept-list .scores{font-family:ui-monospace,monospace;font-size:.72rem;color:var(--muted);margin-top:6px}
+footer{border-top:1px solid var(--line);padding:28px 24px;text-align:center;color:var(--muted);font-size:.85rem}
+a{color:#8b9eff;text-decoration:none}
+a:hover{text-decoration:underline}
+.node-label{font-family:ui-monospace,monospace;font-size:10px;fill:var(--ink);pointer-events:none}
+.node-hover-label{font-family:ui-monospace,monospace;font-size:11px;fill:var(--amber)}
+@media(max-width:640px){.graph{height:400px}}
