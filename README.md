@@ -1,5 +1,7 @@
 # Inquiry Ecology Lab
 
+
+
 An experimental field notebook for studying how two AI personas, run through
 Mark's Chat Bridge, generate *concepts* — and whether the machinery (pairing,
 starter framing, and memory) changes what they produce.
