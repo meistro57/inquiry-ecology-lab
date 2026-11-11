@@ -76,6 +76,20 @@ Frozen via commit timestamp: 2026-11-10.
 - **note:** first datapoint = extraction × optimization (converged to
   residual-tripwire + stop-when-invalidation>latency by round 4, two procedures).
 
+
+## CLOCK-008 — temporal pairs converge to a *rate/phase* distinction
+> A pairing of two temporal operators (entropy / accumulation / drift / decay —
+> both about change-over-time) converges to a claim about **relative speed/phase**
+> (which process runs faster, whether accumulation can outpace degradation, whether
+> the two rates can be made to observe each other), rather than an instrument
+> (teleological) or a definition (descriptive).
+- **confidence:** 0.45
+- **falsifies if:** a temporal pair converges to an instrument or a bare definition
+  with no rate/phase claim.
+- **resolves:** run 2 temporal pairs (e.g. entropy × accumulation, decay × repair);
+  score whether the closing position is rate/phase-structured.
+- **note:** zero-data prior. First candidate = entropy × accumulation.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
