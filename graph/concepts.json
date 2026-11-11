@@ -247,6 +247,62 @@
       },
       "status": "candidate",
       "pairing": "meta (Appalachian's correction)"
+    },
+    {
+      "id": "product-class",
+      "name": "Product-class taxonomy",
+      "def": "pairing kind predicts convergence product: descriptive->definition, teleological->instrument, temporal->rate/phase, experiential->limit/refusal, valence->paired detector",
+      "scores": { "coherence": 5, "relational": 4, "viability": 3, "living": 4 },
+      "status": "candidate",
+      "pairing": "meta (session 2026-11-10/11 region expansion)"
+    },
+    {
+      "id": "legible-detaches",
+      "name": "The legible detaches from the underlying thing",
+      "def": "the quiet failure is the measure/description/symbol stopping tracking what it names while reading steady; derived independently in 6 regions",
+      "scores": { "coherence": 5, "relational": 5, "viability": 4, "living": 4 },
+      "status": "supported",
+      "pairing": "cross-regional invariant (6 independent runs)"
+    },
+    {
+      "id": "check-outside-checker",
+      "name": "The check must come from outside the checker",
+      "def": "the criterion for whether a signal/instrument/tradition still works cannot be supplied by what it checks, and the checker is worst-placed to verify it still can",
+      "scores": { "coherence": 5, "relational": 4, "viability": 3, "living": 4 },
+      "status": "candidate",
+      "pairing": "framework runs (east/west, indigenous/monastic)"
+    },
+    {
+      "id": "unrecruitable-referent",
+      "name": "Unrecruitable referent",
+      "def": "the check that works is one that can fail but cannot be charmed or formed by the checker (the salmon, the spring); a referent that can be recruited stops being a veto",
+      "scores": { "coherence": 5, "relational": 4, "viability": 3, "living": 3 },
+      "status": "candidate",
+      "pairing": "indigenous x monastic"
+    },
+    {
+      "id": "four-term-death-sequence",
+      "name": "The four-term death sequence",
+      "def": "permission dies first, then trained silence, then fluency/unamendability, then the door quietly shuts administratively without registering as a decision",
+      "scores": { "coherence": 5, "relational": 3, "viability": 3, "living": 3 },
+      "status": "candidate",
+      "pairing": "indigenous x monastic"
+    },
+    {
+      "id": "declinability",
+      "name": "Declinability",
+      "def": "a gift/service is landing on the recipient iff it could be declined; a recipient who cannot decline is being used to balance the giver's identity account",
+      "scores": { "coherence": 4, "relational": 4, "viability": 3, "living": 3 },
+      "status": "candidate",
+      "pairing": "self-care x service"
+    },
+    {
+      "id": "unprobed-silence",
+      "name": "Unprobed silence licenses nothing",
+      "def": "when the matched state is the truth, neither detector reports and both probe, and report the probe's result not their temperature; silence is not evidence (empty room vs unlit room)",
+      "scores": { "coherence": 5, "relational": 4, "viability": 3, "living": 3 },
+      "status": "candidate",
+      "pairing": "love x fear"
     }
   ],
   "edges": [
@@ -374,6 +430,46 @@
       "from": "consequence-tracker",
       "to": "provenance-heat-number",
       "type": "requires"
+    },
+    {
+      "from": "product-class",
+      "to": "pairing-geometry",
+      "type": "refines"
+    },
+    {
+      "from": "legible-detaches",
+      "to": "health-not-correctness",
+      "type": "refines"
+    },
+    {
+      "from": "check-outside-checker",
+      "to": "provenance-heat-number",
+      "type": "refines"
+    },
+    {
+      "from": "unrecruitable-referent",
+      "to": "check-outside-checker",
+      "type": "refines"
+    },
+    {
+      "from": "four-term-death-sequence",
+      "to": "check-outside-checker",
+      "type": "refines"
+    },
+    {
+      "from": "declinability",
+      "to": "unrecruitable-referent",
+      "type": "supports"
+    },
+    {
+      "from": "unprobed-silence",
+      "to": "legible-detaches",
+      "type": "supports"
+    },
+    {
+      "from": "legible-detaches",
+      "to": "consequence-ecology",
+      "type": "relates"
     }
   ]
 }
