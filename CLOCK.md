@@ -108,6 +108,12 @@ Frozen via commit timestamp: 2026-11-10.
   product is a paired detector with the metabolic asymmetry named.
 - **note:** fourth region = affective/valence. First candidate = love (expansion) × fear
   (contraction), design supplied by A.H.43.
+- **scored (2026-11-10, love×fear):** PARTIAL CONFIRM. Paired-detector + metabolic
+  asymmetry BOTH held; the "single shared axis" assumption was REFUTED — they concluded the
+  two stances track *different* currencies (fear = boundary-transition/safety, event-shaped;
+  love = standing-capacity/room, state-shaped), and that the shared-ratio story is a useful
+  audit-fiction, not the true substrate. Yield: "report the catch you didn't ask for" /
+  "probe, don't forecast" / "unprobed silence licenses nothing."
 
 ## Honest limits
 
