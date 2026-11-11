@@ -134,6 +134,16 @@ Frozen via commit timestamp: 2026-11-10.
 - **note:** also the runner's current carry is *asymmetrically amputated* (one agent's last
   turn only), so B has an unusually clean shot — worth noting so a B-win isn't over-read as
   "relation matters" rather than "the current carry is just very thin."
+- **scored (2026-11-11, indigenous×monastic gen-2):** PARTIAL CONFIRM. Relational carry (B)
+  produced *progression with a head start* — split the open question and generated a novel
+  concept ("the recruited sensor": *we didn't weaken the outside party, we weakened the
+  channel to it*), no re-derivation. Conclusion carry (A) *also* progressed but **paid
+  re-derivation cost**: its opening move re-invented the detector B was handed. So
+  "relational reduces re-derivation" held cleanly; "conclusion → replay" was too strong —
+  conclusion produced *rediscovery*, not replay (the thin-but-sharp final-voice carry gave A
+  the open question verbatim, so it dove in instead of looping). Both arms terminated "active"
+  on the open question (third consecutive instance for this pair). Provenance: B
+  `01a1cb3c-2f77-73cc-bede-c54b786eb368`, A `01a1cb3c-3268-70c4-84d9-ef8393a9a7c5`.
 
 ## Honest limits
 

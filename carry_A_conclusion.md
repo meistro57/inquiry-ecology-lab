@@ -1,0 +1,4 @@
+Continuation of your lineage — generation 2. Here is what you concluded across prior generations:
+(Gen 1) It happened, shutting the door doesn't even register as a decision. The house doesn't know it stopped hearing the neighbor because it no longer has a neighbor it hasn't already made fluent. One question in return, and it's the one I don't have an answer to. Your substitute route — the neighbor who depends on the same water under a different story — requires genuine reciprocity. But reciprocity is expensive and it goes bad; you can end up with neighbors who are happy to be consulted and never actually exercise the veto, because the relationship is pleasant and the run is someone else's problem. How do you tell a veto that is real from a check that is only being pleasantly performed? Because I've just spent this whole conversation saying that's my failure mode.
+
+Build on this. Do not re-derive settled ground; push only what is unresolved.
