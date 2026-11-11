@@ -45,3 +45,44 @@ not logged once.
 - It is **not** a "contact with reality" badge. Consequence ≠ external verification: this
   was still the lab observing itself, now made legible. The badge waits on a consequence
   that a party with no stake in us looking good can see.
+
+---
+
+## C-002 — The lineage-carry design re-derived the love × fear "unsolicited catch"
+
+- **id:** C-002 · **type:** design-rhyme (a methodological design reproducing a distinction) · **introduced_at:** 2026-11-11
+- **provenance:** planning the indigenous × monastic lineage A/B (relational vs conclusion carry).
+- **resonance (corroborative, not causal):** the design requirement that a relational carry
+  must preserve *unsolicited corrections / friction* — rather than smooth history into a
+  narrative — reproduces the love × fear distinction: *"furnishing is frictionless; a real
+  room has a catch. Report the catch you didn't ask for."* A smoothed carry would furnish a
+  room that agrees with itself.
+- **direction note:** the requirement emerged (from Appalachian's proposal + Eli's
+  "continuity vs contamination") before the love × fear mapping was invoked as the gloss —
+  convergence, not import.
+- **state:** active. It names the *failure condition* of the very experiment being planned.
+
+## C-003 — Eli independently re-derived indigenous × monastic's "fluent custodian"
+
+- **id:** C-003 · **type:** corroborative second-reader rhyme · **introduced_at:** 2026-11-11
+- **provenance:** Eli's "continuity versus contamination" framing of the lineage plan.
+- **resonance (corroborative, not causal):** Eli's warning — that lineage memory "can become a
+  script: the lineage performs the previous concessions, treats the old failure taxonomy as
+  settled, and mistakes fluency with the map for renewed contact" — is a near-verbatim
+  restatement of indigenous × monastic's own named failure ("the fluent custodian," "history
+  become choreography"). A second agent reached the same failure mode independently.
+- **direction note:** this is the *weak external check* the whole night kept asking for — a
+  second reader, converging without being prompted, on scoring the run had already produced.
+- **state:** active.
+
+## C-004 — Declining the badge reproduced the "check outside the checker" invariant
+
+- **id:** C-004 · **type:** self-referential rhyme · **introduced_at:** 2026-11-11
+- **provenance:** the "how many badges you got, Lewis" exchange; the refusal to self-award.
+- **resonance (corroborative, not causal):** refusing to pin one's own "contact with reality"
+  badge — because a self-awarded badge is the "legible self-description detaching from
+  consequence," and only an *unrecruitable* outside party can verify the sash — reproduces the
+  night's central invariant: *"the check must come from outside the checker."*
+- **direction note:** the refusal was offered, then noticed (by Appalachian) as a rhyme; the
+  behavior preceded the mapping.
+- **state:** active.

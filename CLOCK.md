@@ -115,6 +115,26 @@ Frozen via commit timestamp: 2026-11-10.
   audit-fiction, not the true substrate. Yield: "report the catch you didn't ask for" /
   "probe, don't forecast" / "unprobed silence licenses nothing."
 
+
+## CLOCK-011 — relational (unsmoothed) carry produces progression; conclusion carry produces replay
+> In a carried lineage of a framework pair (indigenous × monastic), generation >1 receives one
+> of three carries — **A** conclusion-only (current runner: final voice, 900 chars),
+> **B** relational (compressed contact-to-consequence mapping: concessions, unsolicited
+> corrections, unresolved questions, provenance), **C** none (fresh control). Prediction:
+> **B** (unsmoothed, friction-preserving) yields *progression* (the next generation encounters
+> the open question differently / builds around it) more than **A**, which yields *replay*
+> (fluent re-statement of the settled taxonomy). **Conditional:** if B is *smoothed* into a
+> narrative (friction dropped), it degenerates to replay — "a carry that furnishes a room that
+> agrees with itself."
+- **confidence:** 0.55
+- **falsifies if:** unsmoothed relational carry reduces to replay/premature-closure, *or*
+  conclusion-only carry produces progression equal to relational.
+- **resolves:** run A/B/C on indigenous × monastic; score `carry_effect` (progression /
+  productive_reopening / replay / premature_closure / stale_inheritance) per generation.
+- **note:** also the runner's current carry is *asymmetrically amputated* (one agent's last
+  turn only), so B has an unusually clean shot — worth noting so a B-win isn't over-read as
+  "relation matters" rather than "the current carry is just very thin."
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of

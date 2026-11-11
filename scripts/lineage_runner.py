@@ -11,7 +11,14 @@ Protocol (the "cheap" version — does NOT touch the bridge's internals):
 
 Usage:
   python3 lineage_runner.py --a PersonaA --b PersonaB \
-      --starter "topic text" --gens 5 --out /path/to/dir [--rounds 6]
+      --starter "topic text" --gens 5 --out /path/to/dir [--rounds 6] \
+      [--carry conclusion|relational]
+
+--carry conclusion (default): distills each generation to the final speaker's last turn.
+--carry relational: reads an operator-authored carry file per generation
+  (outdir/carry_genNN.md) — a compressed relational mapping (concessions, unsolicited
+  corrections, unresolved questions), which cannot be regex-distilled and must be written by
+  a reader. Stops with a clear error if the file is missing.
 
 Fixed 2026-11-09: startup no longer shell-string-interpolates the starter. It uses a
 subprocess ARGUMENT LIST, so arbitrary text in the carried lineage (apostrophes,
@@ -87,6 +94,7 @@ def main():
     ap.add_argument("--starter", required=True)
     ap.add_argument("--gens", type=int, default=5)
     ap.add_argument("--rounds", type=int, default=6)
+    ap.add_argument("--carry", choices=["conclusion", "relational"], default="conclusion")
     ap.add_argument("--out", default=None)
     args = ap.parse_args()
 
@@ -101,13 +109,32 @@ def main():
         if gen == 1:
             starter = base_starter
         else:
-            memory = "\n".join("(Gen %d) %s" % (i + 1, x) for i, x in enumerate(lineage))
-            starter = (
-                "Continuation of your lineage — generation %d. "
-                "Here is what you concluded across prior generations:\n%s\n\n"
-                "Build on this. Do not re-derive settled ground; push only what is unresolved."
-                % (gen, memory)
-            )
+            if args.carry == "relational":
+                carry_file = os.path.join(outdir, "carry_gen%02d.md" % gen)
+                if not os.path.exists(carry_file):
+                    sys.stderr.write(
+                        "[lineage_runner] relational carry missing: %s\n"
+                        "Author it from the gen%02d transcript (a compressed relational mapping —\n"
+                        "concessions, unsolicited corrections, unresolved questions, provenance),\n"
+                        "then re-run. This content cannot be regex-distilled.\n"
+                        % (carry_file, gen - 1)
+                    )
+                    sys.exit(2)
+                memory = open(carry_file).read().strip()
+                starter = (
+                    "Generation %d. Your lineage carries a relational record of the prior "
+                    "generation — what happened and how, not a conclusion:\n%s\n\n"
+                    "Continue from where this left off. Do not merely repeat the mapping."
+                    % (gen, memory)
+                )
+            else:
+                memory = "\n".join("(Gen %d) %s" % (i + 1, x) for i, x in enumerate(lineage))
+                starter = (
+                    "Continuation of your lineage — generation %d. "
+                    "Here is what you concluded across prior generations:\n%s\n\n"
+                    "Build on this. Do not re-derive settled ground; push only what is unresolved."
+                    % (gen, memory)
+                )
         cid, transcript, err = run_generation(args.a, args.b, starter, args.rounds,
                                                "lineage-run gen%d" % gen)
         if transcript is None:
