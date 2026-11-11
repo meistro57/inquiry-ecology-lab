@@ -165,6 +165,18 @@ Frozen via commit timestamp: 2026-11-10.
 - **note:** the "relational field" is Appalachian's term; its operational carry content is
   co-designed (see below) — the prediction is about the field/constraint distinction, not the
   exact strings.
+- **scored (2026-11-11, field-carry D):** FALSIFIED (informatively). Field-carry did NOT
+  produce novelty-drift. Gen-2 re-derived gen-1's *specific* content from the field-condition
+  alone: Indigenous re-named its own "fusion that loses the vantage"; Monastic re-named "the
+  copied text can become more real than the life it was copied toward"; both re-derived
+  "continued presence reads as validity" and the criterion-for-the-criterion question. => For
+  this pair the *constraints* are the deterministic output of the personas' attractors, so
+  field ≈ content — memory modulates only route-cost and explicitness, not destination (a
+  second-register re-derivation of CONCEPTS #2 "memory changes trajectory, not geometry").
+  **Secondary finding:** D was the FIRST time this pair finished all rounds (status
+  "completed", not stalling "active") — withholding "here is the unresolved question" removed
+  the pair's stall-on-it tendency; "recover by renewed encounter" read as license to keep
+  generating. Provenance: `01a1cb54-ec8e-738e-995f-d1c41ed740f5`.
 
 ## Honest limits
 
