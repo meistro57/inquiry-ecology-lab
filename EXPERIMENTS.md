@@ -71,6 +71,31 @@ record-decays-first (temporal), the performance (normative), the detector-readin
 (valence). Framework runs add: "the check must come from *outside the checker*, and the
 checker is worst-placed to verify it still can." See CONCEPTS.md #7 and #8.
 
+
+
+## Lineage carry A/B/C/D (2026-11-11) — the four-condition test
+
+Same pair (IndigenousTradition × MonasticTradition), same topic, same model, four carries:
+
+| Condition | Carry content | Result |
+|---|---|---|
+| C (fresh) | nothing | derived geometry from scratch |
+| A (conclusion) | final voice only, "build, don't re-derive" | progressed but *paid re-derivation cost* (re-invented B's starting premise) |
+| B (relational) | friction-mapping (concessions + unsolicited corrections + open question) | progression *with head start*; split the question; novel "recruited sensor" concept |
+| D (field-only) | form-without-content (mutual amendability, "recover by renewed encounter") | re-derived *all* specific content from the field alone; first run to reach "completed" |
+
+**Verdict (see CONCEPTS #2 upgrade + CLOCK-011/012):** memory alters *path and cost*, not
+*destination*, for a stable persona pair — the friction is the deterministic output of the two
+attractors, so field ≈ content.
+
+**Footnote (secondary, surprising):** D was the *only* condition in which the pair completed
+all rounds (status "completed"). Every prior run — fresh, conclusion, relational — stalled
+"active" on the open question. Withholding "here is the unresolved question" (and framing it
+as "recover through renewed encounter, not inheritance") read as *license to keep generating
+instead of stalling on the question*. Carrying the open question forward may itself be what
+produced the stall. Provenance: C `01a1c92e-…`, A `01a1cb3c-3268…`, B `01a1cb3c-2f77…`,
+D `01a1cb54-ec8e…`.
+
 ## Memory protocol (four generations + strip)
 Negative Space x Density, living memory:
 - Gen 1: reciprocity principle (amnesiac baseline).

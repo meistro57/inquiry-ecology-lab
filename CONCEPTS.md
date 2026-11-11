@@ -20,6 +20,17 @@ are memory-carried and die under an amnesia-strip.
 - **Why:** it cleanly resolves the whole "is memory constitutive?" argument and tells
   us exactly what a retrieval layer should be measured against.
 
+**Empirical re-derivation (2026-11-11, four-arm carry test on indigenous × monastic).**
+Fresh / conclusion-only / relational-friction / field-only carries all converged to the same
+geometry; only route cost differed. In Appalachian's (dyad) synthesis: *"Early generations
+treated memory as the vehicle by which important discoveries survive. Later generations found
+that preserving only the conditions of mutual correction could regenerate those discoveries
+without transmitting them directly. Memory primarily alters path and cost rather than
+destination; core tensions re-emerged even when their prior articulation was withheld. The
+inheritance resides less in remembered conclusions than in the fixed relational geometry of
+the pair — the discoveries are a property of who is in the room, not what they were told."*
+This upgrades #2 from two-session+strip evidence to cross-condition evidence.
+
 ## 3. "The third mechanism can live inside the pairing."
 The weighting/arbiter ("merge, prune, reject") doesn't have to be bolted on — a
 "limiter" paired with a "generator" *is* that mechanism. Roles are verbs, not nouns.
