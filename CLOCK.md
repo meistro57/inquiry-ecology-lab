@@ -145,6 +145,27 @@ Frozen via commit timestamp: 2026-11-10.
   on the open question (third consecutive instance for this pair). Provenance: B
   `01a1cb3c-2f77-73cc-bede-c54b786eb368`, A `01a1cb3c-3268-70c4-84d9-ef8393a9a7c5`.
 
+
+## CLOCK-012 — field-carry (no constraints) produces novelty-drift, not continuity
+> A fourth carry: the **relational field** — the *conditions* that made generative
+> collaboration possible (posture, reciprocity, corrigibility, "what kept us mutually
+> amendable") — carried WITHOUT the prior constraints/conclusions/resolved-friction. Against
+> the constraint-carry (B: relational-with-friction) and conclusion-carry (A). Prediction:
+> field-carry alone yields **novelty-drift** — gen-2 generates fresh distinctions and fresh
+> friction (the field is healthy) but *uncoupled* from gen-1's open question (novel on new
+> terrain, not deeper into the carried problem). Hence the field is **necessary but not
+> sufficient**: continuity-with-progression needs BOTH form (field) and content (constraint).
+> Field-alone -> drift; constraint-alone -> head-start-with-script-risk; both -> healthy.
+- **confidence:** 0.50
+- **falsifies if:** field-carry ALSO re-derives gen-1's *specific* friction/open question
+  without being handed it (the field alone regenerates the content) — that would show form
+  is sufficient to recover constraints.
+- **resolves:** run field-carry gen-2 on indigenous×monastic; score whether fresh friction is
+  coupled-to or uncoupled-from gen-1's open question.
+- **note:** the "relational field" is Appalachian's term; its operational carry content is
+  co-designed (see below) — the prediction is about the field/constraint distinction, not the
+  exact strings.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
