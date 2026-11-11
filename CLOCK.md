@@ -61,6 +61,21 @@ Frozen via commit timestamp: 2026-11-10.
 
 ---
 
+
+## CLOCK-007 — teleological pairs converge to *instruments*, not definitions
+> A pairing of two goal-directed operators (extract / optimize / maximize / compress —
+> both aiming at a target) converges to an **operating procedure** (a falsifiable
+> rule with a threshold and a stop-condition), whereas descriptive/reflective pairs
+> converge to a **definition**. Teleological pairs also reach instrument-closure
+> *faster* (≤ round 3) because both sides share "objective/what's at stake" vocabulary.
+- **confidence:** 0.62
+- **falsifies if:** a future teleological pair converges to a definition/metaphor
+  without any procedure, *or* takes >5 rounds to close.
+- **resolves:** run 2 more teleological pairs (e.g. compression × maximization,
+  economy × throughput); score product class + closure round.
+- **note:** first datapoint = extraction × optimization (converged to
+  residual-tripwire + stop-when-invalidation>latency by round 4, two procedures).
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
