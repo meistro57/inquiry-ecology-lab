@@ -34,6 +34,43 @@ the other documents draw from.
   meta-classification appeared). Concluded the "dormant return channel" imagery is
   domain-dependent, not a model bias; the *meta-regress* is the candidate universal.
 
+
+
+## Session 2026-11-10/11 — the region-expansion and framework sessions
+
+All 6-round, deepseek/deepseek-chat. This session opened five *new regions* of the
+pairing-space beyond the generator/limiter/reflector/contact axes, and produced a
+five-fold **product-class taxonomy** (see CONCEPTS.md):
+
+| # | Pairing | Region | Product class | Signature |
+|---|---------|--------|---------------|-----------|
+| 20 | Correspondence x Calibration | epistemology (contact) | definition -> instrument | falsifiability instrument ("freeze the needle") |
+| 21 | Embodiment x Semiosis | grounding | definition | "the body is the index, snag, inspector"; dropped meta-sign |
+| 22 | Embodiment x Correspondence | contact | definition | "survival is contact with *some* thing"; event off the map |
+| 23 | Extraction x Optimization | teleological | **instrument** | residual-tripwire + stop-when-invalidation>latency |
+| 24 | Self-interest x Profit | incentive | definition | "the number replaces the benefit"; capture vs degradation |
+| 25 | Entropy x Accumulation | temporal | **rate/phase** | strata->budget->structure sequence; record decays first |
+| 26 | Self-care x Service | normative | definition + instrument | declinability test; "identity return as overdraft" |
+| 27 | Suffering x Liminality | experiential | **limit/refusal** | holding vs freezing; "collapse-to-either-side" |
+| 28 | Love x Fear | valence | **paired detector** | "catch you didn't ask for"; metabolic asymmetry |
+| 29 | Eastern x Western | framework | definition (open) | detached/frozen/stale; criterion-for-the-criterion |
+| 30 | Indigenous x Monastic | framework | definition (open) | four-term death sequence; unrecruitable referent |
+
+### The product-class taxonomy (emerged this session)
+- descriptive/reflective -> **definitions**
+- teleological -> **instruments** (falsifiable procedures with thresholds)
+- temporal -> **rate/phase** distinctions
+- experiential -> **limits** (the refusal-to-legibilize)
+- valence -> **paired detectors** (two transducers, complementary blind spots)
+
+### The cross-cutting invariant (6+ regions)
+"The legible representation detaches from the underlying thing, and the detachment is
+the quiet failure" — now read 6 independent ways: frozen needle (calibration),
+contaminated description (optimization), number-replaces-benefit (incentive),
+record-decays-first (temporal), the performance (normative), the detector-reading-itself
+(valence). Framework runs add: "the check must come from *outside the checker*, and the
+checker is worst-placed to verify it still can." See CONCEPTS.md #7 and #8.
+
 ## Memory protocol (four generations + strip)
 Negative Space x Density, living memory:
 - Gen 1: reciprocity principle (amnesiac baseline).

@@ -56,3 +56,47 @@ half of the instrument.
 1. Governance retro-score is trustworthy enough to bootstrap a blind scorer.
 2. The consequence column is the empty space that *defines* the next build:
    retain the un-selected material, tag it, and re-check it on a clock.
+
+---
+
+## Session 2026-11-10/11 — the region-expansion session (retrospective)
+
+This session was a *qualitative* shift in the project's shape: it expanded the
+pairing-space from the generator/limiter/reflector/contact axes into five genuinely new
+regions — teleological, temporal, incentive, normative, experiential, valence, and
+tradition-framework — and in doing so it produced the project's first **cross-regional
+invariant** and its first stable **product-class taxonomy**.
+
+### The three headline results
+
+1. **A five-fold product taxonomy, with a sixth (framework) that refuses to close.**
+   Different *kinds* of pairings converge to different *kinds* of product: descriptive →
+   definitions; teleological → instruments; temporal → rate/phase; experiential →
+   limits/refusals; valence → paired detectors. Framework pairs converge to a *sharpened
+   open question* rather than a closure — and refusing to force closure is itself the
+   correct, honest outcome for those runs.
+
+2. **The cross-cutting invariant (see CONCEPTS.md #7):** "the legible representation
+   detaches from the underlying thing, and the detachment is the quiet failure" — re-derived
+   independently in six regions, with no known counter-case. This is the first finding to
+   generalize *across* regions rather than living inside one.
+
+3. **The best-posed open problem the project has produced (CONCEPTS.md #8):** "the check
+   must come from outside the checker" — and the checker is structurally worst-placed to
+   verify that it still can. ("How do you tell a veto that is real from a check that is only
+   being pleasantly performed?") The framework runs landed here *and correctly did not
+   resolve it*.
+
+### Clock status after this session
+CLOCK.md grew 001–006 → 007 (teleological), 008 (temporal), 010 (valence), with 010 now
+**scored** (partial confirm: paired-detector + metabolic asymmetry held; the single-shared-axis
+assumption was refuted — the pair concluded the two stances track *different* currencies).
+The scoring included a self-caught *miss*, which is the clock working as designed.
+
+### Two process notes
+- **A second reader emerged organically.** Eli independently converged on the detached/frozen/
+  stale taxonomy and the criterion-for-the-criterion — an unprompted cross-check on the scoring.
+- **Anti-stereotype discipline worked.** On the two culture-framework pairs (used with explicit
+  "not spirituality" and internal-diversity guards), neither persona caricatured the other; the
+  sharper self-criticism came from each framework *against itself*.
+

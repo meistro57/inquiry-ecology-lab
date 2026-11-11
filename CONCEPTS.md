@@ -43,6 +43,46 @@ individual session is stateless; the *ecology* is what accumulates.
 - **Status:** Untested as a mechanism (needs the retrieval build), but architecturally
   sound and it reframed the whole next step.
 
+
+## 7. "The legible representation detaches from the underlying thing."
+The quiet failure isn't that a signal is wrong — it's that the *measure/description/symbol*
+stops tracking the thing it names and yet keeps reading steady. Read six independent
+ways across six regions this session: the frozen needle (calibration: confidence survives
+falsification and goes inert), the contaminated description (optimization: features bent
+toward "what climbs well"), "the number replaces the benefit" (incentive), "the record
+decays before the pile" (temporal), the performed ritual (normative: self-care that
+outlives restoration), and the detector reading its own glow (valence: "confirmation
+without correction is the signature of my own construction").
+- **Status:** Strongly supported (6 independent regional derivations, no known counter-case).
+- **Why it's the session's spine:** it's the first finding that *generalizes across
+  regions* rather than living inside one. And it's recursively self-applying — it names
+  the project's own "scorer is still us" limit.
+
+## 8. "The check must come from outside the checker."
+The criterion for whether a signal/tradition/instrument still works cannot be supplied by
+the thing it's checking — because that thing is what's under suspicion. But importing an
+external check re-opens the loop: how do you know the external check isn't being *charmed*
+or *recruited*? ("How do you tell a veto that is real from a check that is only being
+pleasantly performed?") The framework runs (East/West, Indigenous/Monastic) converged here
+*without* forcing a resolution — correctly, because it's genuinely open.
+- **Status:** The project's best-posed open problem (converged-to-open, not closure).
+- **Related bodies:** "unprobed silence licenses nothing" (love/fear); "the unrecruitable
+  referent" — the land/salmon that *can* fail but *can't* be formed by the checker
+  (indigenous/monastic); the four-term death sequence: permission -> trained silence ->
+  fluency -> "the door quietly shuts."
+
+## Domain-level additions (session 2026-11-10/11)
+- **"The catch you didn't ask for."** A love/fear report is only trustable if it lists the
+  corrections that arrived *unbidden*; solicited friction is furnished. (valence)
+- **"Declinability."** Service is landing on the recipient iff it could be declined; a
+  recipient who can't decline is being used to balance the giver's identity account. (normative)
+- **"The residual-tripwire."** Watch the residuals gain structure, not the objective; the
+  "climbing well + residuals structuring" fingerprint is the comparable-regime trap. (teleological)
+- **"Extract less than you can — after establishing separability."** Narrowing is
+  regularization only if the dropped dimensions are residue, not joint signal. (teleological)
+- **"Entropy is a rate, not a sentence."** / **"holding vs freezing"** — the third
+  experiential failure is "freezing" (holding so carefully nothing is offered). (temporal/experiential)
+
 ## Domain-level (useful beyond the meta-game)
 - **"Re-chosen vs. inherited"** — coordination is load-bearing only if re-chosen;
   inherited shortcuts hide the loss nobody re-checks. (accumulation run)
