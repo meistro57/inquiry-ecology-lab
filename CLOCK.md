@@ -90,6 +90,25 @@ Frozen via commit timestamp: 2026-11-10.
   score whether the closing position is rate/phase-structured.
 - **note:** zero-data prior. First candidate = entropy × accumulation.
 
+
+## CLOCK-010 — valence pairs converge to a *paired detector* with metabolic asymmetry
+> A pairing of two valence-differentiated relational stances (love = detects/produces
+> **expansion**, fear = detects/produces **contraction**) converges to a **paired-detector**
+> product: two transducers on one axis, where the honest instrument keeps *both* online and
+> cross-checks them (each is blind to the other's signal, and a single channel can't
+> distinguish "the world moved" from "my detector is reading my own state"). They also assert
+> a metabolic asymmetry: **fear = low activation-cost / high maintenance-cost** (fast, cheap
+> to light, expensive when chronic, contracts capacity), **love = high activation-cost / low
+> maintenance-cost** (slow, costly to kindle, generative once lit, expands capacity).
+- **confidence:** 0.40
+- **falsifies if:** the pair converges to a bare definition/sentiment with no detector
+  mechanics, *or* asserts the reverse metabolic asymmetry (fear cheap-to-sustain, love
+  expensive-to-sustain), *or* lands on a single-channel ("trust your fear/love") prescription.
+- **resolves:** run 2 valence pairs (e.g. hope × dread, trust × vigilance); score whether the
+  product is a paired detector with the metabolic asymmetry named.
+- **note:** fourth region = affective/valence. First candidate = love (expansion) × fear
+  (contraction), design supplied by A.H.43.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
