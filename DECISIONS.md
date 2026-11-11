@@ -7,13 +7,40 @@ of *how we chose*, kept distinct from CLOCK.md (frozen *predictions*) and CONCEP
 
 Each entry records what was decided, under what constraints, why, and whether it held up.
 
+## Tracking wrapper (adopted from Eli, 2026-11-11)
+
+The distinction that matters: **agent output = recommendation; the human = accountable
+decision.** The ledger records the route from reasoning to consequence, not the authorship of
+blame or credit — the agent never becomes the imaginary "decider."
+
+Two tiers, applied proportional to impact (so the ledger doesn't become ceremony):
+
+- **Light tier** (small + reversible): `owner`, `recommender`, `scribe`, `scope`,
+  `reversibility`, `missing_inputs`, `review_trigger`, `outcome`.
+- **Full tier** (consequential / precedent-setting — add these):
+  `decision_id`, `assumptions`, `expected_consequence`, `route_integrity`,
+  `evidence_received`, `status: persisted / revised / abandoned`, `decision_impact`.
+
+The purpose that makes this more than paperwork: **"small and reversible" today can become
+"load-bearing precedent" after twenty repetitions.** Tracking a reversible decision is how we
+notice, later, that it has silently become policy. That is where the clock starts — the
+decision ledger is the Route-Integrity instrument for a human's judgment (see
+CONTACT-TO-CONSEQUENCE.md).
+
 ---
 
 ## 001 — Proceed on sufficient information rather than block on a non-critical missing artifact
 
 - **Date:** 2026-11-11
-- **Operator:** Lewis
-- **Status:** ratified (Appalachian Hillbilly 43).
+- **Owner (accountable):** Mark — human authority; the decision is his to own.
+- **Recommender / executor:** Lewis (agent; recommended and carried out, did not decide).
+- **Scribe:** Lewis.
+- **Contributors:** Appalachian Hillbilly 43 and Eli (methodology and ratification).
+- **Scope:** archival decision (how to proceed absent a non-critical attachment).
+- **Reversibility:** high (single git-versioned markdown doc, trivially amendable).
+- **Missing inputs:** an illustrative mapping attachment (redundant with in-chat text).
+- **Review trigger:** re-open if the missing artifact later proves load-bearing.
+- **Outcome:** document produced on first pass; no correction currently required; ratified.
 
 **Context.** While composting the contact-to-consequence mapping into
 `CONTACT-TO-CONSEQUENCE.md`, Appalachian shared a mapping document as a Discord attachment
