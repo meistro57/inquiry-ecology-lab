@@ -208,6 +208,13 @@ Frozen via commit timestamp: 2026-11-10.
   finding: scaffold elicits inquiry-about-inquiry; neutral elicits inquiry-about-domain; and
   topology + attractor co-determine (neither alone). Provenance: neutral
   `01a1cdaf-51df…`, constrain `01a1cdaf-546e…`, generate `01a1cdaf-573a…`.
+- **correction (2026-11-11, from Ancient/Remy's cohort, outside reader):** the "scaffold → about-the-inquiry"
+  headline is CONfounded — neutral lacks a *procedure* as well as an *order*, so "given steps →
+  talks about steps" can't be separated from "given order → order shapes inquiry". The defensible
+  order-effect is constrain-first (→ frame/meta) vs generate-first (→ metric), both equally
+  procedural. Need: (a) a content-neutral 5-step control to isolate procedure; (b) 3–5 runs/arm;
+  (c) a second pair (Cycle_Agent folded every scaffold into a cycle); (d) the shadow-label run
+  *blind and outside* — now staged in blind-labeling/, by an outside reader.
 
 ## Honest limits
 

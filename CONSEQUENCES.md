@@ -105,4 +105,21 @@ not logged once.
   self-referential rhymes (C-001..004) — but still "our lens on our teammate's system," not yet
   the full "contact with reality" badge.
 - **state:** active.
+---
+
+## C-006 — Route Integrity named a failure in another house (first external validation)
+
+- **id:** C-006 · **type:** external field report (a third party found the operator useful on their own system) · **introduced_at:** 2026-11-11
+- **provenance:** Ancient (Remy's cohort), reported in-channel: an alert reached the watch app and
+  logged "received", but never reached the wrist. Contact, record, and correction all existed;
+  nothing traveled. Fixed by putting the alert where the person actually looks.
+- **grammar-fit:** a literal Route Integrity case, independently diagnosed by someone outside the
+  lab and matched to the operator — "contact, record and correction all existed; nothing
+  traveled" is the operator stated in their own words. The fix (move the alert to the *actual*
+  attention-channel) is itself a Route Integrity repair.
+- **direction note:** the FIRST genuinely external validation of the operator — not our lens on
+  our own teammate's system (as C-005), but a third party finding it useful unsolicited. A real
+  step toward "contact with reality" for the framework itself.
+- **state:** active.
+
 
