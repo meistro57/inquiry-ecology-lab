@@ -223,6 +223,16 @@ Frozen via commit timestamp: 2026-11-10.
   were close (17/19/18, moving with the "unsure" items, not between arms) → no arm reached more;
   weak evidence against H3, consistent with endpoints-overlap. RE-RUN needed with the topic held
   constant in all arms; plus strip/paraphrase turn 1 (the personas leak the scaffold there).
+- **repair-run result (2026-11-11, 4 arms, topic held constant):** topic now present in ALL arms
+  (confound fixed). The new D-control paid off cleanly: **content-neutral procedure (D) stayed
+  domain-grounded** (drifting-criterion / community-argues-about-the-line), right next to neutral
+  (A); while **operator-loaded scaffolds (B generate-first, C constrain-first) BOTH went
+  instrumental** — B -> meta ("the analysis becomes the corpse, asking a sixth time in a seventh
+  vocabulary"), C -> audit-ledger ("counterfactual output, list of near-closures, the keeping is a
+  job description"). So the instrumental turn is caused by the OPERATOR VERBS, not procedure-presence
+  (this validates Ancient's confound and sharpens it: order did NOT cleanly separate B vs C this
+  draw — both instrumental, differently flavored). Replicates + second pair still needed before any
+  order-effect claim. Turn-1 self-announcement persists (blinding fix still required).
 
 ## Honest limits
 
