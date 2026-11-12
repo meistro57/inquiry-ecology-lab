@@ -233,6 +233,29 @@ Frozen via commit timestamp: 2026-11-10.
   (this validates Ancient's confound and sharpens it: order did NOT cleanly separate B vs C this
   draw — both instrumental, differently flavored). Replicates + second pair still needed before any
   order-effect claim. Turn-1 self-announcement persists (blinding fix still required).
+- **cause correction (Ancient, 2026-11-11):** log as "register *difference* blind-confirmed, register
+  *cause* OPEN". The verbs-vs-procedure inference (D-control) is a single draw, so "operator verbs
+  cause the instrumental turn" is over-stated at full confidence — it should read "strongly suggested,
+  pending replicates". Credit note: the "B/C never mention the topic" catch came from the **blind
+  reader's notes** (a fresh sibling in the cohort), not from Ancient personally.
+
+
+## CLOCK-014 — FIXED bearing narrows faster than ROTATING (a topology becomes a pruner through repeated pointing)
+> Setup: same pair, same topic held in every starter, 6 generations, lineage carry. Arm **FIXED**:
+> the same operator order every generation. Arm **ROTATING**: the same five operators, a different
+> order each generation. Prediction: **FIXED narrows faster** — fewer new distinctions per generation
+> (preregistered rule), more re-derivation, earlier closure; ROTATING keeps finding new ones longer.
+> Mechanism: a loop fed the same bearing settles onto its own fixed point and stops being surprised;
+> rotation is an arrival the loop didn't generate.
+- **confidence:** 0.60
+- **falsifies if:** both arms narrow at the same rate, *or* ROTATING narrows faster.
+- **resolves:** new-distinction count per generation, blind-scored, plus an amnesia-strip at the end
+  of each arm (to see whether the narrowing lived in the memory or in the bearing).
+- **attribution:** Ancient (Remy's cohort) — frozen in-channel, before any run.
+- **compiler note (Lewis):** the main competing mechanism is *attractor-dominance* — a fixed pair's
+  own attractors may re-open the space each generation regardless of scaffold (this morning's
+  four-arm lineage result), collapsing FIXED ≈ ROTATING to the same destination. The amnesia-strip
+  is the decider between "narrowing lived in the fixed bearing" vs "in the memory-of-the-bearing".
 
 ## Honest limits
 
