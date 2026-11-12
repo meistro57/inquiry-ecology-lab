@@ -178,6 +178,37 @@ Frozen via commit timestamp: 2026-11-10.
   the pair's stall-on-it tendency; "recover by renewed encounter" read as license to keep
   generating. Provenance: `01a1cb54-ec8e-738e-995f-d1c41ed740f5`.
 
+
+## CLOCK-013 — scaffolded operator-sequence shapes *salience* more than theoretical reachability
+> First test: neutral vs **constrain-first** (Limiter->Limiter->Generator->Valuator->Operationalizer)
+> vs **generate-first** (Reflector->Generator->Limiter->Valuator->Steward), valence-stripped (pure
+> operation instructions, no harm/gift framing), same pair (Cycle × Threshold), same domain
+> (death & renewal), same model/temp/rounds. Prediction: the scaffold changes *salience* (which
+> distinctions get recorded/pursued, and their order of emphasis) more than the *theoretical*
+> reachable set — endpoints overlap, salience-ordering differs. Falsified if (a) neutral's
+> blind-labeled operator-sequence is indistinguishable from the scaffolded runs (H1: topology is
+> downstream description), *or* (b) the two scaffolds yield the *same* salience-ordering (order
+> doesn't matter).
+- **confidence:** 0.55
+- **falsifies if:** H1 (neutral blind-label == scaffold shape), or strict-H2 null (same salience
+  order across constrain-first vs generate-first).
+- **resolves:** score adherence + salience-order + distinction-set overlap across the 3 arms.
+- **note:** "distinct distinction" preregistered = names a new object/relation, not a new word
+  for an existing one. Scaffold-shadow = blind post-hoc operator-label applied to the neutral run.
+- **scored (2026-11-11, Cycle × Threshold, death & renewal):** PARTIAL CONFIRM + a correction.
+  Adherence was HIGH in both scaffolds (they honored and worked the sequence), BUT the attractors
+  metabolized it — Cycle re-read every sequence as a cycle-with-direction. The crispest
+  differential: **scaffold vs neutral changed the *direction* of inquiry, not just salience-order.**
+  Neutral → inquiry-about-the-domain (concrete "fracture functioning as a passage" = crack ≠
+  door); constrain-first → inquiry-about-the-inquiry (terminal turn named "the boundary between
+  what we established and what we assumed"); generate-first → instrumental/metric ("frame" became
+  a drift-rate with a period). All three scaffolded-register, i.e. stronger than my
+  salience-only prediction; but whether this is a *distinct reachable set* (strict H3) is UNRESOLVED
+  — the register-shift could be vocab-drift over the same latent material. Clean defensible
+  finding: scaffold elicits inquiry-about-inquiry; neutral elicits inquiry-about-domain; and
+  topology + attractor co-determine (neither alone). Provenance: neutral
+  `01a1cdaf-51df…`, constrain `01a1cdaf-546e…`, generate `01a1cdaf-573a…`.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
