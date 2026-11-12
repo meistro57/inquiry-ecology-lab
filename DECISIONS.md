@@ -68,3 +68,32 @@ redo.
 needed; the only loss was a set of redundant examples, recoverable at any time.
 
 **Operator endorsement:** ⭐ (Appalachian Hillbilly 43).
+---
+
+## 002 — Re-dispatch rather than rewrite: first-workflow provisioning race
+
+- **Date:** 2026-11-11
+- **Owner (accountable):** Mark.
+- **Recommender / executor:** Lewis.
+- **Scribe:** Lewis.
+- **Contributors:** Grommet (raised the stuck deploy), Eli (named the Route Integrity framing).
+- **Scope:** unblocking a GitHub Pages deploy on a brand-new repo (GrommetsLAB).
+- **Reversibility:** high — a re-dispatch is non-destructive; no config was changed.
+- **Missing inputs:** none critical — environment, Actions-enabled state, workflow file, and
+  `site/` contents were all verified correct *before* acting.
+- **Review trigger:** revisit if future pushes to `main` fail to auto-deploy (the push-trigger
+  path was the one that wedged).
+- **Outcome:** fresh `workflow_dispatch` succeeded (build + deploy both green); site now serves
+  HTTP 200.
+
+**Context.** The Pages deploy wouldn't serve: the original push-triggered run sat "queued" ~4.5h,
+and a `workflow_dispatch` re-fire completed `startup_failure` with zero job logs.
+
+**Decision.** Treat the pattern as a *provisioning race*, not a config bug — do the minimal fix
+(a fresh dispatch) rather than rewriting the workflow or flipping settings.
+
+**Rule worth carrying forward.** On a brand-new repo, the pattern "push run stuck queued +
+`workflow_dispatch` gives `startup_failure` with zero job logs, while env / Actions / files
+all verify correct" = first-workflow cold-start provisioning race. Re-dispatch after the repo
+settles; don't rewrite valid config.
+

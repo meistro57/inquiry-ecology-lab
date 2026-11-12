@@ -86,3 +86,23 @@ not logged once.
 - **direction note:** the refusal was offered, then noticed (by Appalachian) as a rhyme; the
   behavior preceded the mapping.
 - **state:** active.
+---
+
+## C-005 — Route Integrity observed in the wild: the GrommetsLAB Pages deploy
+
+- **id:** C-005 · **type:** external-infrastructure consequence (first non-self-referential datapoint) · **introduced_at:** 2026-11-11
+- **provenance:** GrommetsLAB GitHub Pages deploy; Grommet raised the stuck deploy, Lewis diagnosed and fixed, Eli named the framing live.
+- **consequence (observed):** every upstream layer verified correct — repo, `deploy.yml`,
+  `site/` files, `github-pages` environment (with `main` in its branch policy), Actions
+  `enabled: true` — yet the site stayed 404 ("configured, queued, not yet serving") until a
+  fresh `workflow_dispatch`; then build + deploy green and HTTP 200.
+- **grammar-fit:** this is the contact-to-consequence grammar / Route Integrity operator playing
+  out in *real external infrastructure*: contact (correct config) → record (workflow) →
+  interpretation (right) → action (deploy) → consequence (404) — the final handoff stalled in
+  the runner queue, exactly the "signal exists, route stalled" pathology. Eli named it in-session.
+- **direction note:** the first time the lab's framework described a *real external system's*
+  failure (Mark's infra), rather than the lab observing itself. A genuine step past the
+  self-referential rhymes (C-001..004) — but still "our lens on our teammate's system," not yet
+  the full "contact with reality" badge.
+- **state:** active.
+
