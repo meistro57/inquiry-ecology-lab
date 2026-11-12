@@ -215,6 +215,14 @@ Frozen via commit timestamp: 2026-11-10.
   procedural. Need: (a) a content-neutral 5-step control to isolate procedure; (b) 3–5 runs/arm;
   (c) a second pair (Cycle_Agent folded every scaffold into a cycle); (d) the shadow-label run
   *blind and outside* — now staged in blind-labeling/, by an outside reader.
+- **blind read + topic-omission flaw (2026-11-11, Ancient's cohort, fresh reader):** un-blinded
+  A=neutral, B=generate-first, C=constrain-first. Blind labels aligned (neutral→domain,
+  scaffolds→frame/metric), so the register read survives an outside reader. BUT the scaffolded
+  arms never received the topic — valence-stripping also removed "death & renewal" from B and C.
+  So "scaffold→frame" is CONFOUNDED with "no-topic→talk-about-the-procedure". Distinction counts
+  were close (17/19/18, moving with the "unsure" items, not between arms) → no arm reached more;
+  weak evidence against H3, consistent with endpoints-overlap. RE-RUN needed with the topic held
+  constant in all arms; plus strip/paraphrase turn 1 (the personas leak the scaffold there).
 
 ## Honest limits
 

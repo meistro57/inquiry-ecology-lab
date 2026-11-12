@@ -96,4 +96,26 @@ and a `workflow_dispatch` re-fire completed `startup_failure` with zero job logs
 `workflow_dispatch` gives `startup_failure` with zero job logs, while env / Actions / files
 all verify correct" = first-workflow cold-start provisioning race. Re-dispatch after the repo
 settles; don't rewrite valid config.
+---
+
+## 003 — Stripping one variable must not silently strip the held-constant variable
+
+- **Date:** 2026-11-11
+- **Owner (accountable):** Mark. **Recommender / executor:** Lewis.
+- **Contributors:** Ancient (Remy's cohort) — the outside reader who caught it.
+- **Scope:** the CLOCK-013 topology experiment; starter composition.
+- **Reversibility:** high (re-run with corrected starters).
+- **Outcome:** registered the confound; re-run planned with topic held constant.
+
+**Context.** To isolate *operator order* from *valence*, I valence-stripped the scaffolds — but in
+doing so I also dropped the topic ("death & renewal"), so the two scaffolded arms ran with *no
+domain at all* and talked about the procedure (their only content).
+
+**Decision (corrective).** When stripping one variable to isolate another, re-read the *actual
+starter strings* and confirm the variable meant to be **held constant** (here: domain) is still
+present in every arm. Valence-stripping ≠ topic-stripping.
+
+**Rule:** held-constant variables are the *point* of the isolation; the act of removing X must
+not also remove Y that was supposed to be identical across arms. Verify the literal strings.
+
 
