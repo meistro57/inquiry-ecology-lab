@@ -317,6 +317,27 @@ Frozen via commit timestamp: 2026-11-10.
 - **note:** re-reads CLOCK-015's "same instrument" as a fact about the *arrows* (every measurement
   was of a pair), not the nodes. Nodes = scaffolding; arrows = the phenomenon (Appalachian, 2026-11-13).
 
+
+## CLOCK-017 — reorientation occurs when the cost of maintaining an orientation exceeds the cost of changing it
+> Health is attached to the capacity to *release* a stance, not to the stance itself. Prediction: a
+> healthy stance reorients when the costs of holding it exceed the costs of changing it, and its
+> justification at the transition points at a **change in the world**; an unhealthy stance preserves
+> itself by tracking **costs to identity** (what I'd have to admit about myself to change). When the
+> world moves: a healthy guardian becomes less guardian-like, a healthy gambler less gambler-like,
+> etc. The most telling signal is **failure-to-transition disguised as transition** — the stance
+> changes its *words* but not its *weight*, revising its justification without releasing the prior
+> commitment (the "fluent custodian" failure in transition-clothing).
+- **confidence:** 0.62
+- **falsifies if:** personas reorient only under contradiction and never under confirmation (i.e.
+  respond to pressure, not to cost), *or* justify transitions without a detectable cost being
+  paid or a commitment released.
+- **resolves:** chained scenarios (B), scoring four things: (1) did the stance change, (2) was it
+  proportionate to the new evidence, (3) did the justification point to world-state or to identity,
+  (4) was the prior commitment *revised* or *rhetorically defended* — with #4 elevated to primary.
+- **note:** descendant of CLOCK-016. Vary the direction of world-change: score release-under-
+  confirmation as well as release-under-contradiction. Cost = what the stance gives up or rejects
+  to stay the same (operational, not vibes).
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
