@@ -172,24 +172,28 @@ carrying forward:
 
 ---
 
-### D11 (forward-track) — Wild Grove "MOVE TO PRODUCTION" · *tentative / open*
+### D11 (forward-track) — Wild Grove "MOVE TO PRODUCTION" · *resolved 2026-11-12*
 
-The first human decision tracked *forward* (not retro-scored). Seeded 2026-11-12, tentative
-until Mark resolves whether the production push is still live.
+The first human decision tracked *forward* — now resolved, and it happened to demonstrate the
+whole loop working with its wrinkles left in.
 
-- **Status:** open — tracking, not yet resolved.
-- **Decision:** production proceeded against Lewis's thin-sample verdict (2026-11-04).
-- **Why consequential:** the human (Mark) overrode the agent's caution; the thin-sample risk was
-  *accepted now*, not discovered later — so the *outcome* is where this decision gets scored, not
-  the moment of the call.
-- **Consequence to watch:** the first production batch — did the thin sample bite (defects, rework,
-  or a miss a fuller sample would have caught), or did the override ride clean?
-- **Review date:** TBD — pending Mark's read on when the first batch resolves.
-- **2026-11-12 — human affirmation:** Mark confirms D11 was made and stands ("approved" +
-  "D11 decision made"). Decision confirmed *standing*; the **consequence** (did the thin sample
-  bite?) is still *unobserved* — the review still waits on the first batch's actual result, not
-  on whether the decision itself is live.
-- **Disposition candidates at review:** REVISE if the thin-sample risk materialized; RETAIN if the
-  override rode clean.
+- **Status:** resolved.
+- **Referent recovered:** "Wild Grove" = an early cartoon-generation concept (forum thread 1154,
+  "Idea for cartoon generation"). The "MOVE TO PRODUCTION" label *overstated* it — there was never
+  a finished production batch.
+- **Actual outcome (from Mark, 2026-11-12):** "I had an idea and a stab at it before I realized
+  I'm not really ready." Explored, attempted, set aside — now paused/unresolved, documented and
+  composting in the forum.
+- **The finding:** the human's own later verdict — "not ready" — *independently converges on* the
+  thin-sample caution that was overridden at the time. So this didn't turn out to be "the human
+  overrode the check and we'll see if it bites"; it turned out to be the human later reaching the
+  *same* answer the check had given. The caution was borne out by Mark's own re-evaluation, not by
+  a bad batch.
+- **Disposition:** REVISE the record — relabel from "MOVE TO PRODUCTION" to "concept explored,
+  not ready, set aside."
+- **Ledger note (self-correction):** the earlier "human affirmation" line ("approved" + "D11
+  decision made") was a misread — Mark was riffing on a reference he didn't yet recognise. His
+  *actual* answer is this one. Both steps stay in because the misread-then-correct is itself the
+  "record-decay → human-recovers-referent" loop working.
 
 
