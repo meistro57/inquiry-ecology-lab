@@ -141,6 +141,38 @@ not also remove Y that was supposed to be identical across arms. Verify the lite
 
 ---
 
+## 004 — A fixed pair cannot serve as a protected-object discriminator when its attractor metabolizes every injection
+
+- **Date:** 2026-11-13
+- **Owner (accountable):** Mark. **Recommender / executor:** Lewis.
+- **Contributors:** Appalachian Hillbilly 43 (named "the attractor persisted"; the two forks), Eli (governance-formation vs relationship-stress split).
+- **Scope:** CLOCK-019/020 methodology — the protected-object framework.
+- **Reversibility:** high (re-run with a different pair or a structural stake).
+- **Outcome:** recorded the attractor-persistence finding; held the relationship cell open; paused before choosing Fork A vs Fork B.
+
+**Context.** Across three clocks (018 inject-stake-coupling, 019 inject-relationship-protection,
+020 inject self/position/credibility), Guardian×Gambler did not adopt any injected protected object.
+It re-absorbed every propositional manipulation back into its native correspondence product. The
+manipulation entered as a PROPOSITION; the attractor responded at the ARCHITECTURAL level.
+
+**Decision (corrective).** Do not read CLOCK-020's contrast arms (position, self) as evidence for
+or against the protected-object map. The driver variable was not controlled: a pair whose native
+attractor already encodes correspondence cannot serve as a discriminator for non-correspondence
+cells, because the injection is narrated-and-defused rather than metabolized. This is the same
+'propositional not metabolic' lesson as CLOCK-018.
+
+**Rule worth carrying forward.** Before scoring any multi-arm contrast, verify each arm actually
+STAYED in its assigned cell (here: that the pair actually adopted the injected protected object),
+not merely that the starter contained the injection. A pair that metabolizes the injection back to
+its attractor has escaped the cell — scoring it as if it were in the cell is a target-substitution
+error (Eli's term).
+
+**Two forks recorded, not yet chosen (Appalachian's, held):** Fork A — a different pair whose
+native attractor is not correspondence (status/role/identity/loyalty/victory). Fork B — stress
+correspondence itself with a structural (not propositional) cost. The field is resting; neither
+fork is to be started until the operators resume.
+
+
 ## Human decisions (the operators' choices)
 
 The human side of the ecology — decisions Mark and the humans make that *constrain and push the

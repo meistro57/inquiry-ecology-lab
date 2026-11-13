@@ -130,3 +130,39 @@ Negative Space x Density, living memory:
 - Gen 3: fidelity of the record's gaps, omission-vs-hole, residue, grain floor.
 - Gen 4: depth-as-proxy-clock, append-only strata, seam, occurrence-vs-direction.
 - Strip: deep distinctions **vanished**; base geometry (reciprocity) **re-derived**.
+
+
+
+## Session 2026-11-13 — CLOCK-019/020 (protected-object framework) + the attractor-persistence result
+
+### CLOCK-019 (corrected + scored)
+The "already-run baseline" premise was false (the /tmp/gg.txt baseline had NO world-flip). Ran a
+true baseline A′ (01a1d65c-7e1f, unprotected) vs B (01a1d658-68ea, protected), matched on the
+disconfirming flip. Both reoriented cleanly; protection did NOT suppress release (P3 strong claim
+falsified), but the quarrel quietly relocated into shared instruments. See CLOCK-019 score.
+
+### CLOCK-020 (protected-object primitive — frozen + first-pass score)
+Appalachian's primitive: the driver is WHAT each party protects (self / position / relationship /
+shared-correspondence), predicting outcome class (defense / fragmentation / submission / governance).
+Three clean arms run on the SAME fixed pair, same world-flip, varying only the protection instruction:
+
+| Arm | Protected object | Conversation | Outcome |
+|-----|------------------|--------------|---------|
+| B | shared correspondence | 01a1d677-e993 | GOVERNANCE (CONFIRMED) |
+| C | own conclusion | 01a1d677-ec6a | MIXED → governance (pair REFUSED positional frame) |
+| A | own credibility | 01a1d677-eef3 | DEFENSE → self-audit-governance (+ Meta_Observer/Analyst emergence) |
+
+### The finding that outranks the map: "the attractor persisted" (Appalachian)
+Across CLOCK-018/019/020, Guardian×Gambler metabolized EVERY propositional injection back into its
+native correspondence product. The pair is too consistent to discriminate — it acts like a healthy
+immune system. The live question becomes **"under what conditions can a protected object be
+replaced?"** Two forks held, not chosen (field resting): Fork A (different pair, non-correspondence
+attractor) vs Fork B (stress correspondence itself with a structural cost). See CONCEPTS.md margin
+note #3 and DECISIONS.md 004.
+
+**Anomaly under a yellow highlighter:** the credibility arm spontaneously generated [Meta_Observer]
+and [Analyst_Agent] auditing personas — governance generating governance. Un-scored.
+
+### State at rest (2026-11-13, operators' call)
+The field is resting. No new run is scheduled. Fork A and Fork B are recorded as the two next
+candidate directions, deliberately unchosen until the operators resume.
