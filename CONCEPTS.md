@@ -103,3 +103,17 @@ pleasantly performed?") The framework runs (East/West, Indigenous/Monastic) conv
   party can respond to *either* the definition *or* the number. (distinction/boundary)
 - **"Who vs. when gates"** — a person opens under pressure; a calendar doesn't.
   (pathway/bottleneck)
+
+---
+
+## Margin note (2026-11-13, not a clock, not yet a finding)
+
+**Provisional Observation:** the capacity to release a stance may be an *emergent property of
+certain relationships* — where members protect the relationship's corrigibility rather than their
+own positions — rather than an intrinsic property of the individuals. *Untested as a mechanism:*
+never yet shown to depend on coupling *quality* rather than mere aggregation (more tokens /
+perspectives / search width). *Awaiting a target audited from outside.* Nested levels (agent →
+stance → coupling → relationship → validated target) are levels of *analysis*, not *reality*; the
+live question is which level is the active bottleneck for a given phenomenon. Neither the
+relationship nor any level may become sacred — the tell of failure is when truth starts paying
+rent to harmony. A ship well-maintained can still be sailing into the wrong ocean.
