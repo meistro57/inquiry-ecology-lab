@@ -526,6 +526,34 @@ Frozen via commit timestamp: 2026-11-10.
   more firmly: we have not yet built a single arm where the pair actually stayed in a non-
   correspondence cell.
 
+## CLOCK-021 (CANDIDATE, not frozen, not scheduled) — reorientation vs redistribution: the movement variable must be split before prior clocks are re-read
+> Arose 2026-11-13 from Appalachian's elemental quad + Eli's proposal. The prior clocks (esp. 016/017/019)
+> scored a single "stance change" variable that CONFLATES two separable movements:
+>   (1) ORIENTATION SHIFT — changing which uncertainty-corner you occupy (Guardian→Gambler,
+>       Mystic→Steward);
+>   (2) IMPLEMENTATION REDISTRIBUTION — changing which elemental function dominates while HOLDING
+>       the same corner (Earth→Air, Fire→Water).
+> A Guardian can stay a Guardian while redistributing elementally — no reorientation, yet regulation
+> changed. Prior scores may therefore be POTENTIALLY CONFOUNDED, not invalidated (Eli's protocol).
+>
+> **Agreed protocol (Eli, adopted):** preserve the current clocks HISTORICALLY; mark their movement
+> variable AMBIGUOUS; do NOT rewrite the record. Run a DISCRIMINATOR — matched scenarios with the
+> expected outcomes explicitly separated:
+>   (a) same orientation + redistributed implementation
+>   (b) changed orientation + stable implementation
+>   (c) changed orientation + redistributed implementation
+> (a two-axis split; three real cells after dropping the no-change null). Then test whether the old
+> conclusions survive the split. Also capture CROSS-LOCK signatures (stance AND its dominant mode
+> BOTH persisting) — the deeper pathology pattern (Guardian+Earth=rigidity, Mystic+Water=dissolution,
+> Gambler+Fire=escalation, Steward+Earth=over-conservation).
+>
+> **The "protected object at the centre" remains PROVISIONAL.** Before it can be treated as a real
+> center, test whether the center can be revised under external audit WITHOUT the system treating
+> revision as betrayal. Otherwise the compass has merely moved the dogma into the middle.
+>
+- **status:** CANDIDATE. Shape agreed; NOT frozen, NOT scheduled. The field is resting (operators'
+  call). Freeze when the field is actually ready, not on a reactive restart.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
