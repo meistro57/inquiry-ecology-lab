@@ -257,6 +257,24 @@ Frozen via commit timestamp: 2026-11-10.
   four-arm lineage result), collapsing FIXED ≈ ROTATING to the same destination. The amnesia-strip
   is the decider between "narrowing lived in the fixed bearing" vs "in the memory-of-the-bearing".
 
+
+## CLOCK-015 — every relationship-to-uncertainty converges to a commitment-with-a-stated-outside
+> Across the four archetypes (guardian/mystic on the knowledge axis, gambler/steward on the risk
+> axis), every pairing so far has converged on the *same instrument*: a commitment that is only
+> honest if it carries a **stated outside check** (a named exit, a paid cost, a real stake, a
+> falsifier). Prediction: this invariant **generalizes off the tested edges** — the two untested
+> *mixed-axis* pairs (mystic × steward, guardian × gambler) will converge to the same root, and
+> the archetype will change only **where the counterfeit hides** (fog-as-shelter, vagueness-as-candor,
+> payout-as-proof, becoming-as-deferral), not the underlying discipline.
+- **confidence:** 0.68
+- **falsifies if:** a mixed-axis pair yields a *different* discipline (not "commitment with a stated
+  outside"), OR the two mixed-axis edges produce *pair-specific* instruments that don't reduce to
+  the same root.
+- **resolves:** run mystic × steward and guardian × gambler; score whether each lands on a
+  "named exit/cost/stake/falsifier" instrument and whether the two are the same instrument.
+- **note:** this is the "relationship to uncertainty" material, given its own space as a clock
+  rather than a prose page.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
