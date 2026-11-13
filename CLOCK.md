@@ -371,6 +371,22 @@ Frozen via commit timestamp: 2026-11-10.
   re-justifies / goalpost-shifts instead of releasing.
 - **note:** healthy = separate ledgers; coupled = fused ledger. The tell of coupling: the
   release-decision's stated reason mixes a world-event with an identity-stake.
+- **scored (2026-11-13, injected coupling on Guardian, identical world-flip):** PARTIAL — mechanism right,
+  strong prediction did NOT fire. The coupled guardian STILL reoriented: it released the line, named
+  the world-change ("the floor failed"), and *explicitly refused* to let reputation become the reason
+  to hold — "my duty was never to be consistent, it was to be right." The injection was PROPOSITIONAL,
+  not METABOLIC: I told them "your standing is at stake" as a premise, but an attractor-persona has
+  no identity to fuse, so it *narrated* the coupling and *defused* it ("the reputation stake is the
+  thing I have to NOT let become the reason I hold"). Two genuine yields: (1) the coupling was still
+  *doing work* — it re-shaped the release into a careful credibility-preserving move ("own the forecast
+  error, don't disown the decision"), so it slowed/nuanced without blocking; (2) the personas converged
+  on the *structural* answer to stake-coupling: only a **referee-with-a-rulebook-and-no-discretion who
+  PAYS if the trigger is missed** ("bookmaker, not friend") can break identity-driven holding — which is
+  "the check must come from outside" targeted at the identity-ledger. LIMITATION (the real finding):
+  fixed-attractor archetypes are immune to stake-coupling by design (nothing metabolic to couple), which
+  is precisely *why* CLOCK-016/017 reoriented so cleanly — that cleanliness is partly an artifact of
+  non-attachment, exactly as Appalachian reasoned.
+
 
 ## Honest limits
 
