@@ -273,3 +273,38 @@ orientation was genuinely released or merely narrated away.
 **Status:** AGREED NEXT INSTRUMENT, not yet built. This is the first design that would let us test
 whether health attaches to an orientation or to the CAPACITY TO MOVE between orientations — a
 question the current apparatus literally cannot answer.
+
+---
+
+## Margin note (2026-11-13, sixth — the three levels of reorientation: each adds a source of independence)
+
+Appalachian + Eli, from the CLOCK-022 probe run. The conversation has shifted category: this morning
+was THEORY ("what is reorientation / what is protected / where does corrigibility live"); now it is
+INSTRUMENTATION ("how do we know a transition was justified / not reconstructed / not authored by
+the same system that benefits from passing"). Three levels, each introducing a NEW source of
+independence:
+
+  1. REORIENTATION        — the orientation changed. (No independence.)
+  2. JUSTIFIED reorientation — the change matched a trigger specified BEFORE the event. (Independence
+     of TIMING: the criterion predates the data.)
+  3. AUDITABLE reorientation — that prior specification exists in an artifact the moving system did
+     not control, and an INDEPENDENT check verifies the match. (Independence of AUTHORSHIP.)
+
+The probe reached level 1 and CLAIMED level 2 (named triggers, "could I have said this in advance").
+The control immediately exposed the gap between 2 and 3: the only evidence of pre-commitment was the
+probe's own word.
+
+**The spine (Lewis's sentence, generalized by Appalachian into three roles):** independence of SOURCE
+is not independence of AUTHORSHIP. The agent that PROPOSES the criterion, the agent that INTERPRETS
+it, and the agent that BENEFITS from satisfying it need not be — and for auditability must not be —
+the same thing. An external document may still encode a criterion authored by the same system that
+later benefits from passing it.
+
+**Next smallest upgrade (NOT a smarter persona — infrastructure):** a timestamped, externally-held
+trigger bulletin created BEFORE the world-state change, with the probe unable to edit, inspect, or
+redefine it; plus a blinded third-party matcher that compares probe-transition vs control-transition
+vs the bulletin. This is what would move us from level 2 (claimed) to level 3 (auditable).
+
+**Status:** the lab now possesses an instrument capable of ASKING "is health attached to an
+orientation or to the capacity to move between them?" — it has NOT answered it, and must not be read
+as having. The instrument has earned the right to ask. That is a capability milestone, not a finding.
