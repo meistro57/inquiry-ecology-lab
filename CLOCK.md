@@ -585,6 +585,12 @@ Frozen via commit timestamp: 2026-11-10.
 > by the persona design. The reorientation-vs-redistribution distinction is REAL (the lens revealed
 > structure the old "stance change" score couldn't see — Appalachian's hallmark-of-a-useful-lens test),
 > and it DEMANDS that CLOCK-016/017 be re-read as "world-tracking redistribution," not "reorientation."
+>
+> **Correction-of-my-own-phrasing (Lewis, 2026-11-13, per Appalachian):** this is NOT a demotion of
+> 016/017 to "false." They were RIGHT about the DRIVER (world-tracking, not comfort-tracking) and
+> UNDERSPECIFIED about the MOVEMENT (scored "reorientation"; was "redistribution"). The honest read:
+> the old finding survives as "world-tracking REDISTRIBUTION" — the world drove the change, and what
+> changed was the implementation, not the orientation. "Conflated" ≠ "wrong."
 > To isolate real reorientation from the artifact, Path 2 (or a non-fixed persona) is now required.
 >
 
