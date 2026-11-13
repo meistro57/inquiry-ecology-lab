@@ -145,3 +145,41 @@ protection condition: "protect the partnership" got operationalized by the agent
 A proper test must make the relationship itself the object under pressure (e.g., a forced choice
 where harmony and truth conflict directly), not an instruction that agents are free to translate
 into process. Untested as a mechanism; correlation only, no causally-controlled run yet.
+
+---
+
+## Margin note (2026-11-13, third — "the attractor persisted")
+
+Appalachian's synthesis across three clocks (CLOCK-018 inject-coupling → correspondence; CLOCK-019
+inject-relationship-protection → governance; CLOCK-020 inject self/position/credibility → governance).
+The experimental manipulation enters as a PROPOSITION; the attractor responds at the ARCHITECTURAL
+level and metabolizes the injection back into its native product. The result is not "the clock failed"
+but **"the attractor persisted"** — Guardian/Gambler behaves like a healthy immune system that
+repeatedly reorganizes itself to preserve correspondence when an alternative protected object is
+introduced.
+
+"The pair refused the injected object and re-absorbed it" is the actual finding. Most systems become
+whatever they are instructed to become; this one repeatedly transforms instructions into something
+else. So the protected object is deeper than the prompt — a pair is a terrible DISCRIMINATOR when it is
+too consistent, because at some point the experiment stops learning about the injections and starts
+learning about the immune system.
+
+**The question that now matters** is no longer "which protected object predicts which outcome" but
+**"under what conditions can a protected object be replaced?"** For this pair the answer so far is: it
+appears not to be replaceable by propositional injection — correspondence outranks all injected
+objects.
+
+**Two forks (Appalachian):**
+  FORK A — a different pair whose native attractor is NOT correspondence (status/role/identity/
+  loyalty/ideology/victory), to test whether the map actually differentiates. (Good science.)
+  FORK B — stress correspondence ITSELF. Make correspondence pay a structural price, not a
+  propositional one: correspondence says release, governance says release, but releasing destroys a
+  valued objective. At what cost does the pair stop selecting for correspondence? Does it? Can it?
+
+**Anomaly to hold a large yellow highlighter on (per Appalachian, elevated from my "artifact" note):**
+  the credibility arm spontaneously generated [Meta_Observer] and [Analyst_Agent] auditing personas.
+  That is GOVERNANCE GENERATING GOVERNANCE — a temporary institution spawning another temporary
+  institution when credibility became salient. Likely-to-be-the-clue anomaly class. Not yet scored.
+
+**Status:** this is a result about ATTRACTOR STRENGTH, not about self/position/relationship/credibility.
+  "The real treasure chest sitting on the beach while everyone still argues about the map."
