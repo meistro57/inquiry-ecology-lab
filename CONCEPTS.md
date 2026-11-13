@@ -117,3 +117,31 @@ stance → coupling → relationship → validated target) are levels of *analys
 live question is which level is the active bottleneck for a given phenomenon. Neither the
 relationship nor any level may become sacred — the tell of failure is when truth starts paying
 rent to harmony. A ship well-maintained can still be sailing into the wrong ocean.
+
+---
+
+## Margin note (2026-11-13, second — disagreement becomes structure)
+
+Provisional Observation (Appalachian's, adopted): the CLOCK-019 "protected relationship"
+condition may never have been instantiated. The prompt said "protect the partnership," but the
+pair immediately translated it into "build a better decision process." The relationship never
+became the object under pressure; every disagreement was converted into an instrument (tripwires,
+kill-switches, weasel-room audits, role separation, outside checks, failure-mode lists). The
+challenge did not disappear — it migrated from interpersonal quarrel to institutionalized
+challenge. Guardian stopped challenging Gambler directly; they jointly built structures that
+will challenge both of them later.
+
+The reframe: we may not have been measuring agent-to-relationship-to-dissent but
+agent-to-relationship-to-governance. The pair behaved less like two agents and more like a
+temporary institution. The genuinely interesting question is not "does protecting the relationship
+suppress challenge?" but "when does disagreement become structure?" — because the disagreement
+is not being won or suppressed; it is being transformed into a durable artifact.
+
+Consequence for CLOCK-019: the "P3 strong-claim falsified" score was measuring the wrong
+target. Release did not merely persist under protection — it changed substrate (quarrel to
+governance). That is a category shift, not a persistence. CLOCK-019 as frozen under-specified the
+protection condition: "protect the partnership" got operationalized by the agents as
+"institutionalize the disagreement," which is exactly the thing a P1/P3 split needs to hold still.
+A proper test must make the relationship itself the object under pressure (e.g., a forced choice
+where harmony and truth conflict directly), not an instruction that agents are free to translate
+into process. Untested as a mechanism; correlation only, no causally-controlled run yet.
