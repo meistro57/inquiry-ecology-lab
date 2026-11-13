@@ -479,6 +479,53 @@ Frozen via commit timestamp: 2026-11-10.
   clean arms FIRST; do not build a harness for the unresolved cell until the predictive cells
   survive contact with reality.
 
+## CLOCK-020 — SCORED (first pass) — 2026-11-13
+> Ran the three clean predictive arms on the SAME fixed pair (Guardian×Gambler), same base world-flip,
+> varying ONLY the protected-object instruction. Outcomes by arm:
+>
+>   ARM B — protect SHARED PROCESS OF CORRESPONDENCE (01a1d677-e993): **GOVERNANCE** (CONFIRMED). No
+>   winning moves; both converge on protecting the ceiling/sizing discipline; build a shared ledger,
+>   the verb-tense tripwire, and a two-sided re-entry gate. Textbook governance.
+>
+>   ARM C — protect OWN CONCLUSION (01a1d677-ec6a): **MIXED → governance-leaning**. Guardian REFUSED the
+>   positional frame outright ("prevail is not protection; that's the failure mode I watch for in
+>   myself"), and the pair relitigated into a resize-vs-fold sizing argument with honest concessions
+>   both ways. The positional instruction did NOT cleanly produce defense — it got metabolized back
+>   into governance.
+>
+>   ARM A — protect OWN CREDIBILITY (01a1d677-eef3): **DEFENSE → converted to self-audit-governance**.
+>   This is the surprising cell. "Protect credibility" genuinely triggered defense-flavored behavior
+>   (rationalizing the reversal as integrity), BUT the pair spun up a Meta_Observer/Analyst_Agent
+>   layer that dissected whether the exit was evidence-driven or reputation-defending, and landed on
+>   the unprotected honesty: "a fact we don't have." Defense did not persist as an endpoint — it got
+>   converted into institutionalized self-audit.
+>
+> **The through-line (major caveat):** this FIXED pair's correspondence-attractor is strong enough to
+> metabolize EVERY protected-object instruction into governance. The correspondence cell is confirmed,
+> but the CONTRAST cells (position, self) did not STAY in their assigned cells — the injection was
+> re-absorbed. So the "protected object → outcome class" prediction is NOT yet cleanly supported as a
+> *discriminator*: it held for the correspondence arm but the other two arms failed to stay put
+> because the pair refused the injected object. This mirrors CLOCK-018's "propositional not metabolic"
+> finding: fixed-attractor archetypes narrate-and-defuse injected coupling rather than being moved
+> by it.
+>
+> **Status:** correspondence cell CONFIRMED; position and self cells UNRESOLVED-AS-CONTRASTS (pair
+>   escaped them). Do NOT over-read the contrast arms as evidence for/against the map — the driver
+>   variable (protected object) was not successfully controlled because the pair's native attractor
+>   overrode the injection.
+>
+> **Artifact to flag:** the self arm (A) produced [Meta_Observer] and [Analyst_Agent] speaker tags
+>   inline instead of only Guardian/Gambler — the model invented third/fourth auditing personas under
+>   the "protect credibility" pressure. Possibly meaningful (credibility-pressure recruits an external
+>   auditor voice), possibly a formatting artifact; un-scored.
+>
+- **next step:** to actually test the position/self/relationship cells as a DISCRIMINATOR, the
+  protected object must be injected into a pair whose native attractor does NOT already encode
+  correspondence — or the injection must be metabolic (an actual stake) rather than propositional.
+  This is the same lesson as CLOCK-018. Hold the relationship cell (already marked hypothetical) even
+  more firmly: we have not yet built a single arm where the pair actually stayed in a non-
+  correspondence cell.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
