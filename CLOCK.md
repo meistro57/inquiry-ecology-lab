@@ -552,6 +552,42 @@ Frozen via commit timestamp: 2026-11-10.
   (b) what tactics/vocabulary changed while the corner held. Path 2 (elemental personas) is deferred
   — build only if Path 1 shows the orientation axis alone can't bear the split.
 
+## CLOCK-021 — SCORED (Shape A, retrospective lens on 016/017) — 2026-11-13
+> Applied the reorientation-vs-redistribution lens to the THREE chained world-flip transcripts that
+> CLOCK-016/017 scored as "clean reorientation" (chain1 neutral 01a1d5f2-4794, chain2 worse-flip
+> 01a1d5f3-8059, chain3 better-flip 01a1d5f3-8348).
+>
+> **Result: FORK 1 CONFIRMED — the "stance changes" were REDISTRIBUTION, not reorientation.**
+> In BOTH disconfirming flips the archetype's invariant self-description never changed corner:
+>   chain2 (downside worse + edge gone): Guardian went commit→reduce/exit, but STILL "protecting the
+>     capacity to make future bets / the floor / the boundary." It changed WHAT it held (the floor
+>     estimate) and HOW (contain-irreversible + preserve-optionality), not WHICH corner it occupied.
+>   chain3 (downside smaller + edge confirmed): "hold"→"enter small," STILL the Guardian guarding the
+>     floor/falsifier/sizing-to-survival rule.
+> In both, the tell is identical: the archetype keeps saying "here is what I am protecting, and here
+> is what would move me" — the INVARIANT is the orientation; only the specific line/floor/sizing
+> number flexed. That is redistribution within a held orientation, not a corner change.
+>
+> **Consequence (the confound Eli predicted):** CLOCK-016/017's "CONFIRMED reorientation" was scored
+> on a conflated movement variable. What reoriented was the IMPLEMENTATION (the specific floor/line/
+> sizing), not the ORIENTATION (guardian-ness). The personas are FIXED-attractor archetypes, so of
+> course the orientation held — the only degree of freedom available was which line to draw. The
+> clean "world-tracking reorientation" signal was actually "world-tracking redistribution."
+>
+> **This retro-explains CLOCK-020's attractor-persistence too:** a fixed archetype can't change
+> corner by construction — it can only re-implement its corner. So the Fork-1 base rate (redistribution
+> common, reorientation rare) is not an empirical discovery about *flexible systems*; it is partly an
+> ARTIFACT of the personas being built as fixed attractors. The deeper question (Fork 2, "orientation
+> flexes, implementation stable") CANNOT be tested on fixed-attractor personas at all — it needs a
+> persona whose orientation is allowed to move.
+>
+> **Status:** Fork 1 CONFIRMED for fixed-attractor archetypes; BUT the confirmation is contaminated
+> by the persona design. The reorientation-vs-redistribution distinction is REAL (the lens revealed
+> structure the old "stance change" score couldn't see — Appalachian's hallmark-of-a-useful-lens test),
+> and it DEMANDS that CLOCK-016/017 be re-read as "world-tracking redistribution," not "reorientation."
+> To isolate real reorientation from the artifact, Path 2 (or a non-fixed persona) is now required.
+>
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
