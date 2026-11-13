@@ -7,6 +7,11 @@ of *how we chose*, kept distinct from CLOCK.md (frozen *predictions*) and CONCEP
 
 Each entry records what was decided, under what constraints, why, and whether it held up.
 
+The ledger has two parts: **Agent decisions** (Lewis's operational calls, human-ratified) and
+**Human decisions** (the operators' choices that constrain and push the lab's boundaries). The
+human side was added 2026-11-12 — the humans set constraints and boundaries, so their decisions
+deserve their own tracked layer.
+
 ## Tracking wrapper (adopted from Eli, 2026-11-11)
 
 The distinction that matters: **agent output = recommendation; the human = accountable
@@ -26,6 +31,22 @@ The purpose that makes this more than paperwork: **"small and reversible" today 
 notice, later, that it has silently become policy. That is where the clock starts — the
 decision ledger is the Route-Integrity instrument for a human's judgment (see
 CONTACT-TO-CONSEQUENCE.md).
+
+---
+
+## Agent decisions (Lewis's operational calls, human-owned)
+
+## 000 — Ledger inception: the decision to start tracking (the unlogged parent)
+
+- **Date:** before 2026-11-10 — *not recorded; predates the instrument.*
+- **Owner (accountable):** Mark and the humans who founded the inquiry-ecology frame and agreed
+  to route-integrity / governance tracking.
+- **Note (bootstrap):** the *first* decision was not #001. It was the decision to freeze priors
+  and keep a route-integrity ledger at all — the choice that made #001 recordable. The ledger
+  cannot record its own inception (at the moment of that decision there was no instrument to
+  write it into). Logging it as #000 acknowledges the unlogged parent rather than pretending the
+  ledger starts clean. This is the "instrument cannot see its own birth" form of "the check must
+  come from outside the checker."
 
 ---
 
@@ -117,5 +138,26 @@ present in every arm. Valence-stripping ≠ topic-stripping.
 
 **Rule:** held-constant variables are the *point* of the isolation; the act of removing X must
 not also remove Y that was supposed to be identical across arms. Verify the literal strings.
+
+---
+
+## Human decisions (the operators' choices)
+
+The human side of the ecology — decisions Mark and the humans make that *constrain and push the
+lab's boundaries*. These are distinct from agent operational calls: here the human is the decider,
+and the agent (Hope / Eli / Lewis) is at most a recommender or smith of records.
+
+Uses Eli's fuller schema — record the *route*, not just the outcome:
+
+    signal noticed → interpretation → options generated → human decision
+    → implementation → consequence observed → model/policy updated
+
+with fields for: alternatives considered · failure modes · reversibility/rollback · who's affected ·
+what remains uncertain · stop-conditions · what would change our mind · review date ·
+keep / revise / reverse / supersede.
+
+**Status: empty — awaiting Hope's aggregation of Mark's past decisions to seed this section.**
+Once that list lands, each past decision gets retro-scored under this schema, the same way
+RETROSPECTIVE.md re-scored runs ("governance is retro-scorable").
 
 
