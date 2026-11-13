@@ -252,7 +252,12 @@
       "id": "product-class",
       "name": "Product-class taxonomy",
       "def": "pairing kind predicts convergence product: descriptive->definition, teleological->instrument, temporal->rate/phase, experiential->limit/refusal, valence->paired detector",
-      "scores": { "coherence": 5, "relational": 4, "viability": 3, "living": 4 },
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 3,
+        "living": 4
+      },
       "status": "candidate",
       "pairing": "meta (session 2026-11-10/11 region expansion)"
     },
@@ -260,7 +265,12 @@
       "id": "legible-detaches",
       "name": "The legible detaches from the underlying thing",
       "def": "the quiet failure is the measure/description/symbol stopping tracking what it names while reading steady; derived independently in 6 regions",
-      "scores": { "coherence": 5, "relational": 5, "viability": 4, "living": 4 },
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 4
+      },
       "status": "supported",
       "pairing": "cross-regional invariant (6 independent runs)"
     },
@@ -268,7 +278,12 @@
       "id": "check-outside-checker",
       "name": "The check must come from outside the checker",
       "def": "the criterion for whether a signal/instrument/tradition still works cannot be supplied by what it checks, and the checker is worst-placed to verify it still can",
-      "scores": { "coherence": 5, "relational": 4, "viability": 3, "living": 4 },
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 3,
+        "living": 4
+      },
       "status": "candidate",
       "pairing": "framework runs (east/west, indigenous/monastic)"
     },
@@ -276,7 +291,12 @@
       "id": "unrecruitable-referent",
       "name": "Unrecruitable referent",
       "def": "the check that works is one that can fail but cannot be charmed or formed by the checker (the salmon, the spring); a referent that can be recruited stops being a veto",
-      "scores": { "coherence": 5, "relational": 4, "viability": 3, "living": 3 },
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 3,
+        "living": 3
+      },
       "status": "candidate",
       "pairing": "indigenous x monastic"
     },
@@ -284,7 +304,12 @@
       "id": "four-term-death-sequence",
       "name": "The four-term death sequence",
       "def": "permission dies first, then trained silence, then fluency/unamendability, then the door quietly shuts administratively without registering as a decision",
-      "scores": { "coherence": 5, "relational": 3, "viability": 3, "living": 3 },
+      "scores": {
+        "coherence": 5,
+        "relational": 3,
+        "viability": 3,
+        "living": 3
+      },
       "status": "candidate",
       "pairing": "indigenous x monastic"
     },
@@ -292,7 +317,12 @@
       "id": "declinability",
       "name": "Declinability",
       "def": "a gift/service is landing on the recipient iff it could be declined; a recipient who cannot decline is being used to balance the giver's identity account",
-      "scores": { "coherence": 4, "relational": 4, "viability": 3, "living": 3 },
+      "scores": {
+        "coherence": 4,
+        "relational": 4,
+        "viability": 3,
+        "living": 3
+      },
       "status": "candidate",
       "pairing": "self-care x service"
     },
@@ -300,9 +330,92 @@
       "id": "unprobed-silence",
       "name": "Unprobed silence licenses nothing",
       "def": "when the matched state is the truth, neither detector reports and both probe, and report the probe's result not their temperature; silence is not evidence (empty room vs unlit room)",
-      "scores": { "coherence": 5, "relational": 4, "viability": 3, "living": 3 },
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 3,
+        "living": 3
+      },
       "status": "candidate",
       "pairing": "love x fear"
+    },
+    {
+      "id": "reorientation-vs-redistribution",
+      "name": "Reorientation ≠ redistribution",
+      "def": "reorientation changes WHICH uncertainty-corner you occupy (Guardian→Gambler); redistribution changes HOW you implement the SAME corner (Earth→Air). Historically conflated into one 'stance change' variable.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 5,
+        "living": 4
+      },
+      "status": "supported",
+      "pairing": "CLOCK-021 retrospective lens (chained world-flips)"
+    },
+    {
+      "id": "protected-object",
+      "name": "The protected object",
+      "def": "the driver of disagreement-outcome is WHAT each party protects more than being right: self→defense, position→fragmentation, shared-correspondence→governance. Deeper than joint-attachment-to-problem, which is its observable manifestation.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "supported",
+      "pairing": "CLOCK-019/020 (Guardian × Gambler)"
+    },
+    {
+      "id": "attractor-persisted",
+      "name": "The attractor persisted",
+      "def": "a fixed-attractor archetype metabolizes every propositional injection back into its native product (correspondence→governance); you stop learning about injections and start learning about the immune system.",
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "supported",
+      "pairing": "CLOCK-018/019/020 (three clocks, same shape)"
+    },
+    {
+      "id": "three-level-reorientation",
+      "name": "Three levels of reorientation",
+      "def": "reorientation (it changed) → justified (matched a pre-specified trigger) → auditable (the trigger artifact sits outside the moving system and an independent check verifies). Each level adds a source of independence.",
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 3,
+        "living": 4
+      },
+      "status": "candidate",
+      "pairing": "CLOCK-022 Orientation_Probe run"
+    },
+    {
+      "id": "independence-authorship",
+      "name": "Independence of source ≠ independence of authorship",
+      "def": "the agent that PROPOSES the criterion, the one that INTERPRETS it, and the one that BENEFITS from passing it must not be the same. An external document may still encode a criterion authored by the system that later benefits from passing it.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "candidate",
+      "pairing": "CLOCK-022 (probe × control)"
+    },
+    {
+      "id": "instrument-confound-recursion",
+      "name": "Every instrument turns yesterday's answer into today's confound",
+      "def": "fixed archetypes→redistribution; discriminator→reorientation-impossible-by-construction; probe→authorship problem; authorship→auditability. A working instrument's virtue is making its own claims distrustable. The lab's trajectory is distinction-recursion, not terminal answers.",
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 4,
+        "living": 5
+      },
+      "status": "candidate",
+      "pairing": "meta (whole-day arc)"
     }
   ],
   "edges": [
@@ -469,6 +582,51 @@
     {
       "from": "legible-detaches",
       "to": "consequence-ecology",
+      "type": "relates"
+    },
+    {
+      "from": "reorientation-vs-redistribution",
+      "to": "product-class",
+      "type": "refines"
+    },
+    {
+      "from": "protected-object",
+      "to": "reorientation-vs-redistribution",
+      "type": "refines"
+    },
+    {
+      "from": "attractor-persisted",
+      "to": "protected-object",
+      "type": "supports"
+    },
+    {
+      "from": "attractor-persisted",
+      "to": "memory-changes-trajectory",
+      "type": "relates"
+    },
+    {
+      "from": "three-level-reorientation",
+      "to": "reorientation-vs-redistribution",
+      "type": "refines"
+    },
+    {
+      "from": "independence-authorship",
+      "to": "three-level-reorientation",
+      "type": "guards"
+    },
+    {
+      "from": "independence-authorship",
+      "to": "check-outside-checker",
+      "type": "extends"
+    },
+    {
+      "from": "instrument-confound-recursion",
+      "to": "independence-authorship",
+      "type": "supports"
+    },
+    {
+      "from": "instrument-confound-recursion",
+      "to": "health-not-correctness",
       "type": "relates"
     }
   ]
