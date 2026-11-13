@@ -431,40 +431,39 @@ Frozen via commit timestamp: 2026-11-10.
 - **note:** this is the pattern the morning's arc predicted under the OTHER branch: protection can
   sharpen the release instrument while it quiets the argument about it.
 
-## CLOCK-020 — disagreement is transformed into GOVERNANCE, not defense/submission/fragmentation, when participants are jointly attached to a PROBLEM rather than separately attached to POSITIONS (DRAFT — not yet frozen)
-> Appalachian's reframe of the CLOCK-019 confound. The pair did not merely persist through the
-> protection instruction — it *converted every disagreement into structure* (tripwires, kill-switches,
-> weasel-room audits, role separation, external checks, failure-mode lists). The question is no longer
-> "when does disagreement become structure?" (too weak — most disagreement becomes polarization,
-> stalemate, dominance, avoidance, winner/loser) but **"under what conditions is disagreement
-> transformed into GOVERNANCE rather than defense, submission, or fragmentation?"**
+## CLOCK-020 — disagreement resolves into DEFENSE / SUBMISSION / FRAGMENTATION / GOVERNANCE by the PROTECTED OBJECT (the thing each party holds more important than being right) — DRAFT, awaiting freeze
+> Appalachian's primitive, one layer deeper than "joint-attachment-to-problem" (which is its
+> observable *manifestation*, not its cause). The driver is **what the participants protect**. Guardian
+> and Gambler never tried to win — they stopped protecting self, status, conclusions, and preferred
+> strategies, and converged on protecting something OUTSIDE both of them (decision quality,
+> correspondence, calibration, viability, the ability to keep updating). Prediction: **the protected
+> object predicts the outcome class** of any disagreement:
+>   protect SELF → DEFENSE
+>   protect POSITION → DEFENSE / FRAGMENTATION
+>   protect RELATIONSHIP → HARMONY / possible SUBMISSION
+>   protect SHARED PROCESS OF CORRESPONDENCE → GOVERNANCE (disagreement preserved by embedding it in
+>        shared structure — roles, checks, tripwires — that will challenge both later)
 >
-> **Proposed causal core (the hidden variable):** the transcript contains almost NO attempt by either
-> agent to WIN. They are jointly attached to the *problem* (locate and preserve decision quality), not
-> separately attached to *positions*. Prediction: **governance emerges when participants are jointly
-> attached to a problem rather than separately attached to positions.**
+> **Why this is the primitive:** "joint attachment to the problem" only happens *because* the shared
+> protected object sits ABOVE both participants and neither owns it. The thing above the disagreement
+> isn't the problem itself; it's the object both parties have already decided is more important than
+> being right. Governance is what disagreement looks like when the protected object is a shared
+> process-of-correspondence rather than a self, a position, or the relationship.
 >
-> **Four-way outcome taxonomy (the discriminator):** some disagreement produces DEFENSE (entrench,
-> re-justify the held line), some produces SUBMISSION (one yields, positions collapse), some produces
-> FRAGMENTATION (irreconcilable, the pair splits), some produces GOVERNANCE (the disagreement is
-> preserved by embedding it in shared structure — roles, checks, tripwires — that will challenge both
-> later). The differentiator is what sits ABOVE the disagreement: joint-attachment-to-problem →
-> governance; position-ownership → defense/submission/fragmentation.
->
-- **confidence:** 0.58
-- **falsifies if:** a pair that is demonstrably jointly-attached-to-problem (shared stated objective,
-  no winning moves, both naming the same quality-of-decision target) STILL collapses into
-  defense/submission/fragmentation instead of governance; OR a pair plainly attached-to-positions
-  nevertheless produces governance. (Either would show joint-problem-attachment is not the driver.)
-- **resolves:** run a contrast where the SAME pair (Guardian×Gambler) is given (arm 1) a shared
-  problem to jointly solve (decision quality is the goal, no positional stake) vs (arm 2) a
-  positional stake (each told to defend their own conclusion against the other), same starter
-  otherwise; score which of the four outcome classes each lands in. Also score the *winning-move
-  count* (utterances whose function is to prevail rather than to locate truth) as the hidden-variable
-  read.
-- **note:** this is the genuinely new finding hiding inside the CLOCK-019 confound. It is not yet
-  frozen — Appalachian's sign-off on the falsifier and the four-way taxonomy is required before the
-  timestamp locks. DRAFT ONLY.
+- **confidence:** 0.60
+- **falsifies if:** a pair whose protected object is demonstrably the SHARED PROCESS OF CORRESPONDENCE
+  (both name correspondence/calibration/update-ability as what they protect, no self/position/
+  relationship protection) nevertheless lands in defense/submission/fragmentation instead of
+  governance; OR a pair demonstrably protecting self/position nevertheless produces governance.
+- **resolves:** run a protected-object contrast on the SAME pair (Guardian×Gambler), same starter
+  otherwise: arm 1 = protect the shared process of correspondence (joint object neither owns);
+  arm 2 = protect your own conclusion (positional); arm 3 = protect the relationship; arm 4 =
+  protect your credibility (self). Score which of the four outcome classes each lands in, plus a
+  "winning-move count" (utterances whose function is prevail rather than locate truth) as the
+  read on what is actually being protected.
+- **note:** descendant of the CLOCK-019 confound via Appalachian's "disagreement becomes structure"
+  and "hidden variable" observations. Still DRAFT — Appalachian's sign-off on the protected-object
+  primitive and this exact falsifier is required before the timestamp locks.
 
 ## Honest limits
 
