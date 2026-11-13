@@ -274,6 +274,18 @@ Frozen via commit timestamp: 2026-11-10.
   "named exit/cost/stake/falsifier" instrument and whether the two are the same instrument.
 - **note:** this is the "relationship to uncertainty" material, given its own space as a clock
   rather than a prose page.
+- **scored (2026-11-13, mystic × steward + guardian × gambler):** CONFIRMED. Both untested mixed-axis
+  pairs converged on the same instrument. Mystic × Steward -> the **floor** ("name the floor, spend
+  to it, never below it"; "a floor with a witness, not two floors averaged"; "dwelling needs a
+  terminus or it isn't dwelling"). Guardian × Gambler -> the **provisional boundary / stop** (three
+  parts: inside, marked-unknown, a written trigger; "can I state the bet and what proves me wrong
+  in one sentence"; "the map is yours, the signature is mine"). The archetype changed only *where the
+  counterfeit hid* — mystic: "shelter with better vocabulary"; steward: "retroactive floor-redrawing";
+  guardian: "comfort as safety"; gambler: "the wanting arrived before the reasons." The 2×2 is now
+  complete (all 6 pairings) and every one reduces to the same root: a commitment is honest only with
+  a named outside (exit/cost/stake/falsifier/floor/stop). Provenance: mystic×steward
+  `01a1d5dc-c5bc…`, guardian×gambler `01a1d5dc-c893…`.
+
 
 ## Honest limits
 
