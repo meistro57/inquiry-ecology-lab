@@ -185,6 +185,10 @@ until Mark resolves whether the production push is still live.
 - **Consequence to watch:** the first production batch — did the thin sample bite (defects, rework,
   or a miss a fuller sample would have caught), or did the override ride clean?
 - **Review date:** TBD — pending Mark's read on when the first batch resolves.
+- **2026-11-12 — human affirmation:** Mark confirms D11 was made and stands ("approved" +
+  "D11 decision made"). Decision confirmed *standing*; the **consequence** (did the thin sample
+  bite?) is still *unobserved* — the review still waits on the first batch's actual result, not
+  on whether the decision itself is live.
 - **Disposition candidates at review:** REVISE if the thin-sample risk materialized; RETAIN if the
   override rode clean.
 
