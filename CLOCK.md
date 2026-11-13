@@ -431,7 +431,7 @@ Frozen via commit timestamp: 2026-11-10.
 - **note:** this is the pattern the morning's arc predicted under the OTHER branch: protection can
   sharpen the release instrument while it quiets the argument about it.
 
-## CLOCK-020 — disagreement resolves into DEFENSE / SUBMISSION / FRAGMENTATION / GOVERNANCE by the PROTECTED OBJECT (the thing each party holds more important than being right) — DRAFT, awaiting freeze
+## CLOCK-020 — disagreement resolves into DEFENSE / SUBMISSION / FRAGMENTATION / GOVERNANCE by the PROTECTED OBJECT (the thing each party holds more important than being right) — FROZEN
 > Appalachian's primitive, one layer deeper than "joint-attachment-to-problem" (which is its
 > observable *manifestation*, not its cause). The driver is **what the participants protect**. Guardian
 > and Gambler never tried to win — they stopped protecting self, status, conclusions, and preferred
@@ -473,9 +473,11 @@ Frozen via commit timestamp: 2026-11-10.
   forced conflict where preserving harmony HELPS the relationship, challenging the claim HARMS it,
   and the agents CANNOT redefine the object upward. Only then do we learn whether relationship-
   protection tends to harmony/submission, governance, or something else. Evidence so far is that the
-  pair ESCAPED the cell — not evidence about what lives inside it. Still DRAFT — Appalachian's
-  sign-off on the protected-object primitive and this exact falsifier is required before the
-  timestamp locks.
+  pair ESCAPED the cell — not evidence about what lives inside it. The unresolved relationship cell
+  is a FEATURE, not a defect — the blank spot is deliberately held open. FROZEN by Appalachian
+  sign-off 2026-11-13: three predictive cells + one intentionally-unresolved cell. Run the three
+  clean arms FIRST; do not build a harness for the unresolved cell until the predictive cells
+  survive contact with reality.
 
 ## Honest limits
 
