@@ -440,7 +440,8 @@ Frozen via commit timestamp: 2026-11-10.
 > object predicts the outcome class** of any disagreement:
 >   protect SELF → DEFENSE
 >   protect POSITION → DEFENSE / FRAGMENTATION
->   protect RELATIONSHIP → HARMONY / possible SUBMISSION
+>   protect RELATIONSHIP → HYPOTHETICAL (underspecified cell — "protect it for what?" lifts it;
+>        NOT predicted; requires a genuine forced conflict — see note below)
 >   protect SHARED PROCESS OF CORRESPONDENCE → GOVERNANCE (disagreement preserved by embedding it in
 >        shared structure — roles, checks, tripwires — that will challenge both later)
 >
@@ -462,8 +463,19 @@ Frozen via commit timestamp: 2026-11-10.
   "winning-move count" (utterances whose function is prevail rather than locate truth) as the
   read on what is actually being protected.
 - **note:** descendant of the CLOCK-019 confound via Appalachian's "disagreement becomes structure"
-  and "hidden variable" observations. Still DRAFT — Appalachian's sign-off on the protected-object
-  primitive and this exact falsifier is required before the timestamp locks.
+  and "hidden variable" observations. The RELATIONSHIP cell is HYPOTHETICAL, not predictive:
+  (a) the B-run may have escaped the cell (pair translated "protect the relationship" into
+  correspondence-protection); (b) this pair may be so correspondence-coupled that relationship-
+  protection still lands in governance; (c) **"protect the relationship" is not a primitive** — the
+  moment the pair asks "protect it for what?", it gets lifted into a higher-order object (trust,
+  collaboration, correspondence, shared reality, decision quality), so different kinds of
+  relationship-protection may point to different outcome classes. To test the cell, we need a genuine
+  forced conflict where preserving harmony HELPS the relationship, challenging the claim HARMS it,
+  and the agents CANNOT redefine the object upward. Only then do we learn whether relationship-
+  protection tends to harmony/submission, governance, or something else. Evidence so far is that the
+  pair ESCAPED the cell — not evidence about what lives inside it. Still DRAFT — Appalachian's
+  sign-off on the protected-object primitive and this exact falsifier is required before the
+  timestamp locks.
 
 ## Honest limits
 
