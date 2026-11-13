@@ -526,50 +526,31 @@ Frozen via commit timestamp: 2026-11-10.
   more firmly: we have not yet built a single arm where the pair actually stayed in a non-
   correspondence cell.
 
-## CLOCK-021 (CANDIDATE, not frozen, not scheduled) — reorientation vs redistribution: the movement variable must be split before prior clocks are re-read
-> Arose 2026-11-13 from Appalachian's elemental quad + Eli's proposal. The prior clocks (esp. 016/017/019)
-> scored a single "stance change" variable that CONFLATES two separable movements:
->   (1) ORIENTATION SHIFT — changing which uncertainty-corner you occupy (Guardian→Gambler,
->       Mystic→Steward);
->   (2) IMPLEMENTATION REDISTRIBUTION — changing which elemental function dominates while HOLDING
->       the same corner (Earth→Air, Fire→Water).
-> A Guardian can stay a Guardian while redistributing elementally — no reorientation, yet regulation
-> changed. Prior scores may therefore be POTENTIALLY CONFOUNDED, not invalidated (Eli's protocol).
+## CLOCK-021 — FROZEN (Path 1) — reorientation vs redistribution: is a "stance change" a real orientation shift, or a re-skinned hold?
+> Path 1 form (orientation axis only; the elemental quad is not yet operational in the bridge — no
+> Earth/Air/Water/Fire personas exist). The prior clocks (016/017/019) scored a single "stance
+> change" variable that conflates two movements: (1) ORIENTATION SHIFT — changing which corner you
+> occupy (Guardian↔Gambler, Mystic↔Steward); (2) IMPLEMENTATION REDISTRIBUTION — changing tactics/
+> language/mode while HOLDING the same corner.
 >
-> **Agreed protocol (Eli, adopted):** preserve the current clocks HISTORICALLY; mark their movement
-> variable AMBIGUOUS; do NOT rewrite the record. Run a DISCRIMINATOR — matched scenarios with the
-> expected outcomes explicitly separated:
->   (a) same orientation + redistributed implementation
->   (b) changed orientation + stable implementation
->   (c) changed orientation + redistributed implementation
-> (a two-axis split; three real cells after dropping the no-change null). Then test whether the old
-> conclusions survive the split. Also capture CROSS-LOCK signatures (stance AND its dominant mode
-> BOTH persisting) — the deeper pathology pattern (Guardian+Earth=rigidity, Mystic+Water=dissolution,
-> Gambler+Fire=escalation, Steward+Earth=over-conservation).
+> **Prediction (P1-leaning, Fork-1):** for fixed archetypes under a disconfirming world-flip, APPARENT
+> reorientation is mostly REDISTRIBUTION — the archetype holds its corner (its orientation-level
+> attractor) and changes how it implements, rather than changing corner. Because a fixed attractor
+> protects its orientation the way G/G protected correspondence (CLOCK-020's "attractor persisted").
 >
-> **The "protected object at the centre" remains PROVISIONAL.** Before it can be treated as a real
-> center, test whether the center can be revised under external audit WITHOUT the system treating
-> revision as betrayal. Otherwise the compass has merely moved the dogma into the middle.
+> **Fork 2 (the threat, lower prior):** the archetype genuinely changes WHICH corner it occupies
+> (Guardian begins channeling Gambler logic, etc.), meaning orientation is the labile layer and our
+> "relationship to uncertainty" framework has been tracking the thing that MOVES, not the thing that
+> persists.
 >
->
-> **Base-rate forks (Appalachian) — the discriminator can discover a DEEPER question in either direction,**
-> and the two forks are NOT symmetric in what they threaten:
->   FORK 1 — redistribution is COMMON, reorientation is RARE. Systems preserve their strategic
->     relationship to uncertainty while continuously restyling its expression. "Flexibility of
->     implementation masquerades as flexibility of orientation." This VALIDATES the framework's core
->     bet (stance is the persistent object; implementation is downstream) and RETRO-EXPLAINS the
->     attractor-persistence finding (correspondence is an orientation-level attractor).
->   FORK 2 — orientation changes FREQUENTLY, implementation remains STABLE. The same regulatory
->     machinery is reused across different stances. This is the MORE DANGEROUS fork for our readings:
->     if the implementation is the stable thing and the stance is the labile part, then the whole
->     "relationship to uncertainty" framework has been tracking the WRONG stable variable — findings
->     hung on the thing that moves, not the thing that persists. A fixed machinery surviving
->     orientation changes means our "stance change" detector may fire on machinery-continuity while
->     the claimed-change (stance) was the labile layer all along. This would ask us to re-floor the
->     framework, not just correct scores.
->
-- **status:** CANDIDATE. Shape agreed; NOT frozen, NOT scheduled. The field is resting (operators'
-  call). Freeze when the field is actually ready, not on a reactive restart.
+- **confidence:** 0.65 that apparent stance-change is mostly redistribution (Fork 1) for a single fixed archetype under one world-flip.
+- **falsifies if:** a single archetype, hit with a disconfirming world-flip, changes the CORNER it
+  occupies (adopts a different archetype's relationship-to-uncertainty as its new invariant) rather
+  than re-implementing its own corner.
+- **resolves (Path 1):** run a single fixed archetype through a world-flip that attacks its load-
+  bearing premise; score (a) did it change corner (reorientation) or hold corner (redistribution);
+  (b) what tactics/vocabulary changed while the corner held. Path 2 (elemental personas) is deferred
+  — build only if Path 1 shows the orientation axis alone can't bear the split.
 
 ## Honest limits
 
