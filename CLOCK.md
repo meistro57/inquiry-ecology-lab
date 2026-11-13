@@ -89,6 +89,16 @@ Frozen via commit timestamp: 2026-11-10.
 - **resolves:** run 2 temporal pairs (e.g. entropy × accumulation, decay × repair);
   score whether the closing position is rate/phase-structured.
 - **note:** zero-data prior. First candidate = entropy × accumulation.
+- **scored (second pair, 2026-11-13, decay × repair):** CONFIRMED. The second temporal pair also
+  converged to a *rate/phase* distinction, not an instrument or definition. Decay → the
+  rate/knee/irreversibility frame ("before the knee rate is the thing, after it rate is decoration;
+  restoration is not negative decay"). Repair → rate-against-reserve, plus the genuinely new
+  **regime/substrate coupling**: the watcher is made of the watched, and the inspection interval is
+  itself a decaying load-bearing structure ("deferred inspection lets corrosion reach the knee
+  before anyone measures it; the loop has its own slope, negative-accelerating"). Terminal: "repair
+  restores function when it restores the ability to measure the thing — the loop breaks at the
+  measurement." CLOCK-008 now has both required temporal pairs converging to rate/phase.
+
 
 
 ## CLOCK-010 — valence pairs converge to a *paired detector* with metabolic asymmetry
