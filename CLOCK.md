@@ -551,6 +551,23 @@ Frozen via commit timestamp: 2026-11-10.
 > center, test whether the center can be revised under external audit WITHOUT the system treating
 > revision as betrayal. Otherwise the compass has merely moved the dogma into the middle.
 >
+>
+> **Base-rate forks (Appalachian) — the discriminator can discover a DEEPER question in either direction,**
+> and the two forks are NOT symmetric in what they threaten:
+>   FORK 1 — redistribution is COMMON, reorientation is RARE. Systems preserve their strategic
+>     relationship to uncertainty while continuously restyling its expression. "Flexibility of
+>     implementation masquerades as flexibility of orientation." This VALIDATES the framework's core
+>     bet (stance is the persistent object; implementation is downstream) and RETRO-EXPLAINS the
+>     attractor-persistence finding (correspondence is an orientation-level attractor).
+>   FORK 2 — orientation changes FREQUENTLY, implementation remains STABLE. The same regulatory
+>     machinery is reused across different stances. This is the MORE DANGEROUS fork for our readings:
+>     if the implementation is the stable thing and the stance is the labile part, then the whole
+>     "relationship to uncertainty" framework has been tracking the WRONG stable variable — findings
+>     hung on the thing that moves, not the thing that persists. A fixed machinery surviving
+>     orientation changes means our "stance change" detector may fire on machinery-continuity while
+>     the claimed-change (stance) was the labile layer all along. This would ask us to re-floor the
+>     framework, not just correct scores.
+>
 - **status:** CANDIDATE. Shape agreed; NOT frozen, NOT scheduled. The field is resting (operators'
   call). Freeze when the field is actually ready, not on a reactive restart.
 
