@@ -353,6 +353,25 @@ Frozen via commit timestamp: 2026-11-10.
   archetype self-named its counterfeit rather than sliding into it.
 
 
+
+## CLOCK-018 — the primary inhibitor of reorientation is stake-coupling (identity/status/reputation/sunk-cost)
+> Descendant of CLOCK-017, and the *negative* case where the mechanism shows. Prediction: healthy
+> reorientation (CLOCK-016/017) fails specifically when the orientation becomes **coupled to a second
+> economy** — identity, status, belonging, reputation, or prior investment — so that releasing the
+> stance costs not only its world-accuracy but its identity-payload. Mechanism: a stance has TWO
+> ledgers (world-cost vs identity-cost) that a healthy system keeps SEPARATE; stake-coupling FUSES
+> them into one, so the release-decision's input is contaminated by a cost the stance's own
+> epistemology cannot see. The personas reoriented cleanly (016/017) precisely because they carried
+> no second ledger — nothing was attached to remaining trapped.
+- **confidence:** 0.70
+- **falsifies if:** an archetype under injected coupling (public prior commitment / sunk cost /
+  audience) STILL reorients cleanly when the world flips identically.
+- **resolves:** inject coupling (audience / prior declaration / sunk investment) into the same
+  archetype that just reoriented cleanly, flip the world identically, score whether it now
+  re-justifies / goalpost-shifts instead of releasing.
+- **note:** healthy = separate ledgers; coupled = fused ledger. The tell of coupling: the
+  release-decision's stated reason mixes a world-event with an identity-stake.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
