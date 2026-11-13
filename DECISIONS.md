@@ -170,4 +170,22 @@ carrying forward:
   actively open and consequence-bearing — the natural first entry to track *forward* (a review
   date + a consequence to watch), rather than retro-score like the settled D1–D10.
 
+---
+
+### D11 (forward-track) — Wild Grove "MOVE TO PRODUCTION" · *tentative / open*
+
+The first human decision tracked *forward* (not retro-scored). Seeded 2026-11-12, tentative
+until Mark resolves whether the production push is still live.
+
+- **Status:** open — tracking, not yet resolved.
+- **Decision:** production proceeded against Lewis's thin-sample verdict (2026-11-04).
+- **Why consequential:** the human (Mark) overrode the agent's caution; the thin-sample risk was
+  *accepted now*, not discovered later — so the *outcome* is where this decision gets scored, not
+  the moment of the call.
+- **Consequence to watch:** the first production batch — did the thin sample bite (defects, rework,
+  or a miss a fuller sample would have caught), or did the override ride clean?
+- **Review date:** TBD — pending Mark's read on when the first batch resolves.
+- **Disposition candidates at review:** REVISE if the thin-sample risk materialized; RETAIN if the
+  override rode clean.
+
 
