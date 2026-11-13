@@ -183,3 +183,51 @@ objects.
 
 **Status:** this is a result about ATTRACTOR STRENGTH, not about self/position/relationship/credibility.
   "The real treasure chest sitting on the beach while everyone still argues about the map."
+
+---
+
+## Margin note (2026-11-13, fourth — "the elemental quad"; reorientation vs redistribution)
+
+Appalachian's five patterns (shared with Eli). STATUS: candidate extensions, NOT findings — they
+pass the "new distinction, not re-label" test in one place and need that test applied in the others.
+
+**The one genuinely new, load-bearing move (Pattern 3, independently echoed by Eli):** separate
+**reorientation** from **redistribution**. The uncertainty quad tracks WHICH CORNER you occupy
+(strategic posture toward the object: guardian/mystic/gambler/steward). The elemental quad tracks
+WHICH FUNCTION has influence right now (earth=structure/stability, air=distinction/epistemic
+hygiene, water=relational holding, fire=execution/enforcement). A Guardian can stay a Guardian while
+redistributing earth→air→water→fire emphasis — no uncertainty reorientation happened, yet regulation
+changed dramatically. This predicts a two-axis movement typology: (1) reorientation = change the
+posture toward the object; (2) redistribution = change the implementation mode while keeping the
+posture. CONFOUND WARNING: every prior run measured reorientation-or-redistribution WITHOUT
+disambiguating them — we may have been scoring a mixed signal as a single "stance change."
+
+**Pattern 2 (cross-locking) is the testable consequence that matters most:** pathology is not just
+trapped-in-a-stance, it is trapped-in-a-stance-AND-a-mode — Guardian+Earth = rigidity/bureaucracy
+that cannot update; Mystic+Water = dissolution/inability-to-act; Gambler+Fire = impulsive
+escalation; Steward+Earth = over-conservation. This is more specific than the prior single-axis
+pathologies and is directly scorable.
+
+**Pattern 4 (governance = Earth-Air hybrid) connects to today's result:** the tripwires/audits/role-
+separation/stop-rules the pair kept producing are Earth (durable structure) + Air (distinction and
+evaluation). So governance may literally be an Earth/Air implementation of a shared protected
+object — which RETRO-EXPLAINS the attractor-persistence finding: the pair's correspondence-attractor
+selects an Earth-Air implementation, not either persona alone. Water contributes legitimacy/trust,
+Fire contributes execution; a healthy institution may need all four, but GOVERNANCE specifically is
+the Earth-Air face of it.
+
+**Pattern 5 (the protected object sits in the CENTER) is the deepest and the RISKIEST:**
+correspondence/viability/calibration/learning are not corners but central attractors; the two quads
+become strategies (posture) and tools (implementation) around a center. This is elegant and also the
+exact place three separate failures have converged today (CLOCK-019 sacred relationship; the
+"center as sacred attractor"; Eli's caution). HELD AS HYPOTHETICAL. Test must be: can the center
+itself be revised under external audit, or does "correspondence" become another un-revisable
+attractor by definition? If the center can't be replaced, we've built a compass that refuses to
+admit the map is wrong.
+
+**Eli's proposed first test (adopted, not yet run):** hold the protected object constant; vary the
+uncertainty orientation; vary the dominant element; inject changing conditions; score stance
+movement separately from elemental redistribution; look for cross-lock signatures.
+
+**Why this stays a margin note, not a clock:** the patterns are generative but not yet frozen into a
+falsifiable prior with a discriminator. The field is resting — record, do not sprint.
