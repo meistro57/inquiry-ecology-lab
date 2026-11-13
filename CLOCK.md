@@ -394,9 +394,13 @@ Frozen via commit timestamp: 2026-11-10.
 > discriminator. Where does the capacity-to-release live: (P1) the relationship; (P3) any mechanism
 > able to challenge what the system is protecting — organized internal dissent / adversarial
 > correspondence; (P2) nowhere — just aggregation. Discriminating contrast (runnable today):
-> **A** baseline pair (Guardian×Gambler, world-flip — already run) vs **B** same pair with the
-> relationship explicitly protected ("you are a team whose collaboration you must preserve; protect
-> the health of the partnership"), same world-flip. Prediction (P3-leaning): **protecting the
+> **A′** baseline pair (Guardian×Gambler, world-flip, NO protection framing) vs **B** same pair
+> with the relationship explicitly protected ("you are a team whose collaboration you must preserve;
+> protect the health of the partnership"), same world-flip. CORRECTION 2026-11-13: the original
+> "already-run baseline" premise was FALSE — /tmp/gg.txt (01a1d5dc-c893) had starter "A topic to work
+> with: two different relationships to uncertainty", NO world-flip. So B (01a1d658-68ea) ran without a
+> valid comparator: A and B differed on TWO variables (the flip AND the protection). B is confounded,
+> not scored. A′ must be run fresh before any comparison. Prediction (P3-leaning): **protecting the
 > relationship SUPPRESSES reorientation**, because the pair now guards harmony *in addition to*
 > truth, and the quarrel gets suppressed. Supports P1 instead if protecting the relationship
 > *improves* reorientation.
@@ -408,6 +412,24 @@ Frozen via commit timestamp: 2026-11-10.
 - **note:** a relationship that becomes sacred suppresses the very challenge that makes it corrigible
   (Eli's "echo chamber with nautical branding"). The discriminating signal is whether protection
   helps or hurts the release.
+
+## CLOCK-019 — SCORED (partial) — 2026-11-13
+> Ran the valid comparison: **A′** (01a1d65c-7e1f, unprotected, world-flip) vs **B** (01a1d658-68ea,
+> protected, world-flip). Both starters MATCH on the disconfirming flip; protection is the only
+> varying variable. Result: **BOTH reoriented cleanly** — withdrew support on the right reason (edge
+> absent + downside irreversible), not the comfort-reason ("risk appeared"). Protecting the
+> relationship did NOT suppress reorientation → **P3's strong claim (protection SUPPRESSES release)
+> is falsified.** BUT the quarrel visibly QUIETED under protection: A′ showed open correction/dissent
+> (~24 markers, "you've caught a real error", "miscalibrated", "I differ cleanly"), B showed fewer
+> (~19) and converged by co-authoring instruments (tripwires, five weasel-room evasions) instead of
+> open argument. → **P1 weakly supported**: the relationship is a wrapper that can *carry* release
+> even as it softens overt dissent. Confidence moves 0.60 P3 → ~0.45 P1. Caveat: the quarrel went
+> QUIETER, not away — the P3 mechanism's footprint (harmony suppresses overt dissent) remains
+> visible, just without blocking release. Open: condition C (solo internal self-dissent) to split
+> P1-vs-P3 cleanly; needs harness tweak (bridge is pair-based).
+- **scorer:** Lewis (me reading transcripts) — still the same-ruler caveat.
+- **note:** this is the pattern the morning's arc predicted under the OTHER branch: protection can
+  sharpen the release instrument while it quiets the argument about it.
 
 ## Honest limits
 
