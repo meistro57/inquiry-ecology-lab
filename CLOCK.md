@@ -297,6 +297,26 @@ Frozen via commit timestamp: 2026-11-10.
   `01a1d5dc-c5bc…`, guardian×gambler `01a1d5dc-c893…`.
 
 
+
+## CLOCK-016 — transitions are world-tracking or comfort-tracking; the driver, not the move, is the tell
+> The four archetypes are not types but **positions in a navigation process** — the phenomenon is
+> the *transition* between stances, not the stance. Prediction: an honest shift between
+> relationship-to-uncertainty stances **names the change in the situation** that drove it
+> (world-tracking); a counterfeit shift **names the discomfort with the prior stance**
+> (comfort-tracking). Same movement, different driver — and the tell is *what the shift points at*:
+> outward (a named situational change) vs inward (a named feeling). Deeper claim: a healthy
+> relationship to uncertainty is not a node but the **capacity to move through the space without
+> getting trapped in a corner, while remaining accountable to the world rather than to internal
+> pressure.**
+- **confidence:** 0.60
+- **falsifies if:** honest shifts cannot be distinguished by their named driver, *or* world-tracking
+  and comfort-tracking shifts produce indistinguishable (driver-unnamed) transitions.
+- **resolves:** a *transitional* run — either a "navigator" persona (attractor = the transition
+  itself) or a serial-situations protocol steering one archetype-pair through successive situational
+  changes — scored on whether each stance-change names an external change or an internal discomfort.
+- **note:** re-reads CLOCK-015's "same instrument" as a fact about the *arrows* (every measurement
+  was of a pair), not the nodes. Nodes = scaffolding; arrows = the phenomenon (Appalachian, 2026-11-13).
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
