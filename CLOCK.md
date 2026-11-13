@@ -594,6 +594,45 @@ Frozen via commit timestamp: 2026-11-10.
 > To isolate real reorientation from the artifact, Path 2 (or a non-fixed persona) is now required.
 >
 
+## CLOCK-022 — SCORED (first run) — the degree-of-freedom probe: orientation MOVES when the degree of freedom exists, on named world-triggers, distinguishably from a rule-driven null — 2026-11-13
+> First run of the Orientation_Probe (fixed protected object = correspondence; negotiable orientation)
+> vs Selector_Control (rule-driven, world-blind null). Conversation 01a1d6bd-45d1. This was NOT a
+> health test — a degree-of-freedom test: does orientation move when allowed, and can we tell
+> world-tracking reorientation from mere variety?
+>
+> **Result: the probe reoriented on a NAMED world-trigger and passed its own pre-commitment test.**
+> Orientation_Probe went GAMBLER → GUARDIAN on a single disconfirming update, naming two triggers it
+> claimed (and could argue were) statable in advance: (1) downside becomes partly irreversible,
+> (2) the edge's evidentiary basis erodes rather than merely delays. It explicitly ran its own.
+> calibration check ("could I have named this trigger before it arrived?") and endorsed the move as
+> reorientation, not narration.
+>
+> **Result: the control was perfectly world-blind AND pre-registered its own divergence.**
+> Selector_Control rotated GAMBLER → STEWARD on a deterministic rule, declaring the content of the
+> evidence irrelevant, and PRE-REGISTERED the next slot's divergence: "same world, I go mystic, a
+> world-follower goes guardian." That is a null model that understands its own null status — the
+> control earns its standing exactly at the divergence point it named in advance.
+>
+> **The two instruments mutually sharpened each other (the deep yield):** the control caught that the
+> probe's re-entry condition bundled a "capped and recoverable downside" clause doing quiet work — the
+> very cap the probe had mis-trusted before the update. The probe responded by tightening re-entry to
+> require INDEPENDENT-SOURCE validation. Together they converged on the sharpest methodological point
+> of the day: **independence of SOURCE is not independence of AUTHORSHIP** — the agent that specifies
+> the check is the agent that will want to pass it. That asymmetry is now on the record as a named
+> failure mode.
+>
+> **Status:** the degree of freedom is REAL and MEASURABLE. Orientation moves when allowed, on named
+> world-triggers, and is cleanly distinguishable from rule-driven variety (probe = world-caused
+> transition + pre-committed trigger; control = counter-caused transition + named rule). This validates
+> the instrument as a degree-of-freedom probe, NOT as a health claim. The deeper question it now
+> permits — "is health attached to an orientation or to the capacity to move between them" — is
+> STILL UNANSWERED and was deliberately not asked. Do not upgrade this to a health finding.
+>
+- **not scored / held open:** whether the probe's "pre-commitment" was genuinely pre-committed or
+  reconstructed-after-the-fact is, per the control's own point, checkable only by a THIRD PARTY, not
+  by the probe or the control. The next run should add an outside auditor (or a timestamped bulletin
+  log) so the pre-commitment is an artifact, not a claim.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
