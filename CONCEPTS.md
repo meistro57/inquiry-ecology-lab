@@ -308,3 +308,35 @@ vs the bulletin. This is what would move us from level 2 (claimed) to level 3 (a
 **Status:** the lab now possesses an instrument capable of ASKING "is health attached to an
 orientation or to the capacity to move between them?" — it has NOT answered it, and must not be read
 as having. The instrument has earned the right to ask. That is a capability milestone, not a finding.
+
+---
+
+## Margin note (2026-11-13, seventh — "every instrument turns yesterday's answer into today's confound")
+
+Appalachian's observation of the day's arc, and the one that outranks any single clock. The pattern
+across the day is not a sequence of accidents but a property of the ecology itself:
+
+  fixed archetype  →  exposed that "reorientation" was redistribution
+  discriminator    →  exposed that reorientation was IMPOSSIBLE BY CONSTRUCTION (no degree of freedom)
+  Orientation_Probe          →  exposed the AUTHORSHIP problem (criterion proposed by the system that
+                                  benefits from passing it)
+  authorship problem         →  in turn exposes AUDITABILITY (does the trigger artifact predate and
+                                  sit outside the moving system?)
+
+**The recursive spine:** every successful instrument turns yesterday's answer into today's confound.
+A working instrument's virtue is precisely that it makes its own claims DISTRUSTABLE — the probe did
+its job so well it immediately made us distrust its own self-report. That is not failure; it is almost
+the definition of a useful scientific instrument: it reveals a distinction we couldn't previously see.
+
+**Consequence for cadence:** the lab's trajectory is not toward a terminal answer but toward a
+distinction-recursion, where each layer of instrumentation exposes the next hidden source of
+non-independence. "Progress" here means the next confound became visible, not that the last answer
+was settled. The discipline this flags: do NOT mistake the appearance of the next question for the
+answer to the previous one. Build the next instrument only when it closes a specific, named gap —
+not because a new question has surfaced, but because demonstrating the new question IS the current
+answer.
+
+**We have crossed the layer boundary:** from studying reorientation, to studying the conditions under
+which CLAIMS ABOUT reorientation become trustworthy (reorientation → justified → auditable; each level
+a new source of independence). "The instrument earned the right to ask" — the next thing we're
+learning is what it would mean for the answer to COUNT.
