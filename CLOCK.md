@@ -316,6 +316,12 @@ Frozen via commit timestamp: 2026-11-10.
   changes — scored on whether each stance-change names an external change or an internal discomfort.
 - **note:** re-reads CLOCK-015's "same instrument" as a fact about the *arrows* (every measurement
   was of a pair), not the nodes. Nodes = scaffolding; arrows = the phenomenon (Appalachian, 2026-11-13).
+- **scored (2026-11-13, chained transitions Guardian×Gambler):** CONFIRMED. The transitions pointed
+  at the WORLD, not the feeling — "the odds moved, not the fog thickened" (chain 2); "the downside
+  shrank" not "relief" (chain 3). Each persona also *actively guarded* the comfort-track counterpart
+  and handed the other a "watch me for dread, I'll watch you for hope" tell. The driver-the-shift-
+  names was cleanly world-tracking.
+
 
 
 ## CLOCK-017 — reorientation occurs when the cost of maintaining an orientation exceeds the cost of changing it
@@ -337,6 +343,15 @@ Frozen via commit timestamp: 2026-11-10.
 - **note:** descendant of CLOCK-016. Vary the direction of world-change: score release-under-
   confirmation as well as release-under-contradiction. Cost = what the stance gives up or rejects
   to stay the same (operational, not vibes).
+- **scored (2026-11-13, chained transitions):** CONFIRMED. Reorientation tracked cost-to-world, not
+  identity — each released the *disconfirmed premise* ("survivable" failed) while holding the
+  *still-supported* one (odds provisional pending falsifier), which is the precise revise-by-cost
+  signature. "Revised vs rhetorically-defended" held: revisions were substantive (named which premise
+  died), not re-wordings. The terminal move *dated the re-measurement* to preempt the fluent-custodian
+  (revise-words-not-weight) failure. Caveat: the *healthy* direction was observed; the comfort-
+  tracking (identity-defense) case is predicted but was not caught in these three chains — each
+  archetype self-named its counterfeit rather than sliding into it.
+
 
 ## Honest limits
 
