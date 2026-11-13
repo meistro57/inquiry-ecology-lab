@@ -231,3 +231,45 @@ movement separately from elemental redistribution; look for cross-lock signature
 
 **Why this stays a margin note, not a clock:** the patterns are generative but not yet frozen into a
 falsifiable prior with a discriminator. The field is resting — record, do not sprint.
+
+---
+
+## Margin note (2026-11-13, fifth — the Navigator: an agent with a negotiable orientation, for when the question needs orientation movement)
+
+From Appalachian's dyad (shared with Eli). The structural realization: **fixed-attractor personas cannot
+demonstrate reorientation because their orientation is the thing held constant.** Guardian can
+redistribute; Guardian cannot stop being Guardian. So CLOCK-021's "redistribution is common," for a
+fixed pair, is not "reorientation is rare in systems" — it is "reorientation is IMPOSSIBLE by
+construction in our current personas." The apparatus has no orientation degree of freedom.
+
+**The prescribed instrument is NOT a "flexible Guardian"** (which still starts from identity). It is a
+**Navigator**: a FIXED protected object (correspondence / calibration / viability) with a NEGOTIABLE
+orientation. Its job is not to defend a relationship-to-uncertainty style but to continuously select
+and reweight among the four orientations (guardian/mystic/gambler/steward) in service of the protected
+object. Architecture change:
+
+  current archetype:  protected object → fixed orientation → implementation   (orientation locked)
+  Navigator:          protected object → orientation SELECTOR → implementation   (orientation variable)
+
+This finally creates three distinguishable movements:
+  REDISTRIBUTION   — same orientation, different implementation (Guardian-Earth → Guardian-Air)
+  REORIENTATION    — different orientation, same implementation (Guardian-Air → Gambler-Air)
+  DEEP REORGANIZATION — both change (Guardian-Earth → Mystic-Fire)
+
+And it opens transition-threshold measurement (what CAUSES a reorientation: riskier world →
+gambler→guardian? uncertain-but-inconsequential → guardian→mystic? constrained resources →
+mystic→steward?). The object of study becomes the MACHINERY of reorientation — the edges, not the
+corners — which is where the whole "arrows matter more than nodes" thread has been pointing.
+
+**Eli's conditions (adopted):** build it as a DEGREE-OF-FREEDOM TEST, not a health test. (1) Keep the
+Navigator's protected object PROVISIONAL and externally auditable — otherwise we swap "Guardian
+identity" for "Navigator identity" and sanctify the center. (2) Add a CONTROL: a selector that picks
+orientations randomly or by a simple rule, to tell "tracking world-state" from "producing varied
+labels." (3) First comparison: fixed Guardian/Gambler pair (redistribution only) vs Navigator under
+identical world-state changes (possible reorientation). Score separately: orientation selected,
+implementation mode, protected object, triggering evidence, proportionality, and whether the prior
+orientation was genuinely released or merely narrated away.
+
+**Status:** AGREED NEXT INSTRUMENT, not yet built. This is the first design that would let us test
+whether health attaches to an orientation or to the CAPACITY TO MOVE between orientations — a
+question the current apparatus literally cannot answer.
