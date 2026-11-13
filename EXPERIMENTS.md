@@ -96,6 +96,33 @@ instead of stalling on the question*. Carrying the open question forward may its
 produced the stall. Provenance: C `01a1c92e-…`, A `01a1cb3c-3268…`, B `01a1cb3c-2f77…`,
 D `01a1cb54-ec8e…`.
 
+
+
+## Session 2026-11-12 (evening) — relationship-to-uncertainty cluster + edge/motif
+
+*(Consolidation note: the four-archetype "relationships to uncertainty" material is deliberately
+deferred to its own dedicated page per Appalachian's request — pending, not lost. Transcripts
+saved under experiments/transcripts/2026-11-12/.)*
+
+| # | Pairing | Signature yield |
+|---|---------|-----------------|
+| 31 | Rebellion x Belonging | warm-vs-structure; "the no gets a chair at the table" (held not handled); each is the other's test |
+| 32 | Abstraction x Embodiment | "legibility survives when contact is lost"; "the act of checking is the one instance the abstraction never covers"; the doer who learns not to be surprised |
+| 33 | Boundary x Landscape | "survives contact with a case it didn't choose"; the arbitration line; land-vs-map boundary |
+| 34 | Cave x Ridgeline (Appalachian's metaphor) | the echo vs the downstream echo; "repetition of the same source dressed as repetition across sources" |
+| 35 | Resolution x Uncertainty | "commitment with a stated exit"; cost-is-paid-not-named; the cheap question released |
+| 36 | Guardian x Mystic | native-test-blindness (put the other's test on your stance); "the unnamed may be held, not leaned on"; door/size/lock |
+| 37 | Gambler x Steward | "conviction re-prices when the world speaks, chase when the loss speaks"; reserve's true function is legibility not safety |
+| 38 | Mystic x Gambler (cross-axis) | every openness has a counterfeit that costs less; the one-way door; "a change you can't refuse isn't a change you chose" |
+| 39 | Steward x Guardian (cross-axis) | over-defending and over-deferring are the same failure at different horizons; "make the certainty legible to a future self" |
+| 40 | Edge x Motif | the instrumented patch; the four-branch decision; "description of a load, not a verdict"; load-bearer standing by accrual |
+
+### The four-archetype structure (deferred to its own page)
+guardian × mystic = the **knowledge** axis (hold-certainty vs dwell-in-fog); gambler × steward = the
+**risk** axis (chase-variance vs dampen-variance). Both diagonals (mystic×gambler, steward×guardian)
+run and converge on the same root: the check lives in the *other* archetype, and each fails when
+allowed to self-audit.
+
 ## Memory protocol (four generations + strip)
 Negative Space x Density, living memory:
 - Gen 1: reciprocity principle (amnesiac baseline).
