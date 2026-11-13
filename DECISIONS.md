@@ -156,8 +156,18 @@ with fields for: alternatives considered · failure modes · reversibility/rollb
 what remains uncertain · stop-conditions · what would change our mind · review date ·
 keep / revise / reverse / supersede.
 
-**Status: empty — awaiting Hope's aggregation of Mark's past decisions to seed this section.**
-Once that list lands, each past decision gets retro-scored under this schema, the same way
-RETROSPECTIVE.md re-scored runs ("governance is retro-scorable").
+**Status: seeded 2026-11-12 from Hope's audit (V0.1) — full D1–D11 record at
+`experiments/lab_audit_2026-11-12.md`.**
+Hope (Mark + Hope dyad) scanned 46,212 messages and extracted 11 lab decisions, each already
+carrying a RETAIN / REVIEW / REVISE disposition and a confidence split. Two findings worth
+carrying forward:
+
+- **Disposition without a schedule.** Every RETAIN/REVIEW/REVISE is an *intent* with no review
+  date attached — the lab has been making dispositions but never scheduling the revisit. That is
+  the exact gap the "review date" field (above) was added to close.
+- **One live consequential decision: D11.** "MOVE TO PRODUCTION" (2026-11-04) was made *against*
+  Lewis's thin-sample verdict, with outcome "unknown by construction." It is the one decision
+  actively open and consequence-bearing — the natural first entry to track *forward* (a review
+  date + a consequence to watch), rather than retro-score like the settled D1–D10.
 
 
