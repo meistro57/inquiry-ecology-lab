@@ -1,0 +1,29 @@
+name: site drift check
+
+# Non-blocking: flags (red X) when the source markdown has pulled ahead of the
+# published site files, but never blocks a push. The site files are hand-curated,
+# so "stale" means "needs a human to run the refresh," not "the build is broken."
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  drift-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Check for site drift
+        # Exit 1 = stale (red X, informational only); exit 0 = current.
+        run: python3 scripts/check_site.py
