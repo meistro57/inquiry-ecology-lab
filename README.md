@@ -24,6 +24,7 @@ The core discovery, in one line:
 - `scripts/lineage_runner.py` — the multi-generation "living memory" runner
   (carries each generation's conclusions forward, then runs an amnesia-strip).
 - `scripts/usage_chart.py` — the DeepSeek spend chart (cairosvg -> PNG).
+- `scripts/check_site.py` — drift check: reports when the source markdown (CONCEPTS/CLOCK/EXPERIMENTS/DECISIONS) has pulled ahead of the published site files (graph/concepts.json + index.html). Run it before assuming the site is current.
 
 ## The headline findings so far
 
