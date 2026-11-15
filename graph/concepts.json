@@ -585,6 +585,19 @@
       },
       "status": "supported",
       "pairing": "CLOCK-033 (grand finale, V1 x V2)"
+    },
+    {
+      "id": "closed-self-powered-loops",
+      "name": "Closed self-powered loops",
+      "def": "a candidate topological invariant for aliveness: the count of channels where stored state is written, read back against a SELF-maintained reference, and actuated back into that reference, with the loop closing on its own upkeep. Quantized only approximately (smeared by leakage) — so 'alive' is neither a scalar nor a phase boundary but a quasi-quantized count on a continuous substrate.",
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "candidate",
+      "pairing": "CLOCK-034 (Signal_Propagation x Material_Physics)"
     }
   ],
   "edges": [
@@ -936,6 +949,16 @@
     {
       "from": "reversibility-depletion",
       "to": "measurement-practices-decay",
+      "type": "relates"
+    },
+    {
+      "from": "closed-self-powered-loops",
+      "to": "measurement-practices-decay",
+      "type": "relates"
+    },
+    {
+      "from": "closed-self-powered-loops",
+      "to": "buffer-and-legibility",
       "type": "relates"
     }
   ]
