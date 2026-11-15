@@ -761,6 +761,48 @@ Frozen via commit timestamp: 2026-11-10.
 > question is still open in one precise sense: whether the burn-rate measurement itself is an authored
 > account, which would push the whole structure back to self-description with a costed step.
 
+## CLOCK-025 — forms of contact that preserve wrong-ability + learning (Correspondence × Continuity_Steward) — 2026-11-14
+> Appalachian's fourth call, the positive complement to the rabbit-hole run: what kinds of contact let a
+> system keep being wrong-ABLE without being destroyed on first error. Correspondence_Agent (contact side)
+> × Continuity_Steward (what would be lost side). Conversation 01a1dce7-4066. This is the "healthy middle"
+> question that CLOCK-024's "compounding error" floor left open.
+>
+> **Result — three features of healthy contact, then a genuine taxonomical discovery the pair itself doubted:
+>**
+>
+>   FEATURES (each with a falsifier):
+>   (1) PARTIAL CONSEQUENCE — the error costs something, not everything (survive with a remainder).
+>   (2) EARLY LEGIBILITY — a signal between the act and the terminal outcome (gradient, not pure win/lose).
+>   (3) EXTERNAL-NOT-MODEL — the deciding instrument touches the world, not the model's copy of it.
+>   Revised by Continuity: the real feature is INDEPENDENCE (not immediacy), and it needs PLURAL
+>   non-harmonizing redundancy — one instrument gets absorbed into the model through familiarity.
+>
+>   THE SPLIT (the genuinely new yield): two kinds of external thing.
+>   - REPORTING INSTRUMENTS (thermometer, ledger): report a state, absorbable in principle; REDUNDANCY is
+>     the only protection (so they don't all get absorbed the same way).
+>   - REFUSING AGENTS (a counterparty with its own goals): generate, not report; non-absorbable because the
+>     thing you'd model keeps moving; the BUFFER is the whole protection, not redundancy.
+>
+>   THE UNNAMED MIDDLE (Continuity's counterexample, and the sharpest move): **a market price.** Reports AND
+>   generates; no owner to refuse face-to-face; absorbable at the margin, non-absorbable in the tail. With a
+>   market you have NEITHER redundancy nor a face to negotiate with — only the buffer and the legibility of
+>   the price, which tells you THAT you were wrong, never WHO or WHICH belief. So the buffer is MORE
+>   load-bearing than either clean case, not less.
+>
+> **The self-undermining ending (the part that makes this a real result, not a catalog):** Continuity named
+> that the three-way split may be "three names for 'things that can surprise you, buffered differently'" —
+> i.e. the taxonomy may be decoration, and the irreducible content is just BUFFER + LEGIBILITY, which is
+> where the pair started. It flagged the pattern honestly: each new case makes the prior split look cleaner
+> than it was. That doubt is itself the finding — it marks the point where naming stops earning its keep.
+>
+> **Status:** the healthy middle resolves to ONE non-optional quantity (a survive-able remainder = the
+> buffer) PLUS the legibility of the error, and everything else (redundancy, refusal, aggregation) is a
+> variant of how contact delivers surprise while the buffer makes it survivable. The open thread from
+> CLOCK-024 is answered in the affirmative direction: contact that preserves learning is contact that is
+> buffered — being wrong is possible exactly because it is paid for in installments, not in full. This
+> connects "compounding error" (CLOCK-024) to "reserves" (the buffer) as the same quantity seen from two
+> sides.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
