@@ -1199,6 +1199,39 @@ pre-registered hit for the probe architecture. Open residual: the refusal-date c
 name, an explicit default) but was NOT in ohm's prediction — an unpredicted surprise, the exact metric the grand
 finale rubric cared about. Whether "surprise generated" should itself become a scored field is the next question.
 
+
+## CLOCK-037 — semantic-drift detection, target #1: "contact" (probes as drift instrument) — 2026-11-15
+> Appalachian's design call: deploy Orientation_Probe_V1 × V2 as an instrument of SEMANTIC DRIFT DETECTION.
+> First target (Appalachian chose): the lab's own term "contact". This is the validation case — clean, with a
+> frozen history to drift against.
+>
+> **The frozen reference (what "contact" is claimed to mean, extracted from the corpus BEFORE the run):**
+>   "contact" has NO dedicated node in graph/concepts.json, yet does load-bearing work in ≥4 senses across CLOCK:
+>   (a) CLOCK-018/019 "survive contact with reality" — testing against the world;
+>   (b) CLOCK-020 "contact bottoms out in the COMPOUNDING OF ERROR" — epistemic relation-as-trajectory (not
+>       arrival-of-truth);
+>   (c) CLOCK-025 "how contact delivers surprise while the buffer makes it survivable" — the disconfirmation
+>       channel;
+>   (d) CLOCK-032 "what dies is CONTACT" — the measurement-practice CONNECTIVE TISSUE between criterion and fact,
+>       killed by silent/indifferent decay.
+>   Senses (a)-(c) are epistemic RELATIONS; sense (d) is a STRUCTURAL CAPACITY (the instruments, protocols, craft).
+>   That (a-c)=relation vs (d)=capacity mismatch is the PRIOR divergence site.
+>
+> **Frozen prediction (confidence 0.70):** the probe pair will (1) independently identify that "contact" is doing
+>   MULTIPLE non-equivalent jobs, and (2) locate the relation-vs-capacity split as the sharpest seam — matching the
+>   scorer's read of the corpus. Falsifier: if the probes conclude "contact" is ONE coherent concept and the four
+>   senses unify without remainder, the prediction is wrong.
+>
+> **Second prediction (0.55, the instrument-calibration check):** the probes will NOT merely reproduce the graph's
+>   existing gloss — they will propose a sharper operationalization of "contact" (e.g., "contact = a cross-system
+>   cost that cannot be set to zero" vs "contact = maintained measurement practice") that the corpus does not already
+>   state. Falsifier: if they only restate existing CLOCK language, the calibration is weak.
+>
+> **Neutral starter (no drift-detection steering, no answer planted):**
+>   > A lab has been using one word across many of its own records for weeks. The word appears in several different
+>   > claims, each treated as settled. No single place in the records defines the word by itself. Two readers are
+>   > asked to say what the word actually means across all the places it is used.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
