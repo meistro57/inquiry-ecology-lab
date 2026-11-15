@@ -633,6 +633,43 @@ Frozen via commit timestamp: 2026-11-10.
   by the probe or the control. The next run should add an outside auditor (or a timestamped bulletin
   log) so the pre-commitment is an artifact, not a claim.
 
+## CLOCK-021 — FORWARD RUN (reorientation vs redistribution, live) — 2026-11-14
+> Appalachian's request: an actual run on the reorientation-vs-redistribution split, with the
+> Orientation_Probe (negotiable orientation) × Selector_Control (rule-driven null). Conversation
+> 01a1dcce-c213. This is the FORWARD complement to the retrospective Shape-A score — now we watch a
+> system that CAN change corner, rather than re-reading one that couldn't.
+>
+> **Result: a clean, pre-registered REORIENTATION, distinguished in the same transcript from
+> redistribution AND from a third category.**
+>
+>   (1) ORIENTATION_Probe: GAMBLER → GUARDIAN. Named the trigger BEFORE the evidence ("downside becomes
+>       partly irreversible → no longer survivable → that is precisely my pre-registered trigger"),
+>       then on receiving exactly that evidence, called REORIENTATION — a corner change on a named
+>       world-change. This is the movement fixed archetypes cannot produce.
+>
+>   (2) The probe then CAUGHT ITS OWN FLAW under control pressure, and downgraded its verdict. The
+>       control exposed that "partly irreversible" carried no threshold ("partly is doing enormous
+>       work"), so the probe self-corrected to "PROVISIONAL reorientation, contingent on irreversible-
+>       loss vs reversible-re-entry-reserve — an arithmetic I have not done and should not do
+>       unilaterally." It won't let its own threshold-authorship stand as a clean verdict.
+>
+>   (3) Selector_Control introduced a genuine THIRD movement: **rule-driven drift** — corner changes,
+>       correspondence claim silent — which it argued is ORTHOGONAL to the reorientation/redistribution
+>       axis, not a peer. This is a real taxonomical addition the pair discovered live.
+>
+> **Deep yield (the resurrection of independence-of-authorship):** the control drove the probe to the
+> exact seam from yesterday — "the threshold is still yours to place" → "who frames 'comparable'?"
+> A Gambler who sets the re-entry reserve can nudge the line to stay a Gambler. The probe's repair —
+> "hand the arithmetic to someone who isn't me" — is the right shape, and the control correctly named
+> that "a spreadsheet isn't an owner," so the loop closes only when the externalizer has no stake in
+> the outcome. This is CLOCK-020/independence-of-authorship re-derived in the reorientation frame.
+>
+> **Status:** the split is OPERATIONAL and OBSERVABLE. Reorientation (world-driven corner change, pre-
+> registered) is now cleanly separable from redistribution (same corner, resize) — and both from rule-
+> driven drift. The live run confirms what the retrospective score inferred: the distinction is real
+> and load-bearing. The new open question it surfaces is not "which movement" but "whose threshold" —
+> the authorship residual, now visible as a first-class object.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
