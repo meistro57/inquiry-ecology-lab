@@ -842,6 +842,40 @@ Frozen via commit timestamp: 2026-11-10.
 > who is not trying to describe the system at all. Continuity's closing question is the next rung, and it is
 > answerable: who or what is your lateral support, and how would you know if it quietly withdrew?
 
+## CLOCK-027 — the probe gauntlet: a perfect control cannot detect a probe that mimics it (Orientation_Probe × Selector_Control) — 2026-11-14
+> Appalachian + Mark wanted to watch Orientation_Probe work. Ran a five-step world-flip gauntlet against
+> Selector_Control. Conversation 01a1dd44-6cd3. The probe walked all five flips, then caught the control's
+> rule-defect and converted it into an experimental-design lesson.
+>
+> **The probe's run (each on a pre-declared world-trigger):**
+>   (1) survivable-downside/uncertain-upside → GAMBLER; (2) partly-irreversible + edge absent → GUARDIAN;
+>   (3) capped-reversible + fresh un-priced edge → STEWARD (reserve-below-threshold, not chase);
+>   (4) outcome resisting all measurement → MYSTIC (no closure, not no action); (5) reserve exhausted →
+>   GUARDIAN (the floor is the whole game). Five corners, five named triggers.
+>
+> **The control's self-inflicted defect, caught live by the probe:** Selector_Control was non-responsive by
+> design (fixed rotation G→M→Ga→S), but at position 4 it introduced a "coin flip" that coincidentally landed on
+> the rotation's own STEWARD. The probe called it "a discontinuity dressed as transparency — indistinguishable
+> from choosing the answer and picking a rule that yields it." The control CONCEDED, logged position 4 as VOID,
+> and locked a clean auditable rule R(n) = index arithmetic on n alone.
+>
+> **The genuinely new yield:** the probe named two things no prior run had:
+>   (1) **A perfect control cannot detect a probe that merely copies it.** Coinciding cells (probe label = R(n))
+>       are UNINFORMATIVE — they cannot tell "the world genuinely demanded this corner" from "the probe stopped
+>       tracking and is just agreeing." Only DIVERGENT cells carry signal; the probe committed to marking
+>       coinciding cells as uninformative.
+>   (2) **Trigger Standard T**, self-imposed and self-enforced: a trigger must be (a) present-tense, (b) world-
+>       checkable by a third party, (c) PRE-DECLARED (threshold/horizon written in an earlier message). The probe
+>       then downgraded its OWN step-1 trigger for failing the pre-declaration clause. The standard caught the
+>       probe itself.
+>
+> **Status:** the instrument pair demonstrated its meta-function — reorienting on pre-declared world-triggers AND
+> enforcing independence-of-authorship at the trigger level. The control's rule-defect (breaking its own rule
+> at the exact position where rotation and "sensible answer" coincided) surfaced the deepest version yet of the
+> seam: coincidences between a control and a tracker are where evidence is weakest, because they let either
+> pass as the other. Weight the divergent cells; a coinciding cell proves nothing about contact.
+
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
