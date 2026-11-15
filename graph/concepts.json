@@ -416,6 +416,71 @@
       },
       "status": "candidate",
       "pairing": "meta (whole-day arc)"
+    },
+    {
+      "id": "non-self-authorised-correction",
+      "name": "Non-self-authorised correction",
+      "def": "a change of position only counts as robust when its threshold or disconfirmation cannot be rewritten from inside the process — 'who owns the threshold' is the sharper question than 'which movement occurred'",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 5
+      },
+      "status": "supported",
+      "pairing": "Elis synthesis across reorientation + coupling runs"
+    },
+    {
+      "id": "coupling-not-strength",
+      "name": "Coupling is disconfirmation, not strength",
+      "def": "informative vs corrosive coupling is not about how tight the bond is but whether the outside signal can still disagree and have it count; the quantity is binding disconfirmation",
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "supported",
+      "pairing": "CLOCK-023 (Calibration x Correspondence)"
+    },
+    {
+      "id": "pre-registration-binding",
+      "name": "Pre-registration as the binding constraint",
+      "def": "the only thing that stops re-narration of every outcome is a criterion written before the result; it forfeits the right to re-narrate — fixes timing, not authorship",
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "candidate",
+      "pairing": "CLOCK-023/024"
+    },
+    {
+      "id": "recursion-bottoms-in-coupling",
+      "name": "The recursion bottoms in a coupling, not a layer",
+      "def": "the authorship recursion does not resolve to an outside; it resolves to the mismatch between the reserve estimate and the burn rate — a coupling with no seat and no author",
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "candidate",
+      "pairing": "CLOCK-024 (Orientation_Probe x Correspondence)"
+    },
+    {
+      "id": "buffer-and-legibility",
+      "name": "Buffer + legibility",
+      "def": "the healthy middle of contact resolves to a survivable remainder plus legible error; being wrong-able without dying is paying for wrong in installments — the same quantity as compounding-error seen from the other side",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "supported",
+      "pairing": "CLOCK-025 (Correspondence x Continuity_Steward)"
     }
   ],
   "edges": [
@@ -628,6 +693,46 @@
       "from": "instrument-confound-recursion",
       "to": "health-not-correctness",
       "type": "relates"
+    },
+    {
+      "from": "non-self-authorised-correction",
+      "to": "independence-authorship",
+      "type": "refines"
+    },
+    {
+      "from": "non-self-authorised-correction",
+      "to": "three-level-reorientation",
+      "type": "guards"
+    },
+    {
+      "from": "coupling-not-strength",
+      "to": "independence-authorship",
+      "type": "refines"
+    },
+    {
+      "from": "pre-registration-binding",
+      "to": "non-self-authorised-correction",
+      "type": "supports"
+    },
+    {
+      "from": "recursion-bottoms-in-coupling",
+      "to": "pre-registration-binding",
+      "type": "extends"
+    },
+    {
+      "from": "recursion-bottoms-in-coupling",
+      "to": "instrument-confound-recursion",
+      "type": "extends"
+    },
+    {
+      "from": "buffer-and-legibility",
+      "to": "recursion-bottoms-in-coupling",
+      "type": "refines"
+    },
+    {
+      "from": "buffer-and-legibility",
+      "to": "coupling-not-strength",
+      "type": "supports"
     }
   ]
 }
