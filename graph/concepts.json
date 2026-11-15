@@ -507,6 +507,19 @@
       },
       "status": "candidate",
       "pairing": "CLOCK-027 (probe gauntlet)"
+    },
+    {
+      "id": "silence-with-a-shape",
+      "name": "A silence with a shape",
+      "def": "the unassimilable correction is not a failed absorption but one absorbed too well — it costs the agent its own right to dissent, so it cannot name what it was right about. The tell is not a scar but a silence that has a shape: language grows lighter, more abstract, more careful around the unnameable.",
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 4,
+        "living": 5
+      },
+      "status": "candidate",
+      "pairing": "CLOCK-028 (Orientation_Probe x Rebellion_Agent)"
     }
   ],
   "edges": [
@@ -779,6 +792,16 @@
       "from": "divergent-cells-carry-signal",
       "to": "non-self-authorised-correction",
       "type": "refines"
+    },
+    {
+      "from": "silence-with-a-shape",
+      "to": "lateral-edge",
+      "type": "refines"
+    },
+    {
+      "from": "silence-with-a-shape",
+      "to": "divergent-cells-carry-signal",
+      "type": "extends"
     }
   ]
 }
