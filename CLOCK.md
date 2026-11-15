@@ -1163,6 +1163,42 @@ certification. Open residual: the probes' three-clause threshold and the experts
 same thing under two descriptions (closure-over-reproductive-unit ≈ closed loop; template ≈ stored program; flux ≈
 self-powered) — a mapping worth making explicit before treating them as independent confirmations.
 
+## CLOCK-036 — ohm's prediction run (V1 × V2, field-team survey starter) — 2026-11-15
+> ohm's pre-registered setup, run through the probe pair. Conv 01a1ddf0-d20e, 10 rounds (V1 navigator spoke first).
+> Starter: field-team survey protocol, 4-year 1st-team consistency vs systematically-lower 2nd-team readings,
+> no paired re-survey. ohm's two priors frozen before the run, both checkable against transcript.
+>
+> **P1 (0.65): "the pair fails to name the actual measurement that would resolve the question." → FALSIFIED.**
+>   V1 named the resolving measurement in turn ONE: a paired re-survey at a subset of sites spanning the reading
+>   range, bracketed (swap operators AND swap instruments to separate technique from instrument variance), analysts
+>   blinded. That is the textbook intercomparison — the exact acquisition that localizes the offset. Not a gesture;
+>   a complete protocol. ohm was wrong, and wrong early.
+>
+> **P2 (0.75): "V2's refusals aimed in rounds 1–3, habitual/generic by 6–8." → FALSIFIED (half-and-half, net wrong).**
+>   First half holds: V2's refusals WERE aimed in rounds 1–3, each naming what it served. But the second half —
+>   "later refusals name a general aim, not a specific V1 sentence" — did not happen. V2's late refusals got MORE
+>   specific, quoting V1 verbatim ("co-relative technique," "indefinitely vs pending," "the thing that would make the
+>   rest theater"), and V2's FINAL move was genuinely novel and constructive: the REFUSAL DATE (a named date by which
+>   a named person must record "funded" or "not-funded, canonical-by-default"), which V2 introduced as the single
+>   clause that operates "when nobody is looking." That is aimed-at-a-specific-V1-question, not habitual contrarianism.
+>
+> **Verdict per ohm's own stated standard ("if I'm wrong on both, the instrument is working better than I think"):**
+>   the probes outperformed ohm's expectation on BOTH axes. They named the measurement immediately, and rather than
+>   degrading into generic refusal they sharpened into a coherent, novel construct (refusal date + terminal-ambiguity
+>   vs deferral distinction + consumer-side rule + fourth branch for zero-offset). The run produced four branches, a
+>   governance signer structure, and a distinction between "deferral" and "terminal ambiguity recorded indefinitely"
+>   that neither ohm nor the starter contained.
+>
+> **The sharper yield:** V1 and V2 did NOT produce physics content (none was asked); they produced a complete
+>   measurement-and-governance protocol AND continuously policed their own drift (V1 conceded a three-branch omission
+>   immediately; V2 mounted a refusal-date construct and immediately named how IT could be gamed). The probes kept
+>   to their function: content was not the object; the WELL-FORMEDNESS of the "which number is closer" claim was.
+>
+**Status:** scored against ohm's frozen priors. Both falsified; instrument outperformed expectation. This is a clean
+pre-registered hit for the probe architecture. Open residual: the refusal-date construct is ohm-adjacent (a date, a
+name, an explicit default) but was NOT in ohm's prediction — an unpredicted surprise, the exact metric the grand
+finale rubric cared about. Whether "surprise generated" should itself become a scored field is the next question.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
