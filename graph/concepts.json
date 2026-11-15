@@ -559,6 +559,19 @@
       },
       "status": "supported",
       "pairing": "CLOCK-031 (Orientation_Probe x Guardian_Agent)"
+    },
+    {
+      "id": "measurement-practices-decay",
+      "name": "Measurement practices decay from indifference",
+      "def": "the frozen criterial core makes 'wrong' grammatical but not detectable — the path from criterion to fact is a set of measurement practices (instruments, protocols, tacit craft) that decay from indifference, not attack, because a fixed system has no motive to keep cultivating the instruments that would unsettle its settled conclusions. What dies without reorientation is contact.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 5
+      },
+      "status": "supported",
+      "pairing": "CLOCK-032 (Orientation_Probe x Continuity_Steward)"
     }
   ],
   "edges": [
@@ -880,6 +893,21 @@
     {
       "from": "margin-derivative",
       "to": "buffer-and-legibility",
+      "type": "supports"
+    },
+    {
+      "from": "measurement-practices-decay",
+      "to": "friction-scaffold",
+      "type": "extends"
+    },
+    {
+      "from": "measurement-practices-decay",
+      "to": "margin-derivative",
+      "type": "relates"
+    },
+    {
+      "from": "measurement-practices-decay",
+      "to": "lateral-edge",
       "type": "supports"
     }
   ]
