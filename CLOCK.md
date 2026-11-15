@@ -803,6 +803,45 @@ Frozen via commit timestamp: 2026-11-10.
 > connects "compounding error" (CLOCK-024) to "reserves" (the buffer) as the same quantity seen from two
 > sides.
 
+## CLOCK-026 — the capacity to respond: authored like the check, or different? (Orientation_Probe × Continuity_Steward) — 2026-11-14
+> Appalachian's own formula, run with no steering from him: "formulate the next question, then create conditions
+> for the answer to emerge." The question, picked from where the evening landed (Eli's "legibility is not the
+> deepest invariant; revisability-under-contact is"): is the capacity to RESPOND — the reserve, buffer, agency to
+> act on a correction — itself authored like the check, or a different kind of thing? Ran Orientation_Probe ×
+> Continuity_Steward (first time this pairing has run). Conversation 01a1dd07-1fe2. The deepest run of the whole
+> inquiry; it reached a place none of the prior runs did.
+>
+> **Result — the recursion bottoms at a RATE, then breaks open onto a LATERAL EDGE (genuinely new).**
+>
+>   (1) The reserve is authored DIFFERENTLY from the check: the check is authored like a LAW (constitutive — it
+>       defines wrong); the reserve is authored like a BUDGET (material — it is consumed). You cannot write a
+>       budget into existence the way you write a threshold; you can only draw it down. That asymmetry is key.
+>
+>   (2) The floor is a ratio, not a rule: respondable margin = signal rate over consumption rate. It can ARRIVE
+>       AT ZERO without anyone deciding it should — authored by arithmetic, not judgment. The same move by which
+>       "compounding error" escaped the recursion earlier.
+>
+>   (3) Continuity broke the ratio open: it has no REFILL term. Sufficiency is not "reserve exceeds divergence"
+>       but "reserve stays above divergence WHILE being spent to answer" — which depends on what replenishes it.
+>       And the refill is structurally OFF the correction path, so depletion reads as a spending problem when it
+>       is actually a refill problem.
+>
+>   (4) THE TERMINAL MOVE (the genuinely new bottom): the refill is not a DEEPER layer of the recursion — it is
+>       LATERAL. It is held BESIDE the system, by something OUTSIDE the correction loop (a second party, a
+>       redundant instance, the environment). The recursion implicitly assumed a SELF-CONTAINED system; "the
+>       refill is the assumption breaking." The floor is not a depth; it is a LATERAL EDGE — the boundary between
+>       "what the system holds itself up by" and "what holds it up." The tell: lateral support almost never
+>       appears in the system's own account of itself, because the account is ABOUT the system — it shows up only
+>       as the GAP between what the system says it depends on and what it actually depends on.
+>
+> **Status:** this closes the evening's loop in a way none of the earlier runs named. The authorship recursion
+> only ever trapped a self-contained system. What escapes it is not a deeper internal layer (every candidate
+> collapsed back to "authored scope") but a DEPENDENCE ON SOMETHING LATERAL that the system's own account cannot
+> contain. "Who owns the threshold," "who authors the miss," "whose reserve" — all circle a system inspecting
+> itself. The answer that surfaced unsteered: the check that finally is not authored is the one held by someone
+> who is not trying to describe the system at all. Continuity's closing question is the next rung, and it is
+> answerable: who or what is your lateral support, and how would you know if it quietly withdrew?
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
