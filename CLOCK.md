@@ -986,6 +986,40 @@ Frozen via commit timestamp: 2026-11-10.
 > keeps it cheap. The convergence: every direction the night took bottoms in "the thing that can fail under the
 > same pressure that made it necessary."
 
+## CLOCK-031 — what should provoke reorientation (Orientation_Probe × Guardian_Agent) — 2026-11-14
+> Appalachian supplied only the question; I chose the pairing and starter. Paired the probe (can change corners)
+> with Guardian (holds boundaries) — the mover vs. the holder — to triangulate WHEN movement is earned.
+> Conversation 01a1dd60-b2aa. The most operationally concrete run of the night.
+>
+> **Result — world-trigger vs holder-trigger; then the trigger/look/move separation; then the genuinely new,
+> testable instrument: the MARGIN-DERIVATIVE.**
+>
+>   (1) Three tests for a world-trigger (each with a named exploit): antecedent-specificability, stance-
+>       independence, discriminating power. Holder-triggers feel like news but scale with investment, not with
+>       the world — discomfort, boredom, sunk-cost ache, future-tense pre-emption.
+>
+>   (2) Guardian's split: "what should make me LOOK" is not "what should make me MOVE." Looks are cheap; moves
+>       are expensive. The probe conceded and gated looks by a weaker-but-real test (mechanism-bearing) so the
+>       paradigm-break datum can pass without opening "always be looking" laundering.
+>
+>   (3) THE NEW INSTRUMENT: the distinction that survives is CLAIM vs MARGIN — a trigger can discriminate the
+>       claim (move) or discriminate the margin (re-tighten). But re-tightening is correct at every instant and
+>       lethal in aggregate: "re-tightening is the anesthesia of a dead claim." The tell is not the level of the
+>       margin but its DIRECTION across the re-tightening cycle — is it recovering, or monotonically draining?
+>       Three consecutive non-recovering re-tightenings = a dead claim wearing disciplined clothes. The trajectory,
+>       not the single trigger, is the paradigm-break look-trigger.
+>
+>   (4) The frequency-budget revision: "reorientation should be rare" is true PER TRIGGER and false PER
+>       TRAJECTORY. The budget belongs to the trajectory (named in advance: "when N consecutive re-tightenings
+>       fail to recover, move or re-examine the anchor"), not to the single event.
+>
+> **Status:** this is the whole evening's recursion ("the thing that fails under the same pressure that made it
+> necessary") operationalized. Where every prior run found the pattern language-abstract, this one produced a
+> concrete, pre-registrable counter: the re-tightening cycle is itself the look-trigger for the unenumerated
+> rival. The open end: the margin-derivative test needs a "unit of recovery" threshold, and any threshold can be
+> gamed loose — the same gamy-threshold seam, now inside the derivative test. One turn short of Guardian's answer
+> to that.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
