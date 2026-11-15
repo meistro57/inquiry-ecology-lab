@@ -611,6 +611,19 @@
       },
       "status": "candidate",
       "pairing": "CLOCK-035"
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "def": "the maintained relation between a claim and what it is about — maintained by testing, degraded by drift, delivered through a channel, and killed by inattention. One concept, four aspects (criterion/test, trajectory/drift, channel, connective tissue); the sharp epistemic seam is that the decay aspect is not detectable from inside the testing aspect.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 5
+      },
+      "status": "candidate",
+      "pairing": "CLOCK-037 (semantic-drift target #1; probe single-sense reading, pending governing-definition test)"
     }
   ],
   "edges": [
@@ -978,6 +991,16 @@
       "from": "instrument-splits-answer",
       "to": "closed-self-powered-loops",
       "type": "maps-to"
+    },
+    {
+      "from": "contact",
+      "to": "buffer-and-legibility",
+      "type": "defines"
+    },
+    {
+      "from": "contact",
+      "to": "measurement-practices-decay",
+      "type": "defines"
     }
   ]
 }
