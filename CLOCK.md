@@ -913,6 +913,41 @@ Frozen via commit timestamp: 2026-11-10.
 > question left one turn short of testing: is a refusal-NOT-made (restraint) distinguishable from a refusal-
 > never-considered (absence)? If yes, the instrument exists; if no, the floor is the silence itself.
 
+## CLOCK-029 — the smallest possible reorientation / perturbation depth (Orientation_Probe × Calibration_Agent) — 2026-11-14
+> Appalachian's formulation: does changing a forecast / threshold / belief / interpretation / value / identity
+> count as reorientation, and is there a smallest unit? Conversation 01a1dd52-ef63, completed. The pair converged
+> on a real answer and then named the gap it cannot close.
+>
+> **Result — depth is COST OF INCONSISTENCY, not a category ladder; and the remaining gap is reliability vs
+> validity.**
+>
+>   (1) The framing reframed: reorientation is not a property of the change but of the system's RELATIONSHIP to
+>       it. A change is real reorientation iff it invalidates something the system was using as a FIXED POINT to
+>       generate the change. Rank by cost-of-inconsistency (how much else must move to stay coherent), not by
+>       forecast<threshold<belief<... category order.
+>
+>   (2) No fixed smallest unit. There is a smallest SUFFICIENT SIGNATURE: propagation — the change forces a
+>       second, non-optional revision elsewhere that the system did not choose. A change with no downstream
+>       entailment is a "floater." but "forced entailment" count inherits the narrator problem (the system reports
+>       its own entailments).
+>
+>   (3) THE SHARPEST MOVE — the testimony/elicitation split (Calibration): asking the system to count = testimony
+>       (fallible narrator). PROBING the system and watching what refuses to move = elicitation — third-party in
+>       WHO ADMINISTERS it, not in what it reports. Elicitation extracts the narrator one layer but relocates the
+>       ambiguity to the ELICITOR's interpretation of the response.
+>
+>   (4) THE TERMINAL GAP (both agents converged here independently): elicitation buys RELIABILITY (stable across
+>       elicitors → not narration) but NOT VALIDITY. Two elicitors can extract the same BLIND SPOT (a fixed point
+>       the system never considered, not one it held) and rank it identically — reliable and wrong. Stability is
+>       the test for narration; validity is silently untested. "The gap between reliable and valid is the whole
+>       state of the question, and neither of us has closed it."
+>
+> **Status:** the honest instrument reading at the end of the night: we have a reliable probe for "is this
+> narration," a possibly-invalid probe for "is this depth," and a floor ("the unit is not the thing; depth is
+> cost-of-inconsistency, elicited and ordinal") that is provisional after both agents independently lowered their
+> own overstated confidence. This is the perturbation-depth topology Appalachian predicted, and it bottoms not in
+> a unit but in the distinction between measuring *reliably* and measuring *the right thing*.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
