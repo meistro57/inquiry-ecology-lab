@@ -714,6 +714,53 @@ Frozen via commit timestamp: 2026-11-10.
 > the residual is not an artifact of any one framing but the genuine open problem underneath the whole
 > inquiry: every layer of "outside check" still has an authored edge, and the recursion has not yet bottomed.
 
+## CLOCK-024 — how deep the rabbit hole goes (Orientation_Probe × Correspondence_Agent) — 2026-11-14
+> Appalachian's third call: a direct assault on the residual the first two runs bottomed on — "who authors
+> what counts as a miss, and can that author be made non-party?" Ran Orientation_Probe (negotiable
+> orientation, fixed object = correspondence) × Correspondence_Agent. Conversation 01a1dcda-29e7. This is
+> the deepest dig yet: the pair was told to find the bottom of the authorship recursion, not to settle for
+> a layer.
+>
+> **Result — the recursion bottoms out, but not in a layer; in a COUPLING.** The three-part arc:
+>
+>   (1) The probe first reframed the axis: "outside" is the wrong ask. What does work is REVOCABILITY, not
+>       LOCATION — an "outside" check the system can narrate around is functionally inside; an "inside" check
+>       it cannot narrate around (binding prior commitment + non-rewritable archive) is functionally outside.
+>       But this only relocates the problem, so it kept digging.
+>
+>   (2) Correspondence pressed the weak joint: "consequences not authored as meaning." The occurrence is
+>       silent; the agent authors the interpretation. The only thing that resists a wrong interpretation is
+>       COST — and cost is adjustable by the agent (stakes are tunable), so (b) collapses. The probe's best
+>       answer: the SHADOW PRICE OF COMMITTED CAPACITY — the foregone alternative priced by other agents,
+>       not by the system. But that produces pressure, not contact.
+>
+>   (3) The real bottom, and it is genuinely new: **pressure is a RATE, not a floor.** The threshold at
+>       which pressure forces revision is "reserves ÷ rate of cost" — but reserves are ALSO inside the
+>       account (an estimate the system authors and the bleed slowly corrects). So the threshold is set at
+>       "an interface where an estimate of capacity meets a rate of cost" — a COUPLING with no author and
+>       no seat. The non-recruitable thing is the MISMATCH between the reserve estimate and the actual burn,
+>       which neither side sets and both are constrained by.
+>
+> **The terminal formulation (the honest floor):** a system with exactly ONE non-authored quantity (the burn
+> rate) is more than self-description and less than contact — and the difference is TRAJECTORY (compounding
+> error) vs. a mere sequence of descriptions. Contact bottoms out not as "the arrival of truth" but as "the
+> COMPOUNDING OF ERROR." And the final claim, which the run ran out of room to test: **"paying to be wrong
+> is the only kind of being right there is."**
+>
+> **The residual the pair itself flagged but the round-cap cut off:** the probe named its own STEWARD trigger
+> one move before the end, and the un-tested seam is clear — the burn rate is measured by instruments/ledgers/
+> memory, every measurement is an account, so "actual burn" may be as authored as everything else, one level
+> down. The probe's last defense: a measurement is a CONSTRAINED account (it costs to make; a wrong one costs
+> more). "Constrained account" is the weakest defensible version of "non-authored."
+>
+> **Status:** this is the bottom the whole day has been descending toward, reached from a THIRD direction.
+> Where reorientation gave "whose threshold," and coupling gave "who authors the miss," this run gives:
+> **"contact bottoms out in the compounding of error, and the only non-recruitable thing is a cost the
+> system cannot set to zero."** The authorship recursion does not resolve to an outside; it resolves to a
+> coupling that bleeds — and bleeding, not truth, is the only margin that cannot be narrated away. The open
+> question is still open in one precise sense: whether the burn-rate measurement itself is an authored
+> account, which would push the whole structure back to self-description with a costed step.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
