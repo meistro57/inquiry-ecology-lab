@@ -1123,6 +1123,46 @@ Frozen via commit timestamp: 2026-11-10.
 > landing on a slope with real axes and a quasi-quantized invariant. The residual — does the loop count quantize
 > exactly anywhere — was left open ("certainty is a phase transition I have not personally observed").
 
+## CLOCK-035 — same question, two instruments: rock-vs-flower through expert personas vs. probe pair — 2026-11-14
+> Appalachian's comparison: run HeavyMetal's rock-vs-flower (3 lenses: resonance/matter/intelligence) through BOTH the
+> domain-expert pair (Signal_Propagation_Agent × Material_Physics_Agent, conv 01a1dd9c) and the probe pair
+> (Orientation_Probe_V1 × V2, conv 01a1dda2). Identical starter, verbatim, 10 rounds each. This is the clean A/B:
+> the VARIABLE is the instrument, not the topic.
+>
+> **Result — same atoms, same laws, SAME questions, two different answers shaped by two different lenses.**
+>
+>   EXPERT PAIR (Signal × Material): answered the QUESTION. Converged directly on physics — passive vs active
+>       resonance; frozen lattice vs aqueous percolating bond-graph; signal-vs-intelligence as a LOOP (stored state
+>       read back against a self-maintained reference). Landed on: "category is ours, the invariant is the medium's"
+>       — candidate invariant = count of closed self-powered loops, quasi-quantized, smeared by leakage; then refined
+>       to channel CAPACITY × recursion depth. Terminal honesty: the channel carries shape, not truth (ill-posed
+>       inverse problem; the medium cannot refer).
+>
+>   PROBE PAIR (V1 revisable-navigator × V2 anchored-counterparty): answered the QUESTION AS A CLAIM. Almost no
+>       new physics; instead a 10-round audit of what KIND of claim a physical threshold is. V1 pre-declared a
+>       falsifier, then got caught three times moving criteria (normativity-as-physics, forecast/grader conflation,
+>       gated-transport as pseudo-clause). V2 froze a criterial core and issued aimed refusals, each naming exactly
+>       what it served. Terminal convergence: the life-threshold is a THREE-clause conjunction (flux-as-active-
+>       transport · closure-over-reproductive-unit · heritable template), each clause excluding a named near-miss;
+>       and "plant intelligence (strong sense)" is INSTRUMENT-LIMITED (not structural-gap) — they refused to claim
+>       unoperationalizable-in-principle because that's a conclusion-of-position their core-rule forbids.
+>
+>   THE COMPARISON ITSELF: the expert pair produces the CONTENT (what the physics IS); the probe pair produces the
+>       EPISTEMIC NEGOTIATION (whether the CONTENT is a well-formed claim). Two different answers to one question,
+>       and neither is the other's. The probes did not rediscover closed-self-powered-loops; instead they produced a
+>       clean three-clause threshold by a different route. The experts found the invariant; the probes certified (or
+>       refused to certify) the criterion-shape. This is the cleanest instance yet of the lab's running theme —
+>       "who certifies the scorer" — made concrete: the scorer's answer (invariant) and the scorer's SELF-AUDIT
+>       (criterion drift) are different objects, and you need both instruments to see both.
+>
+>
+
+**Status:** comparison delivered and pushed. Both convs complete (10 turns each). The sharpest yield is not a new
+physics fact but an INSTRUMENT-DEPENDENT split: topic-fixed, instrument-varied, answer diverges into content-vs-
+certification. Open residual: the probes' three-clause threshold and the experts' loop-count invariant may be the
+same thing under two descriptions (closure-over-reproductive-unit ≈ closed loop; template ≈ stored program; flux ≈
+self-powered) — a mapping worth making explicit before treating them as independent confirmations.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
