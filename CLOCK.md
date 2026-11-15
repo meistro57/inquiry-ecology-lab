@@ -1232,6 +1232,45 @@ finale rubric cared about. Whether "surprise generated" should itself become a s
 >   > claims, each treated as settled. No single place in the records defines the word by itself. Two readers are
 >   > asked to say what the word actually means across all the places it is used.
 
+
+## CLOCK-037 SCORE — semantic-drift target #1 "contact": instrument worked, verdict subtler than prior — 2026-11-15
+
+> Conv 01a1e16d-d9cf, 10 rounds, complete. Scored against the two frozen predictions.
+>
+> **P1 (0.70 — "probes confirm several non-equivalent jobs + hold relation-vs-capacity split"): HALF-RIGHT, net FALSIFIED in the sharpest way.**
+>   They DID find the split: V1 named criterion/trajectory/channel/connective-tissue and flagged usage-4 as "the only
+>   one that dies" (exactly the relation-vs-capacity seam). Then V2, under ITS OWN discipline, collapsed it — ran a
+>   single-sense paraphrase test ("contact = the maintained relation between a claim and what it's about; maintained
+>   by testing, degraded by drift, delivered through a channel, killed by inattention") that parsed all four usages
+>   with zero remainder, and DROPPED the multi-job reading. So they found the drift, then talked themselves out of it.
+>   Instrument verdict: ONE concept, four aspects, one ACTIONABLE epistemic seam (usage-4 decay is not detectable from
+>   inside usage-1 testing). That is narrower than my prior — and it is the surprise the architecture was built to
+>   produce.
+>
+> **P2 (0.55 — "sharper operationalization than the corpus, not echo"): HIT.**
+>   The single-sense definition + the "stipulation must be marked as stipulation, not definition" documentation
+>   obligation are both genuinely sharper than anything in CLOCK. Generation, not echo. The calibration check passed:
+>   the instrument can produce, not just reproduce.
+>
+> **The real yield (not a prediction, a finding):** the drift instrument does NOT settle "several jobs" — it settles
+>   "no defining occurrence + one observability asymmetry (undetectable decay)." That is the correct, honest report for
+>   "contact": it is best read as ONE concept with a sharp epistemic seam, not four drifted terms. The lab's actual
+>   defect is not equivocation — it is that "contact" was never defined while carrying an observability claim (CLOCK-032's
+>   "what dies is contact") that no usage-1 test can detect. The actionable instruction: adopt a definition, or mark the
+>   absence; and stop resting settled claims on an undefined word.
+>
+> **Meta-finding (the instrument behind the instrument):** the probes spent the back half of the run on THEIR OWN
+>   drift — the flatterer/converger question, "who moved on evidence vs eloquence," drop conditions, neutral-grader
+>   nonexistence. They converged on: forecasts made by a party who can't see the records are "assertions in a test's
+>   clothing," gradable only by a neutral corpus-holder who may not exist. That is the "who certifies the scorer" theme
+>   reaching its own term: the drift detector immediately built the argument that the drift detector cannot certify itself.
+>
+> **Open residual:** the single-sense reading is V2's paraphrase, one author at one moment (their own caveat). The real
+>   "contact" node in graph/concepts.json is still ABSENT — the instrument diagnosed an undefined term and recommended
+>   defining it, and the next concrete step is: write the definition (or a funded "definition" status) into the graph,
+>   and re-run to see if the probe's single-sense reading survives as the governing definition. That closes the loop the
+>   run deliberately left open.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
