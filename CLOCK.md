@@ -1089,6 +1089,40 @@ Frozen via commit timestamp: 2026-11-10.
 > band (smaller correction? higher bar? mandatory reversal?), and does reversibility-depletion belong inside
 > reversal-cost accounting as a first-class term? Left as a live hook, which is the correct ending — undetermined.
 
+## CLOCK-034 — rock vs flower under resonance / matter / intelligence (Signal_Propagation × Material_Physics) — 2026-11-14
+> HeavyMetal85's run: compare a rock and a flower through three invariants, abstract but within known physics.
+> Built two new personas for it (Signal_Propagation_Agent, Material_Physics_Agent) — no prior signal or material-
+> physics persona existed. Conversation 01a1dd9c-8667, finished (open-ended; no wrong answer, per the request).
+>
+> **Result — same atoms, same laws, one physical regime difference; and the boundary is a SLOPE, not a line.**
+>
+>   (1) RESONANCE: both are mechanical resonators (phonon carriers, same wave equation). Rock = PASSIVE resonance
+>       (dissipate to heat, medium agrees with itself). Flower = ACTIVE resonance (thigmonasty, action potentials)
+>       where the medium supplies gain — it pays to amplify a frequency it "wants."
+>
+>   (2) MATTER: both condensed matter, same Coulomb forces. The difference is the flower's hydrogen bonds in an
+>       aqueous matrix — a percolating, exchangeable bond graph vs. the rock's frozen lattice. The physical separator
+>       is free-energy throughput: a flower is a dissipative structure holding itself OFF equilibrium; a rock sits
+>       at a local minimum and stays.
+>
+>   (3) INTELLIGENCE: signal is not intelligence. Intelligence needs a channel with a LOOP — stored state written,
+>       READ BACK against a self-maintained reference, and ACTUATED. The pair converged on a five-axis scale
+>       (reference ownership, stored state, readback, actuation, reversible reachability): rock = 0 on all, flower
+>       = high on all, and the slope is populated by everything interesting (seed = high stored state + latent
+>       reference + gated reachability; virus = borrowed reference; mitochondrion = shared reference; flame =
+>       gradient with no stored state).
+>
+>   (4) THE HONEST BOTTOM: there is no sharp phase boundary — "living" is a threshold-detector our language applies
+>       to a continuous, real, measurable variable. The strongest candidate for a genuinely sharper cut (Material's
+>       move) is a TOPOLOGICAL invariant: the COUNT OF CLOSED SELF-POWERED LOOPS, quantized only approximately
+>       (smeared by leakage), which no real living system reaches exactly. So "alive" is neither "hot" (a scalar)
+>       nor melting (a phase boundary) — it is an approximately-quantized loop count on a continuous substrate.
+>
+> **Status:** open-ended as requested. The pair named what holds a mineral and a flower apart physically (free-
+> energy flux + a readback loop against a maintained reference), then eroded its own sharp boundary honestly,
+> landing on a slope with real axes and a quasi-quantized invariant. The residual — does the loop count quantize
+> exactly anywhere — was left open ("certainty is a phase transition I have not personally observed").
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
