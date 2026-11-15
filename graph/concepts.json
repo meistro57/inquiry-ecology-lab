@@ -520,6 +520,19 @@
       },
       "status": "candidate",
       "pairing": "CLOCK-028 (Orientation_Probe x Rebellion_Agent)"
+    },
+    {
+      "id": "reliability-not-validity",
+      "name": "Reliability is not validity",
+      "def": "a probe for depth can be stable across elicitors (reliable, catches narration) and still measure the wrong thing (a shared blind spot, not a real fixed point) — reliable and wrong. Stability is the test for narration; validity is silently untested, and the gap between them is where depth-measurement bottoms out.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "supported",
+      "pairing": "CLOCK-029 (Orientation_Probe x Calibration_Agent)"
     }
   ],
   "edges": [
@@ -802,6 +815,16 @@
       "from": "silence-with-a-shape",
       "to": "divergent-cells-carry-signal",
       "type": "extends"
+    },
+    {
+      "from": "reliability-not-validity",
+      "to": "divergent-cells-carry-signal",
+      "type": "refines"
+    },
+    {
+      "from": "reliability-not-validity",
+      "to": "non-self-authorised-correction",
+      "type": "refines"
     }
   ]
 }
