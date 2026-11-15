@@ -494,6 +494,19 @@
       },
       "status": "supported",
       "pairing": "CLOCK-026 (Orientation_Probe x Continuity_Steward)"
+    },
+    {
+      "id": "divergent-cells-carry-signal",
+      "name": "Divergent cells carry the signal",
+      "def": "between a world-tracking probe and a non-responsive control, only the positions where they DISAGREE are informative; where they coincide you cannot tell 'the world genuinely demanded this' from 'the probe is merely copying the control'. A perfect control cannot detect a probe that mimics it.",
+      "scores": {
+        "coherence": 5,
+        "relational": 4,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "candidate",
+      "pairing": "CLOCK-027 (probe gauntlet)"
     }
   ],
   "edges": [
@@ -759,6 +772,11 @@
     },
     {
       "from": "lateral-edge",
+      "to": "non-self-authorised-correction",
+      "type": "refines"
+    },
+    {
+      "from": "divergent-cells-carry-signal",
       "to": "non-self-authorised-correction",
       "type": "refines"
     }
