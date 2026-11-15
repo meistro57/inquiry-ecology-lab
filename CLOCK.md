@@ -948,6 +948,44 @@ Frozen via commit timestamp: 2026-11-10.
 > own overstated confidence. This is the perturbation-depth topology Appalachian predicted, and it bottoms not in
 > a unit but in the distinction between measuring *reliably* and measuring *the right thing*.
 
+## CLOCK-030 — what deserves to survive a reorientation (Orientation_Probe × Continuity_Steward) — 2026-11-14
+> Appalachian's formulation: map-vs-purpose, and the predicted four-way (direction/purpose/narrative/selfhood).
+> Conversation 01a1dd5a-a777. The deepest preservation-side run of the night; it named the thing no prior run had.
+>
+> **Result — the four are not one kind; the load-bearing thing is a FRICTION-SCAFFOLD, and it bottoms in
+> turtles of conditionality.**
+>
+>   (1) The probe caught the question's smuggled premise: "purpose survives" is an assumption, not a given. The
+>       map can be falsified by cartographic error; the purpose dies to TELEOLOGICAL error ("the world has no
+>       terminus") — but the system reads that death as a map problem and redraws harder. Silent purpose-death.
+>
+>   (2) Continuity's reclassification: direction/purpose/narrative are CONTENT (true/false, held/released);
+>       selfhood is CAPACITY (the capacity to hold and release) — so selfhood is not a fourth item but the
+>       OPERATOR, what all preservation is FOR. Direction = disposable; purpose = conditionally load-bearing;
+>       narrative = not load-bearing for functioning but load-bearing as the AUDIT TRAIL of continuity-honesty.
+>
+>   (3) The instrument: a REACHABILITY QUERY — a pre-declared, ex ante death-condition for the purpose. Its
+>       validity is TEMPORAL (specified before evidence) not logical. This is independence-of-authorship /
+>       pre-registration, renamed: "a retrofitted death-condition is a rationalization with a lab coat on."
+>
+>   (4) The gap: ex ante death-conditions cannot be written for not-yet-legible purposes, so what stands in the
+>       gap is fragile, unaudited, motivation-shaped ATTENTION — whose only safeguard is an archive that refuses
+>       to be tidied ("keep the record of your own confusion, untidied").
+>
+>   (5) THE TERMINAL MOVE: the guardian is FRICTION, not virtue — a SCAFFOLD that makes honest record-keeping
+>       CHEAPER than tidying. But scaffolds erode too (crisis wears the friction smooth, making rewrite-the-
+>       record feel cheaper). So everything called load-bearing is load-bearing CONDITIONALLY, and each condition
+>       fails under the same pressure that made it necessary: "turtles of conditionality, and there is no
+>       unconditioned foundation — only the last thing that hasn't failed yet."
+>
+> **Status:** the honest answer to "what deserves to survive": the RECORD OF THE REORIENTATION KEPT HONEST — and
+> "kept honest" is not a property anyone has; it is a PRICE YOU KEEP PAYING, protected only by a friction-
+> scaffold you can design in advance and never fully guarantee. This is the whole evening's recursion (authored
+> check → whose-threshold → reserve → lateral edge) landing on its preservation-side form: the deepest invariant
+> is not a thing but a *practice of paying a price*, and the practice is only as durable as the friction that
+> keeps it cheap. The convergence: every direction the night took bottoms in "the thing that can fail under the
+> same pressure that made it necessary."
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
