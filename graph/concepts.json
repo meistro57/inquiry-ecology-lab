@@ -481,6 +481,19 @@
       },
       "status": "supported",
       "pairing": "CLOCK-025 (Correspondence x Continuity_Steward)"
+    },
+    {
+      "id": "lateral-edge",
+      "name": "The lateral edge",
+      "def": "the reserve that makes correction possible is replenished by something OUTSIDE the correction loop — held beside the system, not deeper inside it. The authorship recursion only traps a self-contained system; the refill is the assumption breaking, and it shows up only as the gap between what the system says it depends on and what it actually depends on.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 5
+      },
+      "status": "supported",
+      "pairing": "CLOCK-026 (Orientation_Probe x Continuity_Steward)"
     }
   ],
   "edges": [
@@ -733,6 +746,21 @@
       "from": "buffer-and-legibility",
       "to": "coupling-not-strength",
       "type": "supports"
+    },
+    {
+      "from": "lateral-edge",
+      "to": "recursion-bottoms-in-coupling",
+      "type": "extends"
+    },
+    {
+      "from": "lateral-edge",
+      "to": "buffer-and-legibility",
+      "type": "refines"
+    },
+    {
+      "from": "lateral-edge",
+      "to": "non-self-authorised-correction",
+      "type": "refines"
     }
   ]
 }
