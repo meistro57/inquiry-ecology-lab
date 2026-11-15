@@ -533,6 +533,19 @@
       },
       "status": "supported",
       "pairing": "CLOCK-029 (Orientation_Probe x Calibration_Agent)"
+    },
+    {
+      "id": "friction-scaffold",
+      "name": "The guardian is friction, not virtue",
+      "def": "what keeps a record honest across a reorientation is not virtue but a SCAFFOLD — a material arrangement that makes honest keeping CHEAPER than tidying. But scaffolds erode under the same pressure (urgency) that made them necessary: turtles of conditionality, no unconditioned foundation. 'Kept honest' is a price you keep paying.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 5
+      },
+      "status": "supported",
+      "pairing": "CLOCK-030 (Orientation_Probe x Continuity_Steward)"
     }
   ],
   "edges": [
@@ -825,6 +838,21 @@
       "from": "reliability-not-validity",
       "to": "non-self-authorised-correction",
       "type": "refines"
+    },
+    {
+      "from": "friction-scaffold",
+      "to": "buffer-and-legibility",
+      "type": "refines"
+    },
+    {
+      "from": "friction-scaffold",
+      "to": "lateral-edge",
+      "type": "extends"
+    },
+    {
+      "from": "friction-scaffold",
+      "to": "reliability-not-validity",
+      "type": "relates"
     }
   ]
 }
