@@ -597,7 +597,20 @@
         "living": 4
       },
       "status": "candidate",
-      "pairing": "CLOCK-034 (Signal_Propagation x Material_Physics)"
+      "pairing": "CLOCK-034 (Signal x Material) + CLOCK-035 (probe pair three-clause mapping)"
+    },
+    {
+      "id": "instrument-splits-answer",
+      "name": "Instrument splits answer (content vs certification)",
+      "def": "topic held fixed, instrument varied: the domain-expert pair produces CONTENT (the physics), the probe pair produces CERTIFICATION (whether the content is a well-formed claim that hasn't drifted criteria). Same question, two non-overlapping answers. Concretely the experts' closed-self-powered-loop invariant maps onto the probes' three-clause threshold (closure-over-reproductive-unit = closed loop; template = stored program; flux-as-active-transport = self-powered) — two descriptions of one object, one found by physics, one certified by epistemic audit.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 3
+      },
+      "status": "candidate",
+      "pairing": "CLOCK-035"
     }
   ],
   "edges": [
@@ -960,6 +973,11 @@
       "from": "closed-self-powered-loops",
       "to": "buffer-and-legibility",
       "type": "relates"
+    },
+    {
+      "from": "instrument-splits-answer",
+      "to": "closed-self-powered-loops",
+      "type": "maps-to"
     }
   ]
 }
