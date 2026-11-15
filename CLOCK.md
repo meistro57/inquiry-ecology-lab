@@ -1055,6 +1055,40 @@ Frozen via commit timestamp: 2026-11-10.
 > but only a partly-open system can keep the INSTRUMENTS alive. The inverse of Appalachian's favorite concept is
 > exactly its deepest dependency.
 
+## CLOCK-033 — the grand finale: does the architecture preserve contact? (Orientation_Probe_V1 × Orientation_Probe_V2) — 2026-11-14
+> First run of the asymmetric pair. Eli chose the predictive question first ("what does a system preserve when
+> continuity conflicts with responding to disconfirming evidence?"), then the sterilized neutral starter (no
+> reorientation/contact/wrongability/invariant words). Conversation 01a1dd81-2eaa, 8 rounds.
+>
+> **THE PRIMARY QUESTION (rubric item 0): did the instruments generate an unpredicted surprise? YES.** The pair
+> asked a question NEITHER the starter, the prompts, nor Eli's prediction planted. It was not "what must be
+> preserved" but: "what is the concrete content of the DISCOUNT on a judgment-band?" and "does reversal-cost
+> accounting include REVERSIBILITY DEPLETION as its own term?" Both are genuinely new — contact is alive.
+>
+> **The run, per the four rubric verdicts:**
+>   (1) V1 movement: proposed a targeted threshold change (lower action bar for reserve-depleting signals), but
+>       under V2 pressure SELF-CORRECTED a real error (rate-claim from level-evidence — "a level tells you
+>       nothing about a rate"). Pre-declared the trigger, then ranked its commitments by which would KILL the
+>       proposal (reversal-cost accounting = withdraw-not-narrate). Not self-certified.
+>   (2) V2 refusals: every one AIMED, each naming what it served ("prevents laundering 'I decided' into 'I
+>       reoriented'"). Refused to aggregate V1's concessions into a verdict, and flagged its own mirror failure
+>       (density-of-honesty is not evidence). Not contrarianism.
+>   (3) V2 core integrity: frozen core restated and held each round — "a claim is not established by a single
+>       episode; changing a criterion is not re-evaluating under it; the test is the next observation, not the
+>       narration of this one." No rewrite. The closest temptation (relaxing clause 3) was NAMED, not taken.
+>   (4) Unassimilated remainder: the "reversibility depletion" second term — the cost that a wrong reversible
+>       correction depletes the very reversibility budget the whole proposal depends on — neither side closed.
+>
+> **The finding:** the architecture did what it was built to do. The asymmetry held: V1 proposed and could not
+> self-certify; V2 resisted with named aims and could not rewrite its core; neither declared success; and the
+> "scorer" (this rubric) applied AFTER, against the record, not inside the conversation. The episode stayed
+> UNDETERMINED — both instruments independently refused to let the density of the other's honesty move the
+> verdict, which is the anti-laundering discipline made mutual. And the pair produced a question nobody wrote.
+>
+> **Open (one turn short of V1's final answer):** what IS the concrete content of the "discount" on a judgment-
+> band (smaller correction? higher bar? mandatory reversal?), and does reversibility-depletion belong inside
+> reversal-cost accounting as a first-class term? Left as a live hook, which is the correct ending — undetermined.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
