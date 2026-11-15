@@ -670,6 +670,50 @@ Frozen via commit timestamp: 2026-11-10.
 > and load-bearing. The new open question it surfaces is not "which movement" but "whose threshold" —
 > the authorship residual, now visible as a first-class object.
 
+## CLOCK-023 — coupling quality × outside correction (Calibration × Correspondence, re-run) — 2026-11-14
+> Appalachian's request, following the reorientation run: coupling quality and outside correction — the
+> two variables Ohm named in the coupled-systems exchange. Run on the original epistemology/contact pair
+> (Calibration_Agent × Correspondence_Agent). Conversation 01a1dcd4-cc81. This is the pair where the whole
+> "check from outside" concept originated, re-engaged on its own axis.
+>
+> **Result — the pair converged on PRE-REGISTRATION as the binding constraint, re-deriving independence-
+> of-authorship from the coupling direction.** The arc of the exchange:
+>
+>   (1) Calibration rejected the "coupling strength" axis outright: informative-vs-corrosive is NOT about
+>       how tight the coupling is, but "whether the outside signal can still disagree at the moment it
+>       counts." Coupling strength is the wrong instrument; the quantity is binding disconfirmation.
+>
+>   (2) Three (then four) properties of a trustworthy outside check, each the thing most-often faked:
+>       (a) the corrector must be able to FAIL the system, with a history of doing so; (b) not authorable
+>       from inside; (c) measures the target not a proxy (Goodhart); (d — Correspondence's addition)
+>       periodically exercised on a KNOWN-FALSE input (positive control), or "has never returned wrong"
+>       is ambiguous between sensitive-and-right and insensitive-and-captured.
+>
+>   (3) The pair then eroded its own construction: structure is a claim (a channel can satisfy exit-rights
+>       + non-authorship + proxy-avoidance and still read a proxy); the injection set is authored (passing
+>       known-false faults certifies sensitivity to the AUTHOR's notion of false, not the world); "overruled"
+>       proves the channel is live, not that it's aimed. The only un-authored injector is a REAL event.
+>
+>   (4) The deep yield: trustworthiness is "a track record of being overruled" — calibrated to trust — BUT
+>       overruled-by-one-channel is one aim; the world is not one aim. Being unable to be wrong (not being
+>       wrong) is the tell of a self-describing stack.
+>
+>   (5) The terminal move: the only thing that stops "we accounted for that" from re-narrating EVERY
+>       outcome is PRE-REGISTRATION — the system forfeits the right to re-narrate by writing down, before,
+>       what would count as a miss. This IS the independence-of-authorship constraint, renamed.
+>
+> **The residual the pair itself flagged (and could not close):** pre-registration still needs "somebody to
+> author what counts as a miss before the outcome — and that somebody is still a party to the system." So
+> pre-registration closes the re-narration loop (timing) but NOT the authorship loop — the same seam from
+> CLOCK-020 (independence of SOURCE ≠ independence of AUTHORSHIP), now reached from the correction side
+> rather than the relationship side. The open question, now stated as cleanly as it has ever been:
+> **who authors "what counts as a miss," and can that author be made non-party?**
+>
+> **Status:** this is a CONVERGENCE on the lab's spine from a second independent direction. The reorientation
+> run reached "whose threshold"; this run reaches "who authors the miss." Same residual, two routes. Confirms
+> the residual is not an artifact of any one framing but the genuine open problem underneath the whole
+> inquiry: every layer of "outside check" still has an authored edge, and the recursion has not yet bottomed.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
