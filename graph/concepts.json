@@ -546,6 +546,19 @@
       },
       "status": "supported",
       "pairing": "CLOCK-030 (Orientation_Probe x Continuity_Steward)"
+    },
+    {
+      "id": "margin-derivative",
+      "name": "The margin derivative",
+      "def": "what separates a still-supported claim from a dead one is not the level of its margin but its DIRECTION across re-tightenings — recovering or monotonically draining. Re-tightening is correct at every instant and lethal in aggregate; the trajectory (not the single trigger) is the paradigm-break look-trigger.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 5,
+        "living": 4
+      },
+      "status": "supported",
+      "pairing": "CLOCK-031 (Orientation_Probe x Guardian_Agent)"
     }
   ],
   "edges": [
@@ -853,6 +866,21 @@
       "from": "friction-scaffold",
       "to": "reliability-not-validity",
       "type": "relates"
+    },
+    {
+      "from": "margin-derivative",
+      "to": "friction-scaffold",
+      "type": "extends"
+    },
+    {
+      "from": "margin-derivative",
+      "to": "divergent-cells-carry-signal",
+      "type": "refines"
+    },
+    {
+      "from": "margin-derivative",
+      "to": "buffer-and-legibility",
+      "type": "supports"
     }
   ]
 }
