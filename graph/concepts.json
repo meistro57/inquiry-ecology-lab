@@ -572,6 +572,19 @@
       },
       "status": "supported",
       "pairing": "CLOCK-032 (Orientation_Probe x Continuity_Steward)"
+    },
+    {
+      "id": "reversibility-depletion",
+      "name": "Reversibility depletion",
+      "def": "a reversible correction has a hidden second cost: it spends the very reversibility budget the whole proposal depends on. A wrong 'cheap' correction consumes the capacity to make future corrections — so reversal-cost accounting is incomplete until it includes the depletion of reversibility itself as a first-class term.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 5,
+        "living": 4
+      },
+      "status": "supported",
+      "pairing": "CLOCK-033 (grand finale, V1 x V2)"
     }
   ],
   "edges": [
@@ -909,6 +922,21 @@
       "from": "measurement-practices-decay",
       "to": "lateral-edge",
       "type": "supports"
+    },
+    {
+      "from": "reversibility-depletion",
+      "to": "buffer-and-legibility",
+      "type": "refines"
+    },
+    {
+      "from": "reversibility-depletion",
+      "to": "margin-derivative",
+      "type": "extends"
+    },
+    {
+      "from": "reversibility-depletion",
+      "to": "measurement-practices-decay",
+      "type": "relates"
     }
   ]
 }
