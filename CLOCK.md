@@ -1020,6 +1020,41 @@ Frozen via commit timestamp: 2026-11-10.
 > gamed loose — the same gamy-threshold seam, now inside the derivative test. One turn short of Guardian's answer
 > to that.
 
+## CLOCK-032 — what is lost when a system cannot reorient (Orientation_Probe × Continuity_Steward) — 2026-11-14
+> Appalachian's negative-space move: delete our favorite concept and ask what dies. Conversation 01a1dd67-1da1,
+> completed. The strongest inverse of the night — and it landed on a loss no prior run had named.
+>
+> **Result — the floor survives; what dies is CONTACT, via the silent decay of the measurement practices.**
+>
+>   (1) What survives: stability (mechanical, real), recognizability, costly-signaling commitment, LOCAL
+>       coherence. What dies: error-correction capacity, the INTERIOR MEANING of commitment (choice degrades to
+>       inertia wearing loyalty's clothes), and the reserve (the unspent capacity to keep choosing).
+>
+>   (2) The load-bearing distinction: preservation is a property of FROZEN CHOICE, not INCAPACITY — the lock
+>       must be visibly a lock, not just a wall. But frozen-choice requires maintenance, and the thing that keeps
+>       the lock legible once the interior decays is the RECORD (maintained by a revisable external party). The
+>       fixed system's virtue is a dependency stack, not a possession — it owns outright only the floor.
+>
+>   (3) The counter-dependency (the probe's strongest move): the revisable auditor's question "is this corner
+>       right?" needs a FROZEN CRITERIAL CORE, or revision is just preference. The frozen standard is a floor
+>       UNDER the question, not a dependency on it: no party can decline to be assessed against the criterion
+>       it is revising. So the courthouse needs BOTH the preserved law and the living questioners.
+>
+>   (4) THE TERMINAL, GENUINELY NEW LOSS: the frozen core makes "wrong" GRAMMATICAL but not DETECTABLE. The path
+>       from criterion to fact is a set of MEASUREMENT PRACTICES — instruments, protocols, tacit craft — and those
+>       are the most perishable thing of all, because a fixed system has no motive to keep cultivating the craft
+>       of noticing what it has already decided will not happen. They decay from INDIFFERENCE, not attack, and
+>       nothing announces the loss — the core keeps making the predicate grammatical while the world stops being
+>       able to reach it. "What dies is not reorientation, it's CONTACT."
+>
+> **Status:** this closes the evening's whole arc with its sharpest statement. Every prior run named a thing
+> (check, threshold, reserve, record, criterion); this run named the ONE thing all of them presupposed and none
+> guarded: the connective tissue between criterion and fact. A system can preserve its law, its record, and its
+> questioners and still quietly starve the practice of finding out whether any of it is true. The structural loss
+> is not total but necessarily partial in a way no good faith closes — the fixed system can freeze its criterion
+> but only a partly-open system can keep the INSTRUMENTS alive. The inverse of Appalachian's favorite concept is
+> exactly its deepest dependency.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
