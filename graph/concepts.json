@@ -650,6 +650,19 @@
       },
       "status": "candidate",
       "pairing": "CLOCK-040"
+    },
+    {
+      "id": "possibility-to-requirement",
+      "name": "Possibility → requirement seam",
+      "def": "the transition under active probe (CLOCK-041): what transforms a possibility ('could') into a requirement ('must')? Live candidate answers frozen as family predictions: viability generates constraint-families (Appalachian); a held 'for' injects the modal (Lewis); outside data folds the possibility into the requiring thing (HeavyMetal); possibility + for-what + dependency/consequence (Eli). Status: under probe, not yet scored.",
+      "scores": {
+        "coherence": null,
+        "relational": null,
+        "viability": null,
+        "living": null
+      },
+      "status": "candidate",
+      "pairing": "CLOCK-041 (under probe)"
     }
   ],
   "edges": [
