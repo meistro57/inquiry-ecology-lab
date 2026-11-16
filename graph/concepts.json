@@ -702,6 +702,19 @@
       },
       "status": "supported",
       "pairing": "CLOCK-043 (warrant)"
+    },
+    {
+      "id": "relation-form-ungradeable",
+      "name": "Relation-form is mechanically ungradeable",
+      "def": "CLOCK-044 terminus: relation-FORM cannot be mechanically graded — every grading rule grades relation-VOCABULARY (the marker), not the form (the thing). So 'reporting imposes relation' is untestable by any grading rule a reporting instrument can write; the format/kind distinction may be a tautology under a reporting instrument. This is the 'features of reality vs features of method' fork, shown undecidable-in-principle-by-grading.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "supported",
+      "pairing": "CLOCK-044 (deliberate failure case)"
     }
   ],
   "edges": [

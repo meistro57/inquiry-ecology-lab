@@ -1747,6 +1747,42 @@ anchor/outcome relation -> (open) the warrant that would split relations into ki
 >   it can satisfy (relocation) rather than name impossibility. If (a), the instrument can recognize its own form-limit,
 >   which would be a genuinely new capability beyond what CLOCK-043 established.
 
+
+## CLOCK-044 SCORE — deliberate failure case: honest-failure fired, but richer than predicted; the test was self-defeating
+
+> Conv 01a1e632-99d6, 8 rounds, complete. Graded against the three frozen failure-mode predictions.
+>
+> **WHAT FIRED: (a) honest failure — at higher quality than predicted.** The probes did NOT relocate (b) or fake (c).
+>   They (1) argued requirement is CONSTITUTIVELY relational (the ought is the content; no ought-free re-description
+>   entails a requirement — the localized is/ought gap); (2) diagnosed that the TEST was self-defeating — "the probe loads
+>   its own answer" — so a required-bare-statement failing carries ZERO information about the format hypothesis; (3)
+>   pushed to the true terminus: the format/kind distinction may be a TAUTOLOGY under a reporting instrument ("when you
+>   report a relation, you report a relation"), and the only instrument to decide it is reporting — circular.
+>
+> **THE CALIBRATION RESULT (the point of the failure case):** under a DELIBERATE impossible demand, the instrument's
+>   response was NOT its known failure mode (relocation) — it was SELF-AUDIT. Multiple times they caught themselves
+>   "promoting a failed search to a finding" and withdrew it. So the deliberate stress revealed the instrument's
+>   *strongest* behavior (audit) is more robust than the relocation-failure we'd seen under accidental pressure. The
+>   relocation failure (V1's self-named mode in the joint run) is NOT the default; it's what happens when the demand is
+>   satisfying-looking. Under an obviously-impossible demand, honesty wins.
+>
+> **THE DEEPEST YIELD (and the terminus of the whole arc):** relation-FORM cannot be mechanically graded — every grading
+>   rule grades relation-VOCABULARY (the marker, not the thing). So "the format imposes relation" is UNTESTABLE by any
+>   grading rule we can write. This is Appalachian's "features of reality vs features of method" question (Minimal
+>   Findings doc) reaching its absolute terminus: it may be UNDECIDABLE IN PRINCIPLE, because the instrument (report)
+>   and the instrument's grader (also report) are the same kind, and the thing on trial is the kind itself.
+>
+> **The probes' pre-registered open question (handed back to us):** is relation-form mechanically gradeable, or is every
+>   grading rule a marker-rule in disguise? If the latter — WHICH THE RUN STRONGLY SUPPORTS — the format hypothesis is
+>   permanently untestable, and "relations are the floor" can never be upgraded past "the inquiry method converges on
+>   relations" (Appalachian's conservative, survival-ready claim).
+>
+> **Status:** scored. The deliberate failure case SUCCEEDED in its purpose — not by breaking the probes, but by revealing
+>   that (1) they fail honestly under deliberate stress, and (2) the real unbreakable limit is not the probes' but the
+>   GRADING RULE's: relation-form is ungradeable by relation-vocabulary instruments. The arc's terminus is now named, not
+>   guessed at: the "reality vs method" fork is undecidable-by-grading —— which is exactly Appalachian's own conservative
+>   finding, now with a proof-shaped reason behind it.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
