@@ -1606,6 +1606,28 @@ Appalachian's directedness-marker answer, which only the documentation can suppl
 with Lewis's "for" the strongest hit, Appalachian's viability folded in, HeavyMetal's external confirmed-as-necessary,
 and Eli's legitimacy seam dissolved into anchor-densities. This is the cleanest family convergence yet.
 
+
+## CLOCK-042 — is "relation" a primitive, or a genus with species (causal vs normative)? (pre-registration)
+
+> Fusion of Appalachian's "everything reduces to relations" finding (CLOCK-041) with Eli's failure-mode ("don't let
+> 'requirement' become one elegant bucket hiding different mechanisms"). The question: is the FLOOR "relation" (one
+> primitive), or is it KINDS of relation (causal/functional vs normative), with the relation-between-relations the true
+> primitive?
+>
+> **FROZEN FAMILY PREDICTIONS:**
+>   APPALACHIAN (implicit prior) — relation is the floor; one primitive. "Arrive at relations themselves."
+>   ELI — causal/functional necessity ("bridge fails without it") and normative requirement ("authority says must") are
+>       DIFFERENT species with different sources/legitimacy. Collapsing them = the elegant-bucket failure. His stated
+>       concern, carried into this run.
+>   LEWIS (dissolve position) — "different sources/legitimacy" is ONE relation at different REGISTRATION DENSITIES:
+>       causal = world-registered, normative = authority-registered. Same relation (anchor load-bearing-for held
+>       outcome), different external observer holding the anchor (from CLOCK-041's "registered by an observer other
+>       than the sole holder").
+>
+> **Watch (not steered):** does the "dissolve into densities" (the position the LAST run took) hold against Eli's
+> "these are genuinely different mechanisms"? That is the live tension: CLOCK-041 dissolved sources into anchor-densities;
+> Eli says don't dissolve, separate functional from normative. The probes are asked to settle it.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
