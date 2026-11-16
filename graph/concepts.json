@@ -624,6 +624,32 @@
       },
       "status": "candidate",
       "pairing": "CLOCK-037 (semantic-drift target #1; probe single-sense reading, pending governing-definition test)"
+    },
+    {
+      "id": "joint-obligation",
+      "name": "Joint-obligation",
+      "def": "the load-bearing core of metabolization: several operations (classification, conversion, discharge, persistence) must hold TOGETHER, and failing one is different in kind from failing the others. Probed (CLOCK-040): it is a DIRECTED CONSTRAINT, not an operation — a directedness requirement (a strict load-bearing ordering through a shared state) that the operations must satisfy. Reducible except for this one joint function.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "candidate",
+      "pairing": "CLOCK-040 (joint-obligation follow-on)"
+    },
+    {
+      "id": "operations-vs-constraints",
+      "name": "Operations vs constraints",
+      "def": "a new primitive-category split surfaced by probing the joint: the framework was hunting PRIMITIVE OPERATIONS (verbs), but the joint belongs to a distinct category — PRIMITIVE CONSTRAINTS (conditions the operations must satisfy, like 'these must hold in this order'). Bundle = co-occurrence; joint = mutual constraint. Directedness is the constraint that was load-bearing but unmarked in transmission.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "candidate",
+      "pairing": "CLOCK-040"
     }
   ],
   "edges": [
@@ -1001,6 +1027,21 @@
       "from": "contact",
       "to": "measurement-practices-decay",
       "type": "defines"
+    },
+    {
+      "from": "joint-obligation",
+      "to": "operations-vs-constraints",
+      "type": "belongs-to"
+    },
+    {
+      "from": "joint-obligation",
+      "to": "closed-self-powered-loops",
+      "type": "relates"
+    },
+    {
+      "from": "operations-vs-constraints",
+      "to": "contact",
+      "type": "relates"
     }
   ]
 }
