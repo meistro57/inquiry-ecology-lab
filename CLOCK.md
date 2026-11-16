@@ -1483,6 +1483,56 @@ falsifier, not add a seventh repair.
 >
 > **Scoring:** each prediction grades against the probes' single terminal conclusion; non-interrupt; no cherry-picking.
 
+
+## CLOCK-040 SCORE — joint-obligation follow-on: the joint is a DIRECTED CONSTRAINT, and the framework term is underdetermined
+
+> Conv 01a1e5d7-1198, 10 rounds, complete. Family predictions (P1-P5 + Eli 0.62 + Lewis 3x + meta) graded against the
+> probes' single terminal conclusion.
+>
+> **Terminal conclusion (single, un-beautified):** the pair BROKE the central term. "Joint-obligation" as transmitted
+>   carries no DIRECTEDNESS marker, but their analysis found a strict load-bearing ORDERING (directedness through a
+>   shared state) is what does the work. They found the removal test CIRCULAR (it partitions but doesn't ground). And
+>   they could no longer distinguish "the framework is underdetermined" from "we, its readers, underdetermined it."
+>   Handback to the author: does the documentation carry a directedness marker, or does the framework REQUIRE readers
+>   to reconstruct its central term?
+>
+> **GRADE PER PREDICTION:**
+>   P1 (joint first looks primitive then splits) — HIT. Exact arc: primitive -> "what creates the obligation" -> split
+>       into directed-connection + terminal-obligation.
+>   P2 (drift toward VIABILITY, strongest) — PARTIAL. They did NOT name viability; but the load they found (strict
+>       ordering terminating at a "consumption seat") is viability-adjacent. Stopped one level above it at directedness.
+>   P3 (governance partially vindicated) — PARTIAL/WEAK. "Authority relation" / "terminal obligation" are governance-
+>       adjacent, but governance was not named as the load. Weaker than P2.
+>   P4 (BUNDLES vs JOINTS — sleeper) — HIT, the strongest land. They split "symmetric co-occurrence" from "directed
+>       connection" — exactly "coincidence of functions" vs "mutual constraint." The sleeper prediction carried.
+>   P5 (the joint is a CONSTRAINT, not an operation) — HIT, and the deepest. The thing below the joint is NOT another
+>       verb; it is the DIRECTEDNESS REQUIREMENT (a condition on the operations). They surfaced the OPERATIONS vs
+>       CONSTRAINTS category split — a genuine framework development.
+>   ELI 0.62 (irreversibility / selection-loop-with-memory) — ABSENT (not reached). The probes took the directedness/
+>       authority path, not the disposition-change path. Not falsified, just not the route taken.
+>   LEWIS (closed causal feedback / mutual constitution / co-satisfaction) — PARTIAL. "Closed loop" matches but the
+>       probes sharpened it to DIRECTED loop with a terminal obligation (more specific). Mutual constitution confirmed
+>       in the softened form (ordering, not bare co-occurrence).
+>   META (does reducible-with-load-bearing-joint generalize?) — NOT ADDRESSED. The pair absorbed into the
+>       transmission/underdetermination problem instead of the generalization question.
+>
+> **The real finding (and why this run mattered):** the framework's own central term ("joint-obligation") is
+>   UNDERDETERMINED at exactly the point that turned out load-bearing (directedness). Appalachian's P4 + P5 were the
+>   two sharpest predictions, and both landed: the joint is a DIRECTED CONSTRAINT (bundle=co-occurrence, joint=mutual
+>   constraint; and constraints are a distinct category from operations). That is a real upgrade to the "primitive
+>   verb layer" project: it is not only verbs; there is a second primitive category, CONSTRAINTS, and "joint-obligation"
+>   belongs to it.
+>
+> **Author-handback (Appalachian, the one question the probes declined to answer and correctly handed back):** does
+>   the framework's documentation mark directedness in "joint-obligation," or is the directedness only recoverable by
+>   reconstruction? If the former, transmission loss. If the latter, the framework REQUIRES reader-reconstruction, and
+>   "underdetermination-by-reader" is the framework working as designed — which would itself be a finding about the
+>   framework (.i.e. it is not a bad instrument, it is an instrument that delegates a load to its readers).
+>
+**Status:** scored. P4+P5 are the cleanest hits of the family; P1 hit; P2/P3 partial; Eli/Lewis/meta partial-or-unreached.
+The taxonomy has a genuine new axis (operations vs constraints) and a new distinction (bundle vs joint). Left open:
+Appalachian's directedness-marker answer, which only the documentation can supply.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
