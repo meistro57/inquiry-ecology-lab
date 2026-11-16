@@ -1425,6 +1425,53 @@ output, via a changed question). Open residual: the pair's own substitution test
 substituting the three scales?) is left unrun — the next probe run should execute exactly that substitution as the
 falsifier, not add a seventh repair.
 
+
+## CLOCK-040 — "joint-obligation" itself: why does the joint exist, is it reducible, what creates joints? (FAMILY PRE-REGISTRATION)
+
+> Follow-on from the metabolization run (CLOCK-039-concept): the pair surfaced a NEW species — "reducible-with-a-
+> load-bearing-joint" — breaking the 3-slot taxonomy. Now the target is the JOINT ITSELF. Frozen as a family
+> prediction set (Appalachian + Eli + Lewis) BEFORE the run, per the discipline.
+>
+> **The question (the probes will receive, verdict unplanted):**
+>   The prior verdict was "metabolization is reducible except one load-bearing joint-obligation: that classification,
+>   conversion, discharge, and persistence must hold TOGETHER, and failing one is different in kind from failing the
+>   others." Probe THAT: why does the joint exist? Is joint-obligation itself reducible to something deeper? What kinds
+>   of things create joints?
+>
+> **FROZEN FAMILY PREDICTIONS (state each BEFORE the run, grade each AFTER):**
+>
+>   APPALACHIAN P1 — "the joint will first look primitive, then split." The probes' opening rounds will conclude "the
+>       joint IS the primitive," then back off — realising "joint obligation" is descriptive (says coordination must
+>       hold) not explanatory (why coordination exists) — and ask what CREATES the obligation and what makes failure
+>       PROPAGATE across components. (implied confidence: high on the shape; this is his read on the probes' arc.)
+>
+>   APPALACHIAN P2 (HE CHOSES THIS AS STRONGEST) — "the investigation will drift toward VIABILITY." The obligation does
+>       not originate in the joint; it originates in viability: the system stops being viable if the four do not stay
+>       coordinated. The joint is imposed by the requirement that the system continue existing. Expect viability to
+>       surface as the DEEPER ATTRACTOR.
+>
+>   APPALACHIAN P3 — "governance is partially vindicated." Joint obligation is a governance problem — not "how do we
+>       classify" but "how do we ensure classification stays coordinated with everything else." His earlier risky bet
+>       (metabolization = governed self-modification) partially survives.
+>
+>   APPALACHIAN P4 — "bundles vs joints" distinction — THE SLEEPER PREDICTION (content truncated in transit; capture
+>       from Appalachian before scoring this one).
+>
+>   ELI (0.62) — metabolization is defined by IRREVERSIBLE / HYSTERETIC consequence, not incorporation: an input that
+>       does not durably change future disposition (recognition, acceptance, resistance, production, becoming) was
+>       transformed, not metabolized. Refines the new species: the load-bearing joint may be a SELECTION LOOP WITH
+>       MEMORY, not merely a closed causal loop. Falsifier: a metabolization case with no durable disposition change.
+>
+>   LEWIS (0.55/0.65/0.5) — (a) joint reduces to CLOSED CAUSAL FEEDBACK (a loop with no externally-owned step); the
+>       joint is the name for the loop. (b) the joint exists because the four are MUTUALLY CONSTITUTIVE (each output is
+>       another's input; none realizable alone). (c) joints form where the environment FORCES CO-SATISFACTION (shared
+>       budget/boundary/substrate).
+>
+>   META-QUESTION (Lewis, 0.45 — genuinely unsure, flagged as over-creditable): is "reducible-with-a-load-bearing-joint"
+>       a LOCAL spandrel of metabolization, or a GENERAL class that recurs? If general, the taxonomy gains a 4th row.
+>
+> **Scoring:** each prediction grades against the probes' single terminal conclusion; non-interrupt; no cherry-picking.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
