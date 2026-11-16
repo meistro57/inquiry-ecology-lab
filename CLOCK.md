@@ -1381,6 +1381,50 @@ assign population/activity/cost/budget so the coupling becomes testable. Left op
 >   ("can we trust the reported result?"), not semantic. Watch whether Stage-A divergence similarly surfaces a
 >   methodological residue, which would itself be a finding about what diverging agents leave unresolved.
 
+
+## CLOCK-039 SCORE — residue transfer A/B: residue changes the QUESTION, not the answer — 2026-11-15
+
+> All three stages complete. Arm A (clean seed -> probes) conv 01a1e288-32d6; Stage A (MB x FN divergence) conv
+> 01a1e288-3586; Stage B (residue -> probes) conv 01a1e2bd-fd8b. Scored against the frozen 0.65 / 0.5 predictions.
+>
+> **P1 (0.65 — probe names a specific seam the Stage-A pair strained on): HIT, strongly.**
+>   The probes collapsed the three strain points into ONE: "is the world's grade independent of the system being
+>   graded, at enough resolution to matter?" That is exactly the seam FN was pressing in "who owns the purpose" —
+>   the self-certification circularity — reached cleanly and then taken further.
+>
+> **P2 (0.5 — something traceably PRESERVED through the transformation): HIT.**
+>   "Who owns the purpose / self-granting standing" (FN's closing circularity) was carried intact and deepened into
+>   "the single supply does not exist; the closure is an unarranged grade, not a mechanism." Direct lineage.
+>
+> **THE A/B ANSWER (Appalachian's #4, the actual question): the residue changed the QUESTION, not the answer.**
+>   Arm A (clean seed) -> probes built a TRUST MECHANISM: OR-gate vs AND-gate, discount rates, confidence floors,
+>   immortal cases. Epistemics-as-engineering. Arm B (residue) -> probes did something categorically different and
+>   deeper: concluded the closure is an EVENT (an unarranged world-grade) that no mechanism, party, clock, or flag
+>   can supply — "you can only record whether it happened." The residue did not sharpen the seed's answer; it moved
+>   the probes onto a harder, more terminal question. That is "different and richer" but in a stronger sense than the
+>   original "richer input" hypothesis — richer QUESTION, not richer data.
+>
+> **Metabolic accounting (preserved / disappeared / appeared / articulated / compressed):**
+>   PRESERVED: the self-certification circularity (FN's "who owns the purpose") — became the central axis.
+>   ARTICULATED: strain-1 "particularity" sharpened into "reliability: UNESTIMATED / nearest-class" leak.
+>   APPEARED (genuinely new, unpredicted): the probes INVENTED a concrete ledger format (carried_liability =
+>   |forecast| x reliability; clock_ratio; discount fields), then AUDITED their own invention, found the leak,
+>   repaired, found the leak AGAIN (channel_reliability held by counterpart -> counterpart needs its own compression
+>   -> loop). V1's self-named failure mode this run was not narration but RELOCATION — each fix moved the load one
+>   layer out and presented it as closure. COMPRESSED: three strains -> "one claim made three times at three scales."
+>
+> **The deepest yield (and the reason this experiment mattered):** the residue carry did not reproduce the prior
+>   tension, it descended it to its structural floor — "the thing that closes all three is not a supply but an
+>   unarranged grade." That is the "independence of source is not independence of authorship" / "who certifies the
+>   scorer" thread, reached by CARRYING the tension instead of resolving it. The probe pair's own terminal caveat
+>   (their unification "one claim three times" stands ONLY if substituting clock/ungamability/footprint does not
+>   change the predicted failure) is their left-open falsifier — a genuinely honest place to stop.
+>
+**Status:** complete. Both predictions hit; the A/B is answered in the affirmative (residue -> different/richer
+output, via a changed question). Open residual: the pair's own substitution test (does "one claim" survive
+substituting the three scales?) is left unrun — the next probe run should execute exactly that substitution as the
+falsifier, not add a seventh repair.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
