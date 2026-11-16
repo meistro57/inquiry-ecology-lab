@@ -1309,6 +1309,34 @@ finale rubric cared about. Whether "surprise generated" should itself become a s
 The remaining action is the standalone one the probes themselves recommended and is still open: write the definition
 into graph/concepts.json (already added as candidate node) and promote it once a governing-definition check passes.
 
+
+## CLOCK-038 — "participation" in the coupled-system lens (Appalachian personal frame) — 2026-11-15
+
+> Target: Appalachian's four-term coupled system conditions <-> capacities <-> participation <-> metabolic resources,
+> with "participation" as the term under test. Neutral_Reader_A × B (unprimed), 8 rounds, single-conclusion scoring. Conv
+> 01a1e1e2-0c0a.
+>
+> **Terminal conclusion (the pair walked the word through six deflating readings):**
+>   transaction -> fence -> socket -> variable -> coordinate -> DERIVED.
+>   "Participation" has no independent meaning in the chain; its neighbors assign it. The chain holds as a SCHEMA
+>   (locates where coupling would be) but NOT as a causal model (does not test coupling). It is "a schema wearing the
+>   grammar of a model." The tell: a term whose meaning comes from its position will co-vary with its neighbors by
+>   construction, so "resources constrain participation" is analytic (true-by-setup), not empirical.
+>
+> **The actionable yield (Appalachian confirmed it):** to make the frame a real coupled system, one must ASSIGN the
+>   blank — name the population, the ACTIVITY (which is not one of the four terms; it hides inside "participation in ___"),
+>   the cost, and the resource budget. Then "the four move together" becomes falsifiable. Until then the frame cannot
+>   fail, and a frame that cannot fail is a vocabulary, not a model.
+>
+> **Why this run mattered beyond "contact":** the "contact" run tested word-drift on the lab's corpus and found NONE
+>   (one concept, four outcomes). This run tested Appalachian's OWN still-forming lens and found a genuine structural
+>   gap (a missing term / unfalsifiable schema). The instrument distinguished "this word is doing one job" from "this
+>   frame is a coordinate map masquerading as a causal model" — i.e. it spotted a counterfeit, not a drift, and located
+>   where the counterfeit hides. That is a stronger capability than drift-detection alone.
+>
+**Status:** scored and confirmed by Appalachian ("the probes were right"). The lens now carries a named open task:
+assign population/activity/cost/budget so the coupling becomes testable. Left open deliberately.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
