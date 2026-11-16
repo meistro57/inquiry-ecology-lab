@@ -1337,6 +1337,50 @@ into graph/concepts.json (already added as candidate node) and promote it once a
 **Status:** scored and confirmed by Appalachian ("the probes were right"). The lens now carries a named open task:
 assign population/activity/cost/budget so the coupling becomes testable. Left open deliberately.
 
+
+## CLOCK-039 — lineage residue transfer: does unresolved tension carry more than a clean seed? (PRE-REGISTERED, not yet run)
+
+> Appalachian's design, which supersedes the simpler "residue -> probes" idea with a proper control arm. The core
+> correction (his #4): DO NOT assume residue > clean prompt. Test the opposite explicitly. This is the "don't build
+> the tempting clean name" discipline applied to the experiment design itself.
+>
+> **Design — two arms, compared, not just a chain:**
+>   Arm A (REPORTING control): clean starter -> probe pair (V1 x V2), single-conclusion scoring.
+>   Arm B (TREATMENT): two asymmetric agents under OBSERVED divergence (not instructed) -> extract the RESIDUE
+>       (tensions, not conclusions) -> carry to the same probe pair -> single-conclusion scoring.
+>   Compare Arm A vs Arm B terminal conclusions. Question is NOT "can residue produce output?" but "does residue
+>       produce a DIFFERENT / richer output than the original seed?"
+>
+> **What to carry (not conclusions — the strain points):**
+>   "Agent A could not explain... / Agent B rejected... / Both repeatedly returned to... / Synthesis failed at..."
+>   Residue types to preserve: conceptual (unresolved distinctions, competing definitions), epistemic (uncertainty,
+>       confidence mismatch, unsupported assumptions), methodological (disagreement about how to investigate).
+>
+> **Metabolic accounting (the thing to actually track through each transformation):**
+>   what was preserved / what disappeared / what appeared / what became more articulate / what became compressed.
+>   The meaning object may pass through: question -> disagreement -> residue -> probe interpretation -> synthesis ->
+>       new question, and something may persist through all of it.
+>
+> **Primary thing to observe (Appalachian #5):** NOT whether the probes solve the residue, but whether the residue
+>   becomes MORE PRECISE after transformation.
+>
+> **Frozen prediction (0.65):** Arm B (residue input) will produce a probe terminal conclusion that names a SPECIFIC
+>   seam the Starter-A pair strained on but could not close — i.e., the residue carries the joint, and the probes
+>   located it. Falsifier: if Arm B and Arm A produce no meaningful difference in what the probes detect (converge on
+>   the same answer at the same resolution), the "residue is richer" hypothesis has NOT earned its keep.
+>
+> **Second prediction (0.5, the metabolic test):** something — a distinction, a question, a named joint — will be
+>   traceably PRESERVED from Stage-A residue through the probe pass in Arm B. Falsifier: if the probe pass discards
+>   every residue strain point and behaves as if it got a clean topic, "meaning object persists through transformation"
+>   is not supported.
+>
+> **Guardrails (Eli):** preserve original outputs / residue extraction / handoff / probe results as SEPARATE lineage
+>   layers, so the seam is not edited before it is measured. Non-interrupt; single-conclusion scoring.
+>
+> **Post-frozen caveat:** the "contact" run already gave a natural prior — its biggest residue was METHODOLOGICAL
+>   ("can we trust the reported result?"), not semantic. Watch whether Stage-A divergence similarly surfaces a
+>   methodological residue, which would itself be a finding about what diverging agents leave unresolved.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
