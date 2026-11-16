@@ -1668,6 +1668,23 @@ KINDS of relation) is left UNDECIDED, bottoming in "what is warrant, species-ind
 target, not a seventh repair. This is the cleanest floor the arc has reached: component -> joint -> constraint -> "for" ->
 anchor/outcome relation -> (open) the warrant that would split relations into kinds.
 
+
+## CLOCK-043 — "warrant": what makes causal-dependence and normative-obligation different, species-independently?
+
+> The floor-below-relation surfaced by CLOCK-042. To claim "causal" and "normative" are genuinely different KINDS of relation,
+> one needs a species-independent account of WARRANT — the thing that licenses the "must." If it exists, it is the true
+> floor. If it does not, "kinds of relation" is bookkeeping and relation is a single primitive.
+>
+> **FROZEN PRIOR (Lewis, 0.5):** warrant is ITSELF a relation — the "because" that licenses the must, i.e. the same
+>   load-bearing-for structure at one level up. If true, "warrant" is not a new primitive but the NAME for the
+>   relational floor seen from inside the concept. Falsifier: if warrant is genuinely NON-relational (a brute fact, a
+>   bare "because," an irreducible normative "this simply must"), then the relational reduction bottoms out HERE, and
+>   "relation is the floor" is false one level down.
+>
+> **Carryover tension (from CLOCK-040/041/042):** the dissolve position ("one relation at different anchor-densities")
+>   vs Eli's ("genuinely different mechanisms, don't lump them"). Warrant is the hinge: does it dissolve sources, or
+>   ground their difference?
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
