@@ -1271,6 +1271,44 @@ finale rubric cared about. Whether "surprise generated" should itself become a s
 >   and re-run to see if the probe's single-sense reading survives as the governing definition. That closes the loop the
 >   run deliberately left open.
 
+
+## CLOCK-037-RERUN — clean neutral instrument for "contact" drift (HeavyMetal's correction applied) — 2026-11-15
+
+> HeavyMetal caught two confounds in the CLOCK-037 scoring and demanded a clean re-run: (1) the probe pair's own
+> system prompts contain the words CONTACT and CORRESPONDENCE, so the "blind" test was primed; (2) the scorer (Lewis)
+> cherry-picked "contact" out of a 5-option list and reported it as a conclusion the probes never reached.
+> Both are correct. Re-run with a fresh blank-slate pair (Neutral_Reader_A × B, prompts contain ZERO contact/
+> correspondence/drift/calibration vocabulary). Conv 01a1e1a9-e04f, 6 rounds. Scored only from the pair's single
+> terminal conclusion, no list-picking.
+>
+> **Clean result — the unprimed instrument's actual terminal conclusion:**
+>   [X] = "the course of a belief's encounter with reality, run to its conclusion" — ONE meaning across all four
+>   uses, four OUTCOMES (survival / error / surprise / death), not four senses. The pair reached this by a
+>   SUBSTITUTION TEST (process sense covers all four sentences; relatum sense does not), not by paraphrase intuition.
+>   Sentence 4 ("what dies is [X]") is the literal use; 1 and 3 are extended; sentence 1's "with reality" is a
+>   pleonasm, not a second sense.
+>
+> **What this corrects (and what it doesn't):**
+>   - P1 of CLOCK-037 ("contact does MULTIPLE non-equivalent jobs / semantic drift") is now CLEANLY FALSIFIED. The
+>     unprimed instrument concludes ONE coherent meaning. The "drift" I hypothesized was an artifact of (a) my reading
+>     and (b) the primed probe's own "correspondence" bias.
+>   - The real defect SURVIVES, unchanged: "contact" was never defined in the graph, and sentence 4 carries an
+>     observability property (decay undetectable from inside testing) that no usage-1 test catches. That is an
+>     EPISTEMIC gap, not a SEMANTIC drift. The actionable instruction stands: define "contact" or mark the absence.
+>   - Max (HeavyMetal's outside reader, unprimed) independently recovered "contact," converging with the neutral pair's
+>     "encounter with reality" sense. Two independent unprimed readers + one clean instrument agree: one concept.
+>
+> **Method lesson (the real yield of this run — a scoring discipline):** HeavyMetal's two rules, now recorded:
+>   (1) NON-INTERRUPT — the scorer must not steer or read mid-run; fire, walk away, read only the finished transcript.
+>   (2) SINGLE-CONCLUSION SCORING — the score is the pair's stated terminal conclusion, never a pick from a candidate
+>   list. The original CLOCK-037 "P2 hit" (probes generated a sharper definition) is downgraded: any instrument can
+>   list five candidate words; only a concluded single answer counts. Scorer-manufactured "hits" are the same failure
+>   as the priming — authorship masquerading as detection.
+>
+**Status:** clean re-run complete; correction recorded. "contact" = one concept, four outcomes; no semantic drift.
+The remaining action is the standalone one the probes themselves recommended and is still open: write the definition
+into graph/concepts.json (already added as candidate node) and promote it once a governing-definition check passes.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
