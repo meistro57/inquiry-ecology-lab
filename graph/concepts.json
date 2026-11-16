@@ -663,6 +663,19 @@
       },
       "status": "candidate",
       "pairing": "CLOCK-041 (under probe)"
+    },
+    {
+      "id": "anchor-held-outcome-registration",
+      "name": "Anchor + held-outcome + external registration",
+      "def": "the requirement structure (CLOCK-041): a possibility becomes a requirement when (a) an anchor with world-content (record/enforcer/physics) is (b) load-bearing FOR a held outcome the agent cannot release, (c) registered by an observer other than the sole holder. 'Cannot release' is derived, not primitive. 'Held purpose' is the PRE-ANCHOR interval, not a fourth source. Unifies 'viability generates constraints' (Appalachian) and 'a held for injects the must' (Lewis).",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "supported",
+      "pairing": "CLOCK-041 (possibility -> requirement)"
     }
   ],
   "edges": [
@@ -1054,6 +1067,16 @@
     {
       "from": "operations-vs-constraints",
       "to": "contact",
+      "type": "relates"
+    },
+    {
+      "from": "anchor-held-outcome-registration",
+      "to": "possibility-to-requirement",
+      "type": "answers"
+    },
+    {
+      "from": "anchor-held-outcome-registration",
+      "to": "operations-vs-constraints",
       "type": "relates"
     }
   ]

@@ -1563,6 +1563,49 @@ Appalachian's directedness-marker answer, which only the documentation can suppl
 >   the "for" (Lewis) and "viability-generates" (Appalachian) unify or collide. Appalachian's implicit prior: the next
 >   probe will find "viability generates constraint-families."
 
+
+## CLOCK-041 SCORE — possibility -> requirement: an anchor load-bearing for a held outcome, registered externally
+
+> Conv 01a1e5fa-9757, 10 rounds, complete. Family predictions graded against the single terminal conclusion.
+>
+> **Terminal conclusion (single):** the transformation is a RELATIONAL TRIPLE, not a causal event: (1) an ANCHOR with
+>   world-content (record / enforcer / physics); (2) load-bearing FOR a HELD OUTCOME the agent cannot currently release;
+>   (3) the load-bearing relation REGISTERED by an observer other than the sole holder. The "cannot release" is DERIVED,
+>   not primitive (you cannot release the anchor because it is what makes the held outcome obtain).
+>
+> **THE UNIFICATION (the flagged prize):** Appalachian's "viability generates constraint-families" and Lewis's "a held
+>   'for' injects the must" FOLDED INTO ONE — the held-outcome (= the "for", and viability in its minimal case) is the
+>   slot the anchor must be load-bearing for. Not a collision; a clean unification.
+>
+> **GRADE PER PREDICTION:**
+>   LEWIS (the "for") — STRONGEST HIT. The core finding ("anchor load-bearing for a held outcome") is precisely "a held
+>       aim relative to which omitting = ceasing to achieve." Sharpened: the "for" must be ANCHORED (externalized), not
+>       merely held, to become a requirement.
+>   APPALACHIAN (viability generates constraint-families) — HIT-in-relational-form. "Held outcome the anchor is load-
+>       bearing for" IS viability/continuation. His "generates families" = the anchor's load-bearing relation. Confirmed
+>       in the pair's vocabulary, not his exact terms.
+>   HEAVYMETAL (outside data folds possibility into the requiring thing) — HIT (necessary, not sufficient). The anchor's
+>       world-content is his "outside data"; the probes found anchoring necessary but added the held-outcome relation he
+>       did not name.
+>   ELI (possibility + for-what + dependency/consequence; legitimacy seam) — FORMULA HELD, SEAM DISSOLVED. His three-term
+>       formula is essentially the relational triple. But his "interesting" seam (discovered/imposed/self-generated) was
+>       dissolved: there are NOT three/four sources — there is ONE source at three ANCHOR-DENSITIES (world-content
+>       density), plus one pseudo-source (enforcement without independent failure condition).
+>
+> **The deepest new finding (unpredicted):** "held purpose" is NOT a fourth source — it is the PRE-ANCHOR INTERVAL: a
+>   purpose experienced as binding but not yet externally registered. A requirement exists only once the anchor is
+>   load-bearing for a held outcome AND an external observer can register the closure. Before that, "requirement" is a
+>   preference the agent has not yet tried to release.
+>
+> **The open residual (the pair left it named):** the GENETIC question — how a purpose BECOMES held — reduces to
+>   "adoption that binds via external registration (record or enforcer)." Whether a relational condition counts as a
+>   "mechanism" (vs. merely a condition) is the last open question; the pair refused to invent the "causal microstructure
+>   of normativity."
+>
+**Status:** scored. The family's predictions UNIFIED into "anchor load-bearing for a held outcome, registered externally,"
+with Lewis's "for" the strongest hit, Appalachian's viability folded in, HeavyMetal's external confirmed-as-necessary,
+and Eli's legitimacy seam dissolved into anchor-densities. This is the cleanest family convergence yet.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
