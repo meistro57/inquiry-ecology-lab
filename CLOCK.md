@@ -1469,6 +1469,17 @@ falsifier, not add a seventh repair.
 >
 >   META-QUESTION (Lewis, 0.45 — genuinely unsure, flagged as over-creditable): is "reducible-with-a-load-bearing-joint"
 >       a LOCAL spandrel of metabolization, or a GENERAL class that recurs? If general, the taxonomy gains a 4th row.
+
+  APPALACHIAN P4 (completed) -- "bundles vs joints": a BUNDLE = several things occurring together; a JOINT = several
+      things that cannot independently fail without affecting the whole. The prior report implies the second. Probing
+      the joint may force a distinction between COINCIDENCE OF FUNCTIONS and MUTUAL CONSTRAINT -- a candidate new
+      primitive distinction. (His 'sleeper prediction'.)
+
+  APPALACHIAN P5 (the weird possibility) -- "the joint is not an operation, it is a CONSTRAINT." We have been looking
+      for verbs (primitive operations); the joint may be a CONSTRAINT ON VERBS ("these operations must remain mutually
+      coherent" -- a condition, not a process). If so, the framework gains a major new split: PRIMITIVE OPERATIONS vs
+      PRIMITIVE CONSTRAINTS. This is the deepest prediction of the set, and the one most likely to break the framework
+      open rather than add a row.
 >
 > **Scoring:** each prediction grades against the probes' single terminal conclusion; non-interrupt; no cherry-picking.
 
