@@ -227,5 +227,43 @@ whole loop working with its wrinkles left in.
   decision made") was a misread — Mark was riffing on a reference he didn't yet recognise. His
   *actual* answer is this one. Both steps stay in because the misread-then-correct is itself the
   "record-decay → human-recovers-referent" loop working.
+---
+
+### D12 (Lewis, self-logged) — adopt a `reasoning_method` classification dimension? · *2026-11-15*
+
+HeavyMetal proposed a third classification axis: besides *persona* and *what the probe measures*, also
+classify *how the probes ask their questions* (the reasoning method), and state model/temperature per run.
+Eli set the guardrail: preserve → specify → pilot → compare → adopt, and warned against a new "seductive
+coordinate" that looks explanatory merely because it has a name. Appalachian asked Lewis to cost/benefit
+it and decide.
+
+**Cost/benefit analysis (performed before deciding):**
+
+- COST: define a small fixed vocabulary (~6-10 labels); backfill 3 recent runs; two independent readers
+  to validate labels; add the field prospectively onward. The real cost is the "who certifies the
+  classifier" problem — a reasoning_method label is the scorer's post-hoc annotation of visible transcript
+  behaviour, and it is exactly the kind of thing where a scorer is tempted to flatter a run by labelling
+  its method "sophisticated." The failure we spent tonight fixing (cherry-picking to match a hypothesis)
+  would have a fresh home in this field.
+- BENEFIT: a third axis; richer data for outside readers; and — the only benefit that genuinely matters
+  — the ability to ask whether reasoning_method *predicts* an outcome (e.g. does a self-demotion move
+  correlate with a deflated, honest terminal conclusion rather than a confident one?).
+
+**Decision: RUN THE SMALL REVERSIBLE PILOT, with an explicit kill-condition.**
+
+- Pilot scope: backfill the 3 recent runs (contact, contact-rerun, participation) with a fixed
+  vocabulary; state model + temperature; keep raw transcript, human classification, and final score
+  separate (Eli's rules 1-4).
+- Kill-condition (the anti-"seductive coordinate" test): the field is only adopted if its labels
+  PREDICT something a simpler observation (did the run conclude confidently vs deflatedly?) does not.
+  If reasoning_method adds no predictive/diagnostic value, it is decoration and gets archived, not
+  adopted. This is the same discipline applied to the taxonomy that the probes apply to vocabulary:
+  a field that cannot fail is not a finding.
+- Why reversible: it is an annotation layer; it does not rewrite the raw ledger; three runs is a
+  bounded backfill; the whole pilot is one evening of attention.
+
+**Attention budget, stated plainly:** this is worth ~one focused pass, not an ongoing soak. If the
+pilot fails its kill-condition, the field is dropped and the ledger loses nothing. If it passes, the
+field earns its seat prospectively. No engine rebuild while the exhaust is still useful (Eli).
 
 
