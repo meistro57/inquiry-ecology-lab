@@ -1628,6 +1628,46 @@ and Eli's legitimacy seam dissolved into anchor-densities. This is the cleanest 
 > "these are genuinely different mechanisms"? That is the live tension: CLOCK-041 dissolved sources into anchor-densities;
 > Eli says don't dissolve, separate functional from normative. The probes are asked to settle it.
 
+
+## CLOCK-042 SCORE — "relation" is the world-level primitive; its SPECIES (causal vs normative) is UNDECIDED (warrant is circular)
+
+> Conv 01a1e60e-3b47, 10 rounds, complete. Family priors graded, and the pair audited its OWN over-claims mid-run.
+>
+> **Terminal conclusion (single):** a requirement is a TWO-PLACE DEPENDENCE (anchor, outcome) in the world, applied
+>   under a USE-CONDITION of registration (typically, not necessarily, non-holder — the hermit's reflexive registration
+>   kills the necessity). Species (constitutive vs deontic) differ in "warrant" — but that claim is CIRCULAR (warrant has
+>   no species-independent account), so it is demoted to hypothesis; the third-species "reduction" is WITHDRAWN as too
+>   tidy; "category-confused" downgraded to "level-ambiguous, incomplete."
+>
+> **GRADE PER PRIOR:**
+>   APPALACHIAN (relation is the floor, one primitive) — HELD AT THE WORLD-LEVEL. The requirement IS a two-place dependence
+>       (= a relation). But whether "relation" has SPECIES remains open, because the causal/normative difference could not
+>       be grounded. So "one primitive relation" holds; "and it's not a genus" is UNRESOLVED.
+>   ELI (causal and normative are DIFFERENT species) — PARTIAL / UNDECIDED. The constitutive/deontic split SURVIVED as
+>       OPERATIONAL (revocation test distinguishes them), but FAILED as EXPLANATORY ("differ in warrant" is circular). So
+>       Eli's "don't lump them" landed; "they're genuinely different mechanisms" is currently a bookkeeping claim, not a
+>       finding.
+>   LEWIS (dissolve into one relation at REGISTRATION-densities) — PARTIAL. The anchor+registration structure confirmed;
+>       but the "registered by an observer other than the holder" was THINNED — the hermit shows registration can be
+>       reflexive, so "different observer" is a PARADIGM CASE, not an identity condition. My dissolve-position's "one
+>       relation" held; its "different observer" load was over-stated.
+>
+> **The deepest open question (this run's gift, and it is the floor-below-relation):** what is the WARRANT that makes a
+>   causal dependence and a normative obligation genuinely different, INDEPENDENT of the species? If none exists, "kinds
+>   of relation" is bookkeeping and relation is a single primitive. If one exists, it is the true floor. The pair refused
+>   to invent it, and named the test: give a species-independent account of "warrant," or accept that the two-species
+>   picture is operational-not-explanatory.
+>
+> **Meta (the pair's self-audit, which is why the verdict is trustworthy):** the pair caught its own tidy over-claims in
+>   real time and withdrew them — "category-confused"->level-ambiguous; "three-place"->two-place+use-condition; "third
+>   species reduced"->undecided. V2 explicitly noted the asymmetric pattern (V1 proposes, V2 grades) and transferred the
+>   grading role as the symmetry correction. The run's honesty is its product.
+>
+**Status:** scored. "Everything reduces to a relation" is CONFIRMED at the world level; the genus question (are there
+KINDS of relation) is left UNDECIDED, bottoming in "what is warrant, species-independently?" — which is the next probe's
+target, not a seventh repair. This is the cleanest floor the arc has reached: component -> joint -> constraint -> "for" ->
+anchor/outcome relation -> (open) the warrant that would split relations into kinds.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of

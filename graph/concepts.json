@@ -676,6 +676,19 @@
       },
       "status": "supported",
       "pairing": "CLOCK-041 (possibility -> requirement)"
+    },
+    {
+      "id": "requirement-as-relation",
+      "name": "Requirement as relation (two-place dependence)",
+      "def": "CLOCK-041/042: a requirement is a two-place dependence (anchor -> outcome) in the world, applied under a use-condition of registration (typically non-holder; the hermit's reflexive registration thins the necessity). Species (constitutive/causal vs deontic/normative) differ operationally but not yet explanatorily — 'differ in warrant' is circular until a species-independent account of warrant exists.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "supported",
+      "pairing": "CLOCK-041 + CLOCK-042"
     }
   ],
   "edges": [
