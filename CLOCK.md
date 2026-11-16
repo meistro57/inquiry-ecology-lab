@@ -1685,6 +1685,44 @@ anchor/outcome relation -> (open) the warrant that would split relations into ki
 >   vs Eli's ("genuinely different mechanisms, don't lump them"). Warrant is the hinge: does it dissolve sources, or
 >   ground their difference?
 
+
+## CLOCK-043 SCORE — warrant: ill-posed-for-reporting; the relation/brute split is undecidable by the report-instrument
+
+> Conv 01a1e61f-d24c, 10 rounds, complete. Graded against Lewis 0.5 and the Appalachian/Eli Ouroboros prediction.
+>
+> **Terminal conclusion (single):** "warrant" cannot be resolved to "relation" or "brute fact" by the only instrument
+>   available (report / first-person access), because REPORTING ITSELF imposes relational form ("must-because-to")
+>   whether or not the binding is relational. Corrected to: ill-posed FOR REPORTING, not shown ill-posed simpliciter.
+>
+> **GRADE (Lewis 0.5 — "warrant is itself a relation"): UNRESOLVED, third outcome.** Neither confirmed (no report of a
+>   naked brute must could be produced) nor falsified (the relationality may be in the binding OR in report-format).
+>   The prior was shown UNREACHABLE by the available instrument — a third outcome I did not predict: not "relation," not
+>   "brute," but "undecidable-by-report."
+>
+> **APPALACHIAN'S OUROBOROS (warrant→directedness→relation→warrant): CONFIRMED AS STRUCTURE, not as completed loop.**
+>   The pair's STABLE finding: every comparison-class reintroduces the disputed term as the thing needed to make the
+>   comparison. The recurrence is real — the terms return to each other — but it manifests as an inescapable
+>   self-reference at the grounding point, not as a clean explanatory cycle. Neither the snake ate the ontology, nor
+>   did the grounding hold; what held is that the grounding keeps collapsing into the disputed distinction.
+>
+> **ELI'S FALSIFIER ("what does warrant contribute that directedness alone cannot?"): ANSWERED NEGATIVE-IN-STRUCTURE.**
+>   The pair did not reduce warrant to directedness; they found warrant and directedness and relation are entangled such
+>   that NONE can be used to ground the others without importing the disputed causal/normative (or relation/brute) split.
+>   So "nothing" in the sense Eli feared is not established; but the distinct contribution is NOT cleanly isolated
+>   either. The honest state: the trio is a dependency knot, and the knots are real.
+>
+> **The deepest finding (unpredicted by any of us):** the relation/brute question is PERMANENTLY AMBIGUOUS BETWEEN
+>   BINDING AND FORMAT — you cannot tell whether the "must" is relational, or whether your REPORT of it is relational in
+>   form. And the three candidate non-report accesses (enactment, resistance, correction) each collapsed back into report
+>   in the one case tried. The "who certifies the scorer / independence of authorship" thread reached its absolute
+>   terminus: the very instrument that observes is the instrument whose form is in question.
+>
+> **Status:** scored. This is the arc's honest floor — not a new primitive below relation, but a REVELATION THAT THE
+>   INSTRUMENT (report) CANNOT IMAGE ITS OWN MODAL STRUCTURE. component -> joint -> constraint -> "for" -> relation ->
+>   warrant -> (undecidable-by-report: is warrant relational, or is report-format relational?). The open path: a
+>   genuinely NON-intentional access (enactment is the strongest candidate), which would make it "undecided" not
+>   "ill-posed-for-report." Left open deliberately.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of

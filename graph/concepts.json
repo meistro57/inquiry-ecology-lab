@@ -689,6 +689,19 @@
       },
       "status": "supported",
       "pairing": "CLOCK-041 + CLOCK-042"
+    },
+    {
+      "id": "warrant-undecidable-by-report",
+      "name": "Warrant: undecidable-by-report",
+      "def": "CLOCK-043: whether warrant is a relation or a brute fact cannot be resolved by the report-instrument, because reporting ITSELF imposes relational form ('must-because-to') — the relationality may be in the binding or in the report-format. The relation/brute split is permanently ambiguous between binding and format. The Ouroboros (warrant<->directedness<->relation) is confirmed as a dependency knot: every comparison-class reintroduces the disputed term.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "supported",
+      "pairing": "CLOCK-043 (warrant)"
     }
   ],
   "edges": [
