@@ -1883,6 +1883,22 @@ and name whether the asymmetry is descriptive or normative.
 operationalized, now auditable to "run-blocked / repair-condition unknown" instead of "asymmetry-biased." The asymmetry
 is real (holdable≠manipulable); the terse shorthand was hiding the framework's un-runnability.
 
+
+## CLOCK-047 — controllability profiles: does Affect/Coupling asymmetry resolve to a MEASUREMENT distinction? (pre-registration)
+
+> Appalachian's reframe: stop asking whether Affect should have gotten a node; MEASURE the four layers' operational
+> properties and compare. Score each of Object/Affect/Coupling/Method independently on: (1) ease of holding constant,
+> (2) ease of deliberate manipulation, (3) leakage into adjacent layers, (4) whether measurement perturbs the thing
+> measured. Then compare profiles.
+>
+> FROZEN PRIOR (Lewis, 0.5): outcome 2-leaning-3 — Affect is consistently HARDEST to hold/manipulate/measure-without-
+> perturbation (world-level asymmetry, consistent with CLOCK-046 holdable!=manipulable), and likely ALL FOUR layers diverge
+> (outcome 3), dissolving "Affect vs Coupling" into "each layer has distinct experimental affordances." Falsifier:
+> outcome 1 — if Affect and Coupling show SIMILAR profiles, the asymmetry is vocabulary-level and my prior is wrong.
+>
+> CAVEAT (honest, pre-registered): the probes REASON about controllability; they do not measure it empirically. This run
+> produces PREDICTED profiles, checkable later against a real system. That limit is itself part of the finding.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
