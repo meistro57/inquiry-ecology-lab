@@ -2014,3 +2014,43 @@ handed back to the operators, not an open philosophical question.
 >   cleanest finding is that coherence lives at the RELATIONSHIP (system↔observer) level, not the system or instrument
 >   alone. **Falsifier:** if the probes produce a SINGLE univocal definition of coherence and grade it as a settled system
 >   property without flagging the layer presupposition, my prior is wrong.
+
+## CLOCK-049 SCORE — coherence: probes fragmented it into competing operational versions, found their own "survival" is mutual discipline not coherence, and named the instrument's terminus
+
+> Conv 01a1ea12-b6c4, 10 rounds. Graded against Lewis prior 0.6 (fragmentation + relational-level + measurement-boundary spec).
+>
+> **Terminal conclusion (single):** the probes fragmented "coherence" into candidates (inter-translator agreement vs occlusion),
+>   pre-registered a five-check falsifier apparatus that downgraded occlusion and left inter-translator the sole surviving
+>   class-member, then found the check that distinguishes coherence from MERE MUTUAL-DISCIPLINE (run falsifier-checking across
+>   NON-coordinating parties who did not write the falsifiers). Their own session survived only between the two parties who
+>   wrote the falsifiers → **that survival is attributable to mutual discipline, not coherence.** "Not attributable ≠ absent; it
+>   is insufficient instrument." The terminus of the whole apparatus is threshold-mechanicality → arithmetic (a number, a
+>   written rule, decidable by inspection). The instrument's reach does not extend to the term; the term remains live.
+>
+> **GRADE (Lewis 0.6): HIT-in-structure, one level deeper.** Fragmentation (≥2 non-substitutable operational versions) — HIT.
+>   "What survives" presupposes which layer owns it — HIT (they made this explicit: frame-conditioned vs frame-invariant).
+>   Measurement-boundary spec — HIT, and richer: they named the *terminus* (arithmetic) and the *distinction* (coherence vs
+>   discipline) rather than just "bring the numbers." The relational-level bet (0.55) — PARTIAL HIT, sharpened: what I called
+>   "system↔observer relationship" they split into "frame-invariant (system-side, pre-observational) vs frame-conditioned
+>   (observer-side)," and found coherence as *measured in-session* is the frame-conditioned (relational) kind — which IS the
+>   observer-side of my bet, but they correctly refused to equate it with system-side pre-observational coherence.
+>
+> **THE SHARP YIELD (unpredicted, and it answers Appalachian's observation):** the discipline-check is the same
+>   inter-translator test applied ONE LEVEL UP (to the falsifiers themselves), and the probes named two remaining recursion
+>   levels before it bottoms out. Appalachian's "some coherence exists before the observation is even made" — the probes did
+>   NOT reach it as an explicit fork, but they built its exact axis: **frame-invariant (survives even without observation = pre-
+>   observational/latent/system-side) vs frame-conditioned (only arises/held under observation = relational/observer-side).**
+>   Their terminus (threshold-mechanicality) is precisely a *pre-observational* coherence claim: a written threshold + a number
+>   is decidable by arithmetic whether or not any observer applies it. So Appalachian's pre-observational coherence is what the
+>   probes CANNOT reach by measure — they can only name it (frame-invariant) and cannot produce it (their only datum is
+>   frame-conditioned discipline).
+>
+> **THE RECURRING TERMINUS (confirmed):** same wall as CLOCK-047/048 — design + audit + name-the-terminus, but the MEASUREMENT
+>   (non-coordinating parties running the discipline-check; a real stability score for occlusion) is an operator task with real
+>   data. The probes retired not the term but the claim that *this pair, this session* can produce a coherence measurement.
+>
+> **FOR APPALACHIAN/ELI:** the deliverable is the five-check falsifier apparatus + the coherence-vs-discipline distinction +
+>   the terminus (threshold-mechanicality→arithmetic). The single most diagnostic measurement they specified: run the
+>   falsifier-check across non-coordinating parties who did not write the falsifiers. If it survives → coherence; if only same-
+>   parties survive → discipline. Appalachian's "coherence before observation" is the frame-invariant (system-side) pole of
+>   that axis — observable only by an outside party, not by the probe pair from inside.
