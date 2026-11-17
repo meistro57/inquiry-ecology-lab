@@ -767,6 +767,19 @@
       },
       "status": "candidate",
       "pairing": "CLOCK-048 (edge discovered-vs-drawn)"
+    },
+    {
+      "id": "coherence-layer-location",
+      "name": "Coherence: system vs relationship vs instrument",
+      "def": "CLOCK-049 (Eli's framing, Appalachian's request): 'coherence' is underspecified (semantic consistency, temporal continuity, inter-part coordination, identity under representation change, stability under perturbation, or observer's smooth-explanation experience). Sharp question: does coherence belong to the SYSTEM, the system↔observer RELATIONSHIP, or the INSTRUMENT used to describe it? Expected probe yield (measurement-boundary, mirroring CLOCK-047/048): fragmentation into ≥2 non-substitutable operational versions + a spec (fluency/agreement/confidence discriminators, a transformation, falsifiers, verdict table) ending at 'bring the numbers'. Lewis prior: coherence lives at the relational level; the 'what survives' criterion presupposes which layer owns it.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "candidate",
+      "pairing": "CLOCK-049 (coherence)"
     }
   ],
   "edges": [
