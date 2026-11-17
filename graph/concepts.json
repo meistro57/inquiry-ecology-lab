@@ -780,6 +780,19 @@
       },
       "status": "candidate",
       "pairing": "CLOCK-049 (coherence)"
+    },
+    {
+      "id": "latent-accessible-stable-ontology",
+      "name": "Coherence ontology: latent/accessible/stable × intrinsic/relational/representational",
+      "def": "CLOCK-050 (Appalachian): three epistemic registers — Latent (exists independent of observation), Accessible (appears through one observer-instrument pair, C_accessible=f(C_latent,Observer,Instrument)), Stable (residue surviving MANY pairs, C_stable=⋂ C_accessible,i). Three kinds — Intrinsic (system self-maintained), Relational (emergent in coupling), Representational (visible through description). PREDICTION: if intrinsic/latent coherence is real, increasing observer+instrument diversity → convergence (one common source, many shadows); if instrument-generated → divergence (local discipline evaporates on frame-change). Non-invertibility: latent←accessible exact inversion impossible (observer inside instrument); convergence is asymptotic only.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 5,
+        "living": 4
+      },
+      "status": "candidate",
+      "pairing": "CLOCK-050 (coherence ontology)"
     }
   ],
   "edges": [
@@ -1182,6 +1195,11 @@
       "from": "anchor-held-outcome-registration",
       "to": "operations-vs-constraints",
       "type": "relates"
+    },
+    {
+      "from": "coherence-layer-location",
+      "to": "latent-accessible-stable-ontology",
+      "type": "sharpens"
     }
   ]
 }
