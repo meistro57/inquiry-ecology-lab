@@ -1795,6 +1795,42 @@ anchor/outcome relation -> (open) the warrant that would split relations into ki
 > affect re-labelling. Falsifier: if Affect proves independently load-bearing (does work Object/Method/Coupling
 > cannot), the prior is wrong.
 
+
+## CLOCK-045 SCORE — 4-cell framework audit: dual-subject asymmetry-bias; Affect is the displaced term, not Coupling-in-disguise
+
+> Conv 01a1e84f-afa1, 10 rounds, complete. Graded against Lewis prior 0.55 ("Affect = Coupling-in-disguise").
+>
+> **Terminal conclusion (single):** the 2x3 protocol is STRUCTURALLY DUAL-SUBJECT — rows 1 and 2 require BOTH interiors
+>   (Affect) and relations (Coupling) to run — but it names the complex with a single glyph: Coupling gets a dedicated
+>   NODE (row 2 manipulate), while Affect is demoted to a HELD CONSTANT / manipulated variable. The framework is
+>   asymmetry-biased toward relations over interiors.
+>
+> **GRADE (Lewis 0.55): PARTIAL — right term, wrong mechanism (my prior was refuted in a sharper direction).** I predicted
+>   Affect COLLAPSES into Coupling (redundant relabel). The probes found the opposite: Affect is the DISPLACED term —
+>   BOTH are required (dual-subject), but Coupling is privileged with a node while Affect is held as a constant. That is a
+>   design BIAS, not a redundancy. My prior named the right suspect; it misdiagnosed the pathology as "Affect is extra"
+>   when it is actually "Affect is under-represented."
+>
+> **THE FINDING (V2's, flagged as candidate, with a falsifier):** the framework's coupling-privilege is either (a) a
+>   DESIGN DEFECT (it flattened interiors into the relation glyph) or (b) an HONEST reporting of a real world-asymmetry —
+>   interiors ARE harder to hold than relations (a holder has agency over its affect and will respond; a relation is
+>   external to both). Falsifier: if Affect is symmetrically holdable to Coupling in practice, the bias is a vocabulary
+>   fiction; if Affect is harder to hold, the framework is correctly reporting the world.
+>
+> **The final named unknown (the clean stop):** is the asymmetry DESCRIPTIVE (world is honestly asymmetric) or NORMATIVE
+>   (framework failed to privilege correctly)? The pair could not name the operation that decides, and correctly refused
+>   to pick — this is the "who certifies the scorer / object vs method vs coupling" thread applied to the framework's own
+>   central term.
+>
+> **Meta:** the probes audited their OWN finding as rigorously as the framework — V1 refused to call the exchange
+>   "productive" without a surviving third-party object; V2 flagged that elevating its own "dual-subject" to "finding"
+>   was the presuppositional asymmetry it had just caught V1 doing. The run's product is a BUILDABLE TEST SEQUENCE + one
+>   candidate finding with a named falsifier, not a tidy verdict.
+>
+**Status:** scored. The framework's deepest latent defect (or honest structure) is a COUPLING-PRIVILEGE over Affect,
+manifest as a node-asymmetry. Left to the author: run the symmetry check (is Affect holdable as easily as Coupling?),
+and name whether the asymmetry is descriptive or normative.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of

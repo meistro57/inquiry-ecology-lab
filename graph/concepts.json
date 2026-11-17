@@ -715,6 +715,19 @@
       },
       "status": "supported",
       "pairing": "CLOCK-044 (deliberate failure case)"
+    },
+    {
+      "id": "dual-subject-asymmetry",
+      "name": "Dual-subject asymmetry (Coupling-privilege over Affect)",
+      "def": "CLOCK-045: a 2x3 framework requiring BOTH interiors (Affect) and relations (Coupling) but naming the complex with a single glyph — Coupling gets a node, Affect is held as a constant. The asymmetry is either a design defect (interiors flattened into the relation) or honest reporting of a real world-asymmetry (interiors ARE harder to hold than relations). Falsifier: the symmetry check (is Affect holdable as easily as Coupling?).",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "candidate",
+      "pairing": "CLOCK-045 (4-cell framework audit)"
     }
   ],
   "edges": [
