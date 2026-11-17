@@ -1936,6 +1936,18 @@ is real (holdable≠manipulable); the terse shorthand was hiding the framework's
 found the measurement presupposes the answer, and stopped there rather than fabricate a verdict. A/B/C stays open until
 someone specifies a stability-based (non-value-pinning) hold-operation; the probes handed back a falsifier + a candidate.
 
+
+## CLOCK-048 — "what counts as an edge, and does the system discover it or the instrument draw it?" (Eli's question)
+
+> Probe target: Eli's edge-topology question, the continuation of the measurement-mirror (CLOCK-047). Is the EDGE (the
+> boundary of a stable region / transition) a property of the SYSTEM (discovered) or the INSTRUMENT (drawn)?
+>
+> FROZEN PRIOR (Lewis, 0.55): the edge is CO-IMPLIED — neither purely discovered nor purely drawn. The discriminateable
+> version: an edge is DISCOVERED iff it is INVARIANT under instrument-change (stable across measurement schemes); DRAWN
+> iff it moves when the instrument changes. This is Eli's "perturb the instrument, hold the target" applied to the edge
+> itself. Falsifier: if the probes find edges are cleanly all-discovered or all-drawn (no co-implication), the prior is
+> wrong.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
