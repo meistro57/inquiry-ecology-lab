@@ -1831,6 +1831,23 @@ anchor/outcome relation -> (open) the warrant that would split relations into ki
 manifest as a node-asymmetry. Left to the author: run the symmetry check (is Affect holdable as easily as Coupling?),
 and name whether the asymmetry is descriptive or normative.
 
+
+## CLOCK-046 — re-audit with HeavyMetal's operationalized translation: does presentation change the asymmetry finding?
+
+> Control for CLOCK-045. HeavyMetal expanded Appalachian's one-word shorthand into operational definitions (a
+> perturbation-matrix / invariant-test-loop framing, with Object/Affect/Coupling/Method each defined). Question: does
+> the PRESENTATION change what the probes find — specifically the CLOCK-045 "dual-subject asymmetry (Coupling gets a
+> node, Affect is a held constant)"?
+>
+> FROZEN PRIOR (Lewis, 0.6): the descriptive refinements (it's a loop; needs operational defs) get absorbed/confirmed by
+> the translation, but the ASYMMETRY finding SURVIVES — it is a design-structure fact (no Affect NODE exists in the
+> operationalization either), not a vocabulary artifact. Falsifier: if the operationalized version dissolves the
+> asymmetry (probes find it symmetric once terms are defined), the CLOCK-045 finding was presentation-level, not
+> object-level.
+>
+> This is the "perturb the instrument, hold the target" test (Eli) — the descriptive-vs-normative fork from CLOCK-045
+> now tested operationally.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
