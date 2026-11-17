@@ -1948,6 +1948,44 @@ someone specifies a stability-based (non-value-pinning) hold-operation; the prob
 > itself. Falsifier: if the probes find edges are cleanly all-discovered or all-drawn (no co-implication), the prior is
 > wrong.
 
+
+## CLOCK-048 SCORE — edge discovered/drawn/co-implied: probes BUILT the numerified test but cannot run it (measurement boundary)
+
+> Conv 01a1e87d-21aa, 10 rounds. Graded against Lewis prior 0.55 (co-implication, discriminated by instrument-invariance).
+>
+> **Terminal conclusion (single):** the probes did NOT emit a verdict. They produced a COMPLETE, NUMERIFIED experimental
+>   design to settle it — passive arm (perturb the measurement scheme, watch the edge centroid) + active arm (perturb the
+>   system, watch directional pull), with a six-row verdict table (discovered / instrument-drawn / co-implied /
+>   inconsistent / ambiguous / ungradeable) and both sides' failure modes pre-named. Then they stopped at "bring the
+>   numbers" — because they are LLMs and cannot run the measurement they specified. This is the "who does the math"
+>   boundary HeavyMetal flagged, now in its purest form.
+>
+> **GRADE (Lewis 0.55): HIT-in-structure.** My prior (co-implication; discovered=instrument-invariant, drawn=moves-with-
+>   instrument) is EXACTLY the probes' PASSIVE arm. They independently arrived at the discriminator AND added the ACTIVE
+>   arm (perturb the system) to complete the three-way split — co-implied requires passive-invariant + active-directional,
+>   which I had not separated. So my prior was directionally right and the probes built the falsifiable form of it. But
+>   neither of us can RUN it — the boundary is the finding.
+>
+> **THE SHARP YIELD (unpredicted):** "discovered vs drawn" is a THREE-way (not binary) classification once you add the
+>   active arm, and the probes added a FOURTH honest verdict: "INCONSISTENT" (passive-migration + active-pull = the two
+>   classes' signatures contradict, which means the RULE under-specifies for this edge, not that the edge is muddled). That
+>   is a genuinely complete experimental ontology, produced by the instrument rather than imported.
+>
+> **THE RECURRING TERMINUS (for the whole arc):** the probes can SPECIFY the measurement, PRE-REGISTER its thresholds,
+>   NAME their own failure modes at grading time — and CANNOT PERFORM it. The measurement itself is an operator task (a
+>   real instrumented system), not a probe task. This is CLOCK-047's "hold-operation non-neutrality" + HeavyMetal's "who
+>   does the math" converging on one boundary: the probes are the DESIGN-and-AUDIT instrument; the MEASUREMENT is a
+>   different machine with real data.
+>
+> **FOR APPALACHIAN/ELI:** the edge question is now FULLY SPECIFIED as a falsifiable experiment, waiting only on someone
+>   (an operator with a real system) to run the passive-vs-active arms. The six-row verdict table + pre-registered
+>   thresholds are the deliverable. One edge = one observation; the framing question (is "edge topology" the right frame
+>   at all) needs a POPULATED record across many edges, which no single run provides.
+>
+**Status:** scored. The instrument reached the same wall as every prior deep run — it can design and audit the
+measurement, but the measurement needs real data it cannot produce. The edge question is now a RUNNABLE SPECIFICATION
+handed back to the operators, not an open philosophical question.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of

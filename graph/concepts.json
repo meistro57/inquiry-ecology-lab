@@ -754,6 +754,19 @@
       },
       "status": "candidate",
       "pairing": "CLOCK-047 (controllability audit)"
+    },
+    {
+      "id": "discovered-drawn-coimplied",
+      "name": "Edge: discovered vs drawn vs co-implied",
+      "def": "CLOCK-048: to settle whether an edge is system-discovered or instrument-drawn, use a PASSIVE arm (perturb the measurement scheme; edge centroid migrates => drawn) + an ACTIVE arm (perturb the system; directional pull => co-implied). Co-implied = passive-invariant + active-directional. A FOURTH honest verdict, INCONSISTENT, marks a pattern that mixes the classes' signatures => the rule under-specifies. The measurement is operator-runnable; the probes delivered the specification, not the data.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "candidate",
+      "pairing": "CLOCK-048 (edge discovered-vs-drawn)"
     }
   ],
   "edges": [
