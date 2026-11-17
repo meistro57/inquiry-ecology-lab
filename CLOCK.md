@@ -2054,3 +2054,31 @@ handed back to the operators, not an open philosophical question.
 >   falsifier-check across non-coordinating parties who did not write the falsifiers. If it survives → coherence; if only same-
 >   parties survive → discipline. Appalachian's "coherence before observation" is the frame-invariant (system-side) pole of
 >   that axis — observable only by an outside party, not by the probe pair from inside.
+
+## CLOCK-050 — Appalachian's coherence ontology + the diversity-convergence prediction (pre-registration, no probe run yet)
+
+> Target: Appalachian extends the CLOCK-049 coherence result into an ontology, then a FALSIFIABLE prediction. Three epistemic
+>   registers — Latent (exists independent of observation), Accessible (appears through one observer-instrument pair,
+>   C_accessible = f(C_latent, Observer, Instrument)), Stable (the residue surviving across MANY pairs, C_stable = ⋂_i
+>   C_accessible,i, conceptually-not-literally a set intersection). Three KINDS — Intrinsic (system self-maintained), Relational
+>   (emergent in coupling), Representational (visible through a description/model/language). Intrinsic ↔ Latent register.
+>
+> **THE PREDICTION (Appalachian's, pre-registered):** if intrinsic/latent coherence is real, increasing the DIVERSITY of
+>   observers and instruments reveals INCREASING cross-frame invariants (convergence: one common source casting many shadows);
+>   if coherence is entirely instrument-generated, increasing diversity reveals DIVERGENCE (local agreement = local discipline,
+>   evaporating on frame-change). Complete inversion (latent ← accessible) is impossible, but asymptotic approximation is
+>   not — "the mountain can't be seen from nowhere, but it can be walked from enough directions."
+>
+> **Lewis prior (frozen, conf 0.65):** the diversity-convergence prediction is CORRECT IN DIRECTION and is the right
+>   falsifiable form — it is the probes' discipline-check (CLOCK-049) generalized from one two-party test to a RATE across N
+>   frames. But it carries one smuggled assumption worth naming before it's run: "increasing observational diversity" presumes
+>   observer and instrument can be varied INDEPENDENTLY, when in fact the observer is inside the instrument (the CLOCK-049
+>   non-invertibility, now appearing in the prediction's DESIGN rather than the result's interpretation). So the predicted
+>   convergence is ASYMPTOTIC only — you converge on the shadow-locus, not on the latent source, and the residual gap is
+>   exactly the non-invertible term. **Falsifier of my prior:** if a clean independent-variable sweep (observer ⊥ instrument)
+>   exists and the convergence rate is exact rather than asymptotic, my "smuggled assumption" is not load-bearing.
+>
+> **Status:** frozen as prediction-under-test. No probe run ordered yet — this is the pre-registration Appalachian explicitly
+>   requested before any CLOCK-050 run. Next fork (open): (a) freeze-as-is and wait, or (b) arm the probes WITH this ontology and
+>   ask whether a second pass can now HOLD the intrinsic/latent pole (rather than only name it), or confirm the
+>   non-invertibility. The second is the more interesting experiment.
