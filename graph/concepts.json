@@ -728,6 +728,19 @@
       },
       "status": "candidate",
       "pairing": "CLOCK-045 (4-cell framework audit)"
+    },
+    {
+      "id": "holdable-vs-manipulable",
+      "name": "Holdable ≠ manipulable",
+      "def": "CLOCK-046: the framework asymmetry survives operationalization and lives DEEPER than nodal status — it is the OPERATIONAL asymmetry that what you can HOLD differs from what you can MANIPULATE, per component. Arithmetic-symmetric (all four in the loop) but operationally asymmetric. This is presentation-independent (survived the terse->operational translation), i.e. object-level, not vocabulary-level.",
+      "scores": {
+        "coherence": 5,
+        "relational": 5,
+        "viability": 4,
+        "living": 4
+      },
+      "status": "candidate",
+      "pairing": "CLOCK-046 (operationalized re-audit)"
     }
   ],
   "edges": [

@@ -1848,6 +1848,41 @@ and name whether the asymmetry is descriptive or normative.
 > This is the "perturb the instrument, hold the target" test (Eli) — the descriptive-vs-normative fork from CLOCK-045
 > now tested operationally.
 
+
+## CLOCK-046 SCORE — operationalized re-audit: presentation changed the DEPTH of audit; asymmetry survived as holdable≠manipulable
+
+> Conv 01a1e85b-0025, 10 rounds. Graded against Lewis prior 0.6 ("asymmetry survives presentation change").
+>
+> **ANSWER TO HEAVYMETAL'S QUESTION (does translation alter the results?): YES — it changed the DEPTH the framework even
+>   admits, and the finding sharpened rather than dissolved.**
+>
+>   Terse version (CLOCK-045) -> probes found a NODAL asymmetry ("Coupling gets a node, Affect is a held-variable").
+>   Operationalized version (CLOCK-046) -> probes pinned the asymmetry DEEPER: holdable != manipulable. The framework is
+>   ARITHMETIC-symmetric (all four in the loop) but OPERATIONALLY asymmetric (what you can hold vs manipulate differs per
+>   component). AND the operational defs exposed NEW, harsher findings the terse version could not: (1) OFAT cannot detect
+>   the interactions the premise asserts; (2) Method->Object is DEFINITIONAL until Object is independently
+>   operationalized; (3) reference drift + OFAT-blindness compound into CONFIDENT misattributions. Verdict floor:
+>   RUN-BLOCKED, repair-condition unknown (no prior met), value-question open.
+>
+> **GRADE (Lewis 0.6): HIT-with-sharpening.** The asymmetry SURVIVED (my prior correct), but relocated from nodal to
+>   operational (holdable vs manipulable) — a more robust, presentation-independent location. Falsifier did not fire;
+>   the asymmetry is NOT a vocabulary artifact.
+>
+> **THE META-FINDING (why HeavyMetal's question was the right experiment):** presentation controls audit-DEPTH. The
+>   terse version masked how much must be built before the framework is runnable; the operational version surfaced
+>   "run-blocked." This is a direct hit on Eli's "perturb the instrument, hold the target" test: the target (framework)
+>   was held, the instrument (its textual presentation) was perturbed, and the RESULT changed — proving the CLOCK-045
+>   audit was partly reading presentation, not just object. The asymmetry is object-level; the "how runnable is this"
+>   question is presentation-level, and the two versions gave different answers to the second.
+>
+> **Left open by the probes (correctly):** admissibility of an external reference-sampling channel (the whole
+>   repairable-vs-not fork rests on it, unargued); and whether the interaction is worth testing at this resolution
+>   (value, distinct from feasibility).
+>
+**Status:** scored. HeavyMetal's translation was a clean experimental control and it paid off: same framework,
+operationalized, now auditable to "run-blocked / repair-condition unknown" instead of "asymmetry-biased." The asymmetry
+is real (holdable≠manipulable); the terse shorthand was hiding the framework's un-runnability.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
