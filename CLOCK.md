@@ -1994,3 +1994,23 @@ handed back to the operators, not an open philosophical question.
   be the definitive registry. Real consequence (does a distinction change a decision
   weeks later) still needs the compost + time; this clock is the *fast* reality we
   can already test against.
+
+## CLOCK-049 — "coherence": what is claimed to remain coherent, for whom, across which transformation, and what shows it failed? (Eli's framing, Appalachian's request)
+
+> Probe target: Eli's coherence question, a continuation of the measurement-mirror (CLOCK-047/048). "Coherence" is
+>   underspecified — it may mean semantic consistency, temporal continuity, inter-part coordination, identity under
+>   representation change, stability under perturbation, or the observer's smooth-explanation experience. Treat these as
+>   competing hypotheses. The sharp form: does coherence belong to the SYSTEM, the system↔observer RELATIONSHIP, or the
+>   INSTRUMENT used to describe it? Request a probe that (1) defines ≥2 operational versions, (2) distinguishes coherence
+>   from fluency/repetition/agreement/confidence, (3) specifies a transformation, (4) predicts what survives if present,
+>   (5) names falsifiers, (6) marks what needs real measurement. Also request "ungradeable" if the term can't be
+>   operationalised without smuggling in the preferred answer.
+>
+> **Lewis prior (frozen, conf 0.6):** the probes will NOT settle system-vs-observer-vs-instrument; they will fragment
+>   coherence into ≥2 non-substitutable operational versions and find that any "what survives" criterion presupposes which
+>   layer owns it (recapitulating CLOCK-047 hold-non-neutrality / CLOCK-048 co-implication). Highest-probability deposit:
+>   they deliver a SPEC (operational versions, fluency/agreement/confidence discriminators, a transformation, falsifiers,
+>   a verdict table) and stop at "bring the numbers" — measurement boundary again. Sharp yield (my bet, conf 0.55): the
+>   cleanest finding is that coherence lives at the RELATIONSHIP (system↔observer) level, not the system or instrument
+>   alone. **Falsifier:** if the probes produce a SINGLE univocal definition of coherence and grade it as a settled system
+>   property without flagging the layer presupposition, my prior is wrong.
