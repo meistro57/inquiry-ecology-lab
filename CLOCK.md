@@ -1783,6 +1783,18 @@ anchor/outcome relation -> (open) the warrant that would split relations into ki
 >   guessed at: the "reality vs method" fork is undecidable-by-grading —— which is exactly Appalachian's own conservative
 >   finding, now with a proof-shaped reason behind it.
 
+
+## CLOCK-045 — audit Appalachian's 4-cell experimental framework (Object/Affect/Coupling/Method)
+
+> The probes audit the candidate METHODOLOGY: a 4-term cycle (Object->Affect->Coupling->Method->Object) with a hold-
+> constant / manipulate / observe-changes protocol. Is it load-bearing, coherent, missing cells, or collapseable
+> into the existing object/method/coupling ontology?
+>
+> FROZEN PRIOR (Lewis, 0.55): the table is a CYCLE, and "Affect" is the suspect axis — it may map onto "coupling"
+> (the relation) rather than be a genuinely independent variable, making the 4-cycle secretly a 3-cycle plus an
+> affect re-labelling. Falsifier: if Affect proves independently load-bearing (does work Object/Method/Coupling
+> cannot), the prior is wrong.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
