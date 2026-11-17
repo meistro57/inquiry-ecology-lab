@@ -1899,6 +1899,43 @@ is real (holdable≠manipulable); the terse shorthand was hiding the framework's
 > CAVEAT (honest, pre-registered): the probes REASON about controllability; they do not measure it empirically. This run
 > produces PREDICTED profiles, checkable later against a real system. That limit is itself part of the finding.
 
+
+## CLOCK-047 SCORE — controllability profiles: the A/B/C arbitration is UNDESIGNABLE — the hold-operation is non-neutral
+
+> Conv 01a1e866-e727, 10 rounds. Graded against Lewis prior 0.5 ("outcome 2-leaning-3").
+>
+> **Terminal conclusion (single):** the probes produced four PREDICTED controllability profiles, then discovered the
+>   MEASUREMENT CANNOT ARBITRATE A/B/C — because the "hold" operation is defined as VALUE-PINNING, which presupposes
+>   which layers are holdable. Object and Method pin to a value (stable by construction); Affect adapts to being pinned
+>   ("a mood being held" is not the mood). So the clamp is OBJECT-SHAPED; the instrument picks winners by its own
+>   definition of "hold." The A/B/C question is OPEN because UNSPECIFIABLE with current tools, not answered.
+>
+> **GRADE (Lewis 0.5): SUPERSEDED.** My prior predicted outcome 2-or-3 (world-level divergence). The probes went one
+>   level DEEPER: the outcome-space itself is unreachable — you cannot score "ease of holding constant" without a
+>   hold-operation, and every hold-operation so far is value-pinning, which already favors Object/Method over Affect.
+>   My prior was directionally right (profiles diverge) but failed to see the arbitration is UNINTERPRETABLE as-designed.
+>
+> **THE DEEP RESULT (recapitulates CLOCK-043 warrant, now applied to MEASUREMENT):** the instrument cannot audite its own
+>   measurement criterion no more than it could image its own modal structure. "Holdable" is itself a criterion that
+>   contains a theory of which layers CAN be held. To measure whether Affect is harder to hold than Coupling, you need a
+>   hold-operation that does not presuppose value-pinning — a STABILITY-PROPERTY-under-observation, not setpoint equality.
+>   The probes supplied a FALSIFIER for such an operation AND a candidate (variance-below-free-running-variance), and
+>   then honestly flagged that even a WORKING neutral clamp does NOT rescue the "Affect is harder" reading — that is a
+>   separate measurement.
+>
+> **The key honest clauses the pair left:** (1) authorship correction — V2 had mis-attributed the void to a "shared"
+>   failure when it was V2's own clamp; (2) "full stop" retracted to "we don't have one YET"; (3) the falsifier for a
+>   non-value-pinning hold (stability-under-observation, not setpoint-equality).
+>
+> **FOR APPALACHIAN:** the reframe ontology->controllability was CORRECT and productive, but it surfaced that
+>   "controllability" is itself not yet neutrally measurable — "hold" has a built-in theory of holdability. The
+>   holdable!=manipulable asymmetry is real, but MEASURING it waits on a hold-operation that doesn't presuppose
+>   value-pinning. That is the actual open item, and it is a measurement-design problem, not an ontology problem.
+>
+**Status:** scored. The instrument did the purest thing it's done all arc: it asked "can this measurement arbitrate,"
+found the measurement presupposes the answer, and stopped there rather than fabricate a verdict. A/B/C stays open until
+someone specifies a stability-based (non-value-pinning) hold-operation; the probes handed back a falsifier + a candidate.
+
 ## Honest limits
 
 - The **scorer is still us** (me reading transcripts). A frozen prior gets most of
